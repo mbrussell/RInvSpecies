@@ -1,0 +1,72 @@
+---
+title: "Infested waters"
+author: "Matt Russell"
+date: "11/3/2020"
+output: html_document
+---
+---
+title: "Infested waters"
+author: "Matt Russell"
+date: "10/31/2020"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+Read in the data
+
+```{r}
+waters <- read_csv('infested-waters.csv')
+```
+
+See the data.
+
+```{r}
+waters
+head(waters)
+```
+
+Plot the data:
+```{r}
+ggplot(data = waters, aes(Species)) +
+  geom_bar()+
+  coord_flip()
+
+```
+
+Filter the data
+```{r}
+waters %>% 
+  filter(Species == "zebra mussel")
+
+waters %>% 
+  filter(Species == "zebra mussel" & YearInfested  == 2020)
+```
+
+Plot the data by year added.
+```{r}
+waters_year <- waters %>% 
+  group_by(YearInfested ) %>% 
+  summarize(num_waters = n())
+
+ggplot(data = waters_year, aes(x = YearInfested, y = num_waters)) +
+  geom_point() +
+  geom_line()
+```
+
+Plot the data by year added and list.
+```{r}
+waters_year_list <- waters %>% 
+  group_by(YearInfested, Species) %>% 
+  summarize(num_waters = n())
+
+ggplot(data = waters_year_list, aes(x = YearInfested, y = num_waters)) +
+  geom_point() +
+  geom_line() +
+  facet_wrap(~Species)
+```
+
+
+
