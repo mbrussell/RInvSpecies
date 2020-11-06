@@ -1,72 +1,195 @@
 ---
-title: "Infested waters"
+title: "Minnesota DNR infested waters"
 author: "Matt Russell"
-date: "11/3/2020"
+date: "11/6/2020"
 output: html_document
 ---
----
-title: "Infested waters"
-author: "Matt Russell"
-date: "10/31/2020"
-output: html_document
----
+
+## 1. About R Markdown documents
+
+This is an R Markdown document, denoted with a .Rmd file extension. Markdown is a simple formatting syntax for authoring HTML, PDF, and Microsoft Word documents. It is great for mixing R code with written text and results like tables and figures.
+
+When you click the **Knit** button in RStudio, a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk and it appears in gray. You can hit the green "play" button to run the code:
+
+```{r}
+2 + 2
+```
+
+In R, if you place a hashtag in front of code, it will treat the line of code as text and will not run it. This is often useful for making text comments within your code blocks:
+
+```{r}
+# 2 + 2
+# Two plus two is four.
+```
+
+## 2. Installing and loading packages 
+
+The **tidyverse** package in R is a “megapackage” that includes several packages that import, reshape, and visualize data in a consistent manner, among other tasks. You can install the **tidyverse** package with the following line of code (first, remove the hashtag in front of it):
+
+```{r}
+# install.packages("tidyverse")
+```
+
+After installing the package, you will need to load it using the `library()` command to use its functions:
 
 ```{r}
 library(tidyverse)
 ```
 
-Read in the data
+Interestingly, few statistical functions are available in the **tidyverse** package. So why spend the time learning about it? The **tidyverse** has emerged as an excellent foundation to learn about statistics through its philosophy of organizing and manipulating data. We will use the package to import, wrangle, and visualize data.
+
+## 3. Reading in data
+
+The Minnesota Department of Natural Resources maintains a Infested Waters List. The list includes lakes, rivers, ponds or wetlands that contain an aquatic invasive species that could spread to other waters. The DNR may also list a lake, river, pond or wetland as infested if it is connected to a body of water where an aquatic invasive species is present. The data are available here: <https://www.dnr.state.mn.us/invasives/ais/infested.html>
+
+The data set includes the following variables:
+* `DOWnumber`: An identifying number for lakes. Most rivers and streams are listed without numbers. 
+
+* `WaterBody`: The name of the listed water body. 
+
+* `County`: County where water body is located. 
+
+* `Species`: aquatic invasive species recorded.  
+
+* `YearInfested`:  The year in which the water body was first added to the infested waters list. 
+
+* `YearConfirmed`: Either (1) the year in which the DNR first confirmed a population of the AIS in the water body, or (2) "connected" to indicate that we listed the water body because it is connected to a water body where the AIS has been confirmed.
+
+We will read in the `infested-waters.csv` file using the `read_csv()` function in R. We will store this as a data set in R named `waters`:
 
 ```{r}
 waters <- read_csv('infested-waters.csv')
 ```
 
-See the data.
+A few handy functions allow you to inspect the contents of any data set in R. The `dim()` function returns the number of observations and variables, or dimensions in a data set:
 
 ```{r}
-waters
-head(waters)
+dim(waters)
 ```
 
-Plot the data:
+The `head()` and `tail()` functions return the first and last six lines of observations, respectively:
+
+```{r}
+head(waters)
+tail(waters)
+```
+
+## 4. Visualizing data with ggplot()
+
+Run the following code to plot data from the `waters` data set using the **ggplot2** package. In this example, we will create a bar plot showing the number of water bodies infested by each AIS: 
+
 ```{r}
 ggplot(data = waters, aes(Species)) +
-  geom_bar()+
+  geom_bar() +
   coord_flip()
-
 ```
 
-Filter the data
-```{r}
-waters %>% 
-  filter(Species == "zebra mussel")
+Now, we'll step through the code that produced the bar plot above: 
 
-waters %>% 
+* The `ggplot()` function tells R that we want to produce a plot, and we need to tell it which data set and variables to use.
+* The `data = ` statement specifies that we want to plot variables from the `waters` data set.
+* We specify the variables `Species` within the `aes()` statement. The `aes` is abbreviated for *aesthetics*, which allows us to change the properties of how the data are shown in the graph. As it turns out, we have not done anything special with the current aesthetics in the plot, but in the future we can add to the aesthetics by specifying different colors, shapes, and sizes to the data points.
+* The `geom_bar()` statement tells R that we want to produce a bar plot. There are many "geom" types that can plot different layers of objects depending on the nature of the data and what you want to see. 
+* The `coord_flip()` is an optional statement that will flip the x and y axes, making it easier to read the long AIS names.
+
+Note that we add a `+` at the end of the line when we use `ggplot()`. This indicates we have more instructions to R before creating our scatter plot.
+
+## 5. Wrangling data
+
+We are interested in subsetting the `waters` data set to obtain only zebra mussel observations. We'll use the`filter()` function for this and will name the new data set `zm`. 
+
+To do this, we will use what the tidyverse calls "the pipe". The pipe is written as `%>%`. The pipe is shorthand for saying "then" -- in other words, use my data set set named `waters`, then filter it to only get the zebra mussel-infested waters:
+
+```{r}
+zm <- waters %>% 
+  filter(Species == "zebra mussel")
+```
+
+You can also add an "&" to connect multiple statements. The following code will result in all of the zebra mussel-infested waters observed in 2020:
+
+```{r}
+zm_2020 <- waters %>% 
   filter(Species == "zebra mussel" & YearInfested  == 2020)
 ```
 
-Plot the data by year added.
+We can create new variables to existing data sets by using the `mutate()` function. As an example, we might be interested in making a new variable in the `zm` data set that calculates the number of years between when the zebra mussel was confirmed in a water body to when it became infested. The result is a new variable in the data called `YearsBetween`:
+
+```{r}
+zm <- zm %>% 
+  mutate(YearsBetween = YearInfested - YearConfirmed)
+zm
+```
+
+We will use the `summarize` function in **tidyverse** to calculate the number of infested waters named in each year. To do this, we will first use the `group_by()` function. We will group by the `YearInfested` variable. Then, we'll use the `summarize()` function to count the number of infested waters in each year:
+
 ```{r}
 waters_year <- waters %>% 
-  group_by(YearInfested ) %>% 
+  group_by(YearInfested) %>% 
   summarize(num_waters = n())
+waters_year
+```
 
+Now, we may be interested in making a plot that shows the number of new infested waters in each year. We can use `ggplot()` for this, with `YearInfested` on the x-axis and `num_waters` on the y-axis. Note we'll use `geom_point()` and `geom_line()` to plot the trends:
+
+```{r}
 ggplot(data = waters_year, aes(x = YearInfested, y = num_waters)) +
   geom_point() +
   geom_line()
 ```
 
-Plot the data by year added and list.
+We can use the `group_by()` function to group the data by any number of variables. Here is code that count the number of infested waters in each year for each AIS:
+
 ```{r}
 waters_year_list <- waters %>% 
   group_by(YearInfested, Species) %>% 
   summarize(num_waters = n())
+```
 
+Another way to easily see the differences in ranges of two numerical variables in a plot is to plot each level of a categorical variable in its own panel. The `facet_wrap()` function allows you to do this.
+
+We can modify the previous code to see the trends when specific AIS infested waters in Minnesota: 
+
+```{r}
 ggplot(data = waters_year_list, aes(x = YearInfested, y = num_waters)) +
   geom_point() +
   geom_line() +
   facet_wrap(~Species)
 ```
 
+## Practice problems
 
+**1.** In which year was the greatest number of new infestations observed in Minnesota waters? Make a bar plot that lists the number of AIS by year.
 
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**2.** On the `zm` data set, use the `min()` and `max()` functions to calculate the mean, minimum, and maximum values of the number of years between when the zebra mussel was confirmed in a water body to when it became infested (i.e., the `YearsBetween` variable. For example, to calculate the mean number of years between confirmed and infested, you could write `mean(zm$YearsBetween, na.rm = T)`. The `na.rm = T` is used to remove the missing values from the calculation.
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**3.** Filter the `waters` data to obtain a data set with starry stonewort observations from Beltrami County. How many water bodies are infested?
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**4.** Compile a data set with all Eurasian watermilfoil observations from all counties. Calculate the total number and mean number of years between when Eurasian watermilfoil was confirmed in a water body to when it became infested by each county. (HINT: Eurasian watermilfoil is observed in 39 counties.)
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**5.** Make a box plot using `geom_boxplot()` that shows the mean number of years between when Eurasian watermilfoil was confirmed in a water body to when it became infested by each county
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**6.** Make a bar plot using `geom_bar(stat = "identity")` that shows the number of Eurasian watermilfoil-infested waters in each county. Which county has the most infestations of Eurasian watermilfoil?
+
+```{r}
+# INSERT YOUR CODE HERE.
+```

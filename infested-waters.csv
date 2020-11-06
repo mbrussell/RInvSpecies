@@ -1,1187 +1,1160 @@
 DOWnum,WaterBody,County,Species,YearInfested,YearConfirmed
-21-0242,Aaron,Douglas,zebra mussel,2020,2020
-56-0031,Adley,Otter Tail,zebra mussel,2016,2016
-NA,Adley Creek from Big Birch to the Sauk River,Multiple (Todd and Stearns),zebra mussel,2016,connected to Big Birch (77-0084) and Sylvia (73-0249)
-49-0079,Alexander,Morrison,Eurasian watermilfoil,2004,2003
-49-0079,Alexander,Morrison,zebra mussel,2019,2019
-82-0287,Alice,Washington,Eurasian watermilfoil,2013,2012
-19-0021,Alimagnet,Dakota,Eurasian watermilfoil,2014,2012
-18-0440-06,Alstead Mine,Crow Wing,zebra mussel,2017,connected to Mahnomen Mine Pit #1 and #2 (18-0440-01 and 18-0440-02)
-21-0093,Alvin,Douglas,zebra mussel,2009,connected to Darling (21-0080)
 02-0014,Amelia,Anoka,flowering rush,2014,1968
-61-0064,Amelia,Pope,zebra mussel,2018,2018
-56-0381-01,Amor,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-32-0032,Anderson’s Marsh,Jackson,bighead carp,2012,connected water
-32-0032,Anderson’s Marsh,Jackson,silver carp,2012,connected water
-21-0085,Andrew,Douglas,zebra mussel,2016,2016
-34-0206,Andrew,Kandiyohi,Eurasian watermilfoil,2019,2019
-34-0206,Andrew ,Kandiyohi,zebra mussel,2018,connected to Norway (34-0251)
-04-0038,Andrusia,Beltrami,zebra mussel,2014,2016
-10-0012,Ann,Carver,Eurasian watermilfoil,1995,1995
-10-0012,Ann,Carver,brittle naiad,2017,2017
-56-0241,Annie Battle,Otter Tail,zebra mussel,2018,2018
-27-1140,"Arbor North (NW 1/4, SW 1/4, S23, T119N, R22W)",Hennepin,Eurasian watermilfoil,2006,2004
-none,"Arbor South (S 1/2, SW 1/4, S23, T119N, R22W)",Hennepin,Eurasian watermilfoil,2006,2004
-27-1130,Arbor West,Hennepin,Eurasian watermilfoil,2006,2004
-18-0440-07,Arco Mine,Crow Wing,zebra mussel,2017,connected to Mahnomen Mine Pit #1 and #2 (18-0440-01 and 18-0440-02)
-18-0438,Armour #2  Mine,Crow Wing,zebra mussel,2020,2020
-27-0045,Arrowhead,Hennepin,Eurasian watermilfoil,1996,1995
-18-0366,Arrowhead,Crow Wing,zebra mussel,2014,connected to Whitefish chain
-38-0021,Artlip,Lake,zebra mussel,2014,connected to Crooked (38-0024)
-NA,"Ash River downstream of the northern section line of S8 T68N, R19W",St. Louis,spiny waterflea,2007,connected to Kabetogema (69-0845)
-10-0044,Auburn,Carver,Eurasian watermilfoil,1995,1989
-86-0284,Augusta,Wright,Eurasian watermilfoil,1995,1993
-86-0284,Augusta,Multiple (Stearns and Wright),zebra mussel,2015,2017
-29-0208,Bad Axe,Hubbard,Eurasian watermilfoil,2017,2017
-62-0002,Bald Eagle,Ramsey,Eurasian watermilfoil ,1995,1989
-62-0002,Bald Eagle,Ramsey,flowering rush,2014,2013
-62-0002,Bald Eagle,Ramsey,zebra mussel,2018,2018
-31-0812,Ball Club,Itasca,zebra mussel,2020,2020
-07-0054,Ballantyne,Blue Earth,Eurasian watermilfoil,2013,2012
-26-0095,Barrett,Grant,zebra mussel,2018,2018
 02-0135,Bass,Anoka,flowering rush,2014,1968
-22-0074,Bass,Faribault,Eurasian watermilfoil,2019,2019
-27-0098,Bass,Hennepin,Eurasian watermilfoil,1998,1998
-56-0770,Bass,Otter Tail,zebra mussel,2009,2009
-56-0770,Bass,Otter Tail,flowering rush,2018,2018
-11-0220,Bass (or Ray),Cass,zebra mussel,2010,connected to Gull (11-0305)
-38-0645,Basswood,Lake,spiny waterflea,2014,2014
-NA,Basswood River between Basswood Lake and Crooked Lake,Lake,spiny waterflea,2014,connected to Basswood (38-0645)
-NA,Baudette River from 500 feet upstream of Highway 11 downstream to the Rainy River ,Lake of the Woods,spiny waterflea,2007,connected to Rainy River
+66-0008,Cannon,Rice,flowering rush,2007,1972
+03-0363,Curfman (Deadshot Bay),Becker,flowering rush,2007,1976
+03-0381,Detroit,Becker,flowering rush,2007,1976
+03-0475,Melissa,Becker,flowering rush,2007,1985
+16-0001,Superior,Multiple,spiny waterflea,1995,1987
+27-0133,Minnetonka,Hennepin,Eurasian watermilfoil,1995,1987
+10-0015,Virginia,Carver,Eurasian watermilfoil,1995,1988
+19-0446,Lac Lavon,Dakota,Eurasian watermilfoil,1995,1988
+27-0040,Lake of the Isles,Hennepin,Eurasian watermilfoil,1995,1988
+27-0085,Libbs,Hennepin,Eurasian watermilfoil,1995,1988
+27-0138,Peavey,Hennepin,Eurasian watermilfoil,1999,1988
+27-0141,Tanager,Hennepin,Eurasian watermilfoil,1999,1988
+55-0008,George,Olmsted,Eurasian watermilfoil,1995,1988
+82-0167,White Bear,Washington,Eurasian watermilfoil,1995,1988
+02-0003,Otter,Anoka,Eurasian watermilfoil,1995,1989
+03-0359,Sallie,Becker,flowering rush,2007,1989
+10-0009,Minnewashta,Carver,Eurasian watermilfoil,1995,1989
 10-0019,Bavaria,Carver,Eurasian watermilfoil,1995,1989
-30-0114,Baxter,Isanti,Eurasian watermilfoil,2018,2016
-18-0034,Bay,Crow Wing,Eurasian watermilfoil,1995,1992
-18-0034,Bay,Crow Wing,zebra mussel,2018,2017 (dead); 2018 (live)
-27-0031,Bde Maka Ska,Hennepin,zebra mussel,2018,2018
-09-0034,Bear,Carlton,Eurasian watermilfoil,2015,2015
-62-0016,Beaver,Ramsey,Eurasian watermilfoil,2005,2004
-73-0156,Becker,Stearns,zebra mussel,2018,connected by the Sauk River between Sauk (77-0150) and Becker (73-0156)
-86-0023,Beebe,Wright,Eurasian watermilfoil,1995,1993
-47-0049,Belle,McLeod,Eurasian watermilfoil,2018,2018
-04-0135,Beltrami,Beltrami,starry stonewort,2019,2019
-04-0130,Bemidji (includes Stump),Beltrami,zebra mussel,2018,2018
-NA,Bender Creek from Bender Creek Road downstream to First Crow Wing (29-0086),Hubbard,faucet snail,2019,connected to First Crow Wing (29-0086)
-29-0048,Benedict,Hubbard,zebra mussel,2017,connected to Leech
-18-0355,Bertha,Crow Wing,zebra mussel,2014,2017
-71-0082,Big,Sherburne,Eurasian watermilfoil,2007,2007
-71-0082,Big,Sherburne,zebra mussel,2020,2020
-77-0084,Big Birch,Multiple (Todd and Stearns),zebra mussel,2016,2016
-03-0576,Big Cormorant,Becker,zebra mussel,2015,2015
-71-0141,Big Elk,Sherburne,Eurasian watermilfoil,2020,2020
-73-0106,Big Fish,Stearns,zebra mussel,2018,2018
-NA,Big Fork River from 500 feet upstream of the public water access on Highway 11 downstream to the Rainy River,Koochiching,spiny waterflea,2007,connected to Rainy River
-29-0151,Big Mantrap,Hubbard,Eurasian watermilfoil,2020,2020
-82-0052,Big Marine,Washington,Eurasian watermilfoil,2005,2004
-56-0386-01,Big McDonald,Otter Tail,zebra mussel,2019,2019
-01-0157,Big Pine,Aitkin,zebra mussel,2018,2018
-18-0261,Big Pine,Crow Wing,zebra mussel,2014,connected to Whitefish chain
-56-0130,Big Pine,Otter Tail,zebra mussel,2020,connected to East Loon (56-0523)
-04-0031,Big Rice,Beltrami,zebra mussel,2014,connected to Cass (04-0030)
-01-0062,Big Sandy,Aitkin,flowering rush,2009,2008
-18-0315,Big Trout,Crow Wing,zebra mussel,2014,2013
-73-0102,Big Watab,Stearns,zebra mussel,2020,2020
-NA,Bigfork River between Dora (31-0882) and Itasca County Road 14 bridge,Itasca,zebra mussel,2019,2017
-62-0024,Birch,Ramsey,Eurasian watermilfoil,2006,2005
-71-0057,Birch,Sherburne,Eurasian Watermilfoil,2020,2020
-86-0066,Birch,Wright,Eurasian watermilfoil,2019,2019
-31-0834,Bird's Eye,Itasca,zebra mussel,2013,connected to Sand (31-0826)
-NA,Bishop Creek between North Long and Round (also known as Sugar Bush Creek),Crow Wing,zebra mussel,2015,connected to North Long (18-0372)
-NA,"Bishop Creek between Round and Gull (located in S35, T135N, R29W)",Crow Wing,zebra mussel,2010,2013
-18-0140,Black Bear,Crow Wing,zebra mussel,2006,connected to Mississippi River
-NA,"Black River, the south branch downstream of Highway 11 and the west branch downstream of Highway 147",Koochiching,spiny waterflea,2007,connected to Rainy River
-04-0069,Blackduck,Beltrami,faucet snail,2018,2018
-19-0059,Blackhawk,Dakota,Eurasian watermilfoil,2017,2014
-31-0561,Blackwater,Itasca,faucet snail,2016,2016
-56-0240,Blanche,Otter Tail,zebra mussel,2018,connected to Molly Stark and Annie Battle
-31-0533,Blandin Reservoir,Itasca,zebra mussel,2018,2018
-80-0034,Blueberry,Wadena,faucet snail,2018,2018
-73-0088,Bolfing,Stearns,zebra mussel,2017,connected to Knaus (73-0086)
-82-0054,Bone,Washington,Eurasian watermilfoil,2007,2006
-82-0054,Bone,Washington,zebra mussel,2019,2019
-18-0529,Boom,Crow Wing,zebra mussel,2006,connected to Mississippi River
-69-1064,Bottle,St. Louis,spiny waterflea,2014,connected to Basswood (38-0645)
-NA,Bottle River between Bottle Lake and Lac La Croix,St. Louis,spiny waterflea,2014,connected to Basswood (38-0645)
-29-0162,Boulder,Hubbard,faucet snail,2020,2020
-31-0813,Bowstring,Itasca,zebra mussel,2020,2020
-31-0813,Bowstring,Itasca,faucet snail,2015,2012
-NA,Bowstring River between Bowstring and Sand (31-0826),Itasca,zebra mussel,2020,connected to Bowstring Lake (31-0813)
-NA,Bowstring River between Little Sand (31-0853) and Dora (31-0882),Itasca,zebra mussel,2019,2017
-NA,Bowstring River from Sand downstream to Rice ,Itasca,zebra mussel,2013,2014
-84-0023,Breckenridge,Wilkin,zebra mussel,2013,2015
-19-0179,Bridge,Dakota,Eurasian watermilfoil,2016,2016
-21-0102,Brophy ,Douglas,zebra mussel,2011,2010
-56-1628,Brown,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
+10-0041,Zumbra,Carver,Eurasian watermilfoil,1995,1989
+10-0044,Auburn,Carver,Eurasian watermilfoil,1995,1989
+10-0059,Waconia,Carver,Eurasian watermilfoil,1995,1989
+16-0001,Superior,Multiple,zebra mussel,1995,1989
+27-0031,Calhoun,Hennepin,Eurasian watermilfoil,1995,1989
+27-0104,Medicine,Hennepin,Eurasian watermilfoil,1995,1989
+27-0176,Independence,Hennepin,Eurasian watermilfoil,1995,1989
+27-0181,Dutch,Hennepin,Eurasian watermilfoil,1995,1989
+27-0192,Rebecca,Hennepin,Eurasian watermilfoil,1995,1989
+62-0002,Bald Eagle,Ramsey,Eurasian watermilfoil ,1995,1989
+62-0038,Vadnais ,Ramsey,Eurasian watermilfoil,1995,1989
+86-0252,Clearwater,Wright,Eurasian watermilfoil,1995,1989
+,Minnehaha Creek,Hennepin,Eurasian watermilfoil,1995,1989
+02-0084,Crooked,Anoka,Eurasian watermilfoil,1995,1990
+10-0002,Riley,Carver,Eurasian watermilfoil,1995,1990
+10-0018,Schutz,Carver,Eurasian watermilfoil,1995,1990
+13-0041,Green,Chisago,Eurasian watermilfoil,1995,1990
+13-0047,Ellen,Chisago,Eurasian watermilfoil,1999,1990
+27-0039,Cedar,Hennepin,Eurasian watermilfoil,1995,1990
+27-0047,Bush,Hennepin,Eurasian watermilfoil,1995,1990
+27-0102,Schmidt,Hennepin,Eurasian watermilfoil,1995,1990
+27-0139,Forest,Hennepin,Eurasian watermilfoil,1995,1990
+27-0191,Sarah,Hennepin,Eurasian watermilfoil,1995,1990
+33-0028,Knife,Kanabec,Eurasian watermilfoil,1995,1990
+69-0372,Island,St. Louis,spiny waterflea,1995,1990
+69-0491,Fish,St. Louis,spiny waterflea,1995,1990
+86-0233,Sugar,Wright,Eurasian watermilfoil,1995,1990
+,Cloquet River from Island Lake to the St. Louis River,St. Louis,spiny waterflea,1995,1990
+10-0006,Lotus,Carver,Eurasian watermilfoil,1995,1991
+10-0053,Pierson,Carver,Eurasian watermilfoil,1995,1991
+10-0056,Stone,Carver,Eurasian watermilfoil,1995,1991
+19-0027,Crystal,Dakota,Eurasian watermilfoil,1995,1991
+27-0016,Harriet,Hennepin,Eurasian watermilfoil,1995,1991
 27-0038,Brownie,Hennepin,Eurasian watermilfoil,1995,1991
 27-0067,Bryant,Hennepin,Eurasian watermilfoil,1995,1991
-27-0067,Bryant,Hennepin,zebra mussel,2015,2015
-27-0067,Bryant,Hennepin,brittle naiad,2020,2020
-03-0473,Buck,Becker,flowering rush,2009,2008
-04-0042,Buck,Beltrami,zebra mussel,2014,2016
-03-0473,Buck,Becker,zebra mussel,2012,connected to Pelican (56-0786) and Pelican River
-03-1249,Bucks Mill Pond (Minnow Pond),Becker,zebra mussel,2014,connected to Melissa (03-0475)
-86-0090,Buffalo,Wright,Eurasian watermilfoil,1999,1999
-10-0084,Burandt,Carver,Eurasian watermilfoil,2004,2003
-10-0084,Burandt,Carver,zebra mussel,2017,2017
-21-0049,Burgen,Douglas,zebra mussel,2017,2017
-69-0118,Burntside,St. Louis,spiny waterflea,2010,2010
-NA,Burntside River between Burntside and Shagawa,St. Louis,spiny waterflea,2010,connected to Burntside (69-0118)
-27-0047,Bush,Hennepin,Eurasian watermilfoil,1995,1990
-19-0006,Byllesby,Dakota,flowering rush,2016,2016
-34-0062,Calhoun,Kandiyohi,Eurasian watermilfoil,2010,2010
-27-0031,Calhoun,Hennepin,Eurasian watermilfoil,1995,1989
-34-0062,Calhoun,Kandiyohi,zebra mussel,2014,2016
-86-0221,Camp,Wright,Eurasian watermilfoil,2013,2012
-82-0502,Camp Galilee,Washington,Eurasian watermilfoil,2007,2006
-66-0008,Cannon,Rice,flowering rush,2007,1972
-NA,Cannon River from Wells Lower Sakatah to the confluence with the Straight River,Multiple (Goodhue and Rice),flowering rush,2007,1977; 2008; 2013
-16-0141,"Caribou (in the Boundary Waters Canoe Area, just west of Pine)",Cook,spiny waterflea,2007,year unknown
-21-0057,Carlos,Douglas,zebra mussel,2009,2009
-21-0057,Carlos,Douglas,Eurasian watermilfoil,2012,connected to Le Homme Dieu (21-0056)
-73-0038,Carnelian,Stearns,starry stonewort,2020,2020
-86-0281,Caroline,Wright,Eurasian watermilfoil,2009,2008
-04-0141,Carr,Beltrami,zebra mussel,2018,connected to Bemidji (04-0130_
-NA,Carver Creek from Waconia to the Minnesota River,Carver,zebra mussel,2018,"connected to Waconia (10-0059), Burandt (10-0084) and Miller (10-0029)"
-04-0030,Cass,Beltrami,starry stonewort,2016,2016
-04-0030,Cass,Beltrami,zebra mussel,2014,2014
-70-0018,Cate's,Scott,Eurasian watermilfoil,2007,2007
-86-0227,Cedar,Wright,Eurasian watermilfoil,2010,2010
-27-0039,Cedar,Hennepin,Eurasian watermilfoil,1995,1990
-43-0115,Cedar,McLeod,Eurasian watermilfoil,2013,2012
-66-0052,Cedar,Rice,Eurasian watermilfoil,2001,2001
-86-0227,Cedar,Wright,zebra mussel,2017,2017
-73-0133,Cedar Island (Koetter),Stearns,zebra mussel,2018,2018
-02-0654,Cenaiko,Anoka,Eurasian watermilfoil,1995,1992
-02-0006,Centerville,Anoka,Eurasian watermilfoil,1999,1999
-21-0120,Charley,Douglas,zebra mussel,2014,connected to Ida (21-0123)
-62-0062,Charley,Ramsey,zebra mussel,2007,connected water
-86-0011,Charlotte,Wright,Eurasian watermilfoil,2014,2014
-21-0145,Chippewa,Douglas,zebra mussel,2017,2017
-NA,Chippewa River from Emily (61-0180) to confluence with the Minnesota River,"Multiple (Pope, Swift, Chippewa)",zebra mussel,2018,2017
-13-0012,Chisago,Chisago,Eurasian watermilfoil,2010,2010
-27-0137,Christmas,Hennepin,Eurasian watermilfoil,1995,1992
-27-0137,Christmas,Hennepin,zebra mussel,2014,2014
-09-0008,Chub,Carlton,Eurasian watermilfoil,2009,2009
-66-0027,Circle,Rice,Eurasian watermilfoil,2011,2011
-18-0356,Clamshell,Crow Wing,zebra mussel,2014,connected to Whitefish chain
-18-0374,Clark,Crow Wing,zebra mussel,2017,2017
-32-0022,Clear,Jackson,bighead carp,2012,connected water
-32-0022,Clear,Jackson,silver carp,2012,connected water
-47-0095,Clear,Meeker,Eurasian watermilfoil,2014,2013
-81-0014,Clear,Waseca,Eurasian watermilfoil,2006,2005
-82-0163,Clear,Washington,Eurasian watermilfoil,2007,2006
-86-0252,Clearwater,Wright,Eurasian watermilfoil,1995,1989
-18-0038,Clearwater,Crow Wing,Eurasian watermilfoil,2011,2011
-86-0252,Clearwater,Multiple (Wright and Stearns),zebra mussel,2015,2015
-NA,"Clearwater River downstream of Clearwater, including 500 feet upstream into its tributaries",Wright,Eurasian watermilfoil,1999,1998
-NA,Clearwater River from Clearwater Lake to the Mississippi River,Multiple (Stearns and Wright),zebra mussel,2015,connected to Clearwater (86-0252)
-NA,Cloquet River from Island Lake to the St. Louis River,St. Louis,spiny waterflea,1995,1990
-19-0456,Cobblestone,Dakota,Eurasian watermilfoil,2012,2011
-82-0094,Colby,Washington,Eurasian watermilfoil,2012,2011
-13-0053,Comfort,Chisago,Eurasian watermilfoil,2014,2014
-13-0053,Comfort,Chisago,zebra mussel,2017,2017
-86-0051,Constance,Wright,Eurasian watermilfoil,2016,2016
-02-0042,Coon,Anoka,Eurasian watermilfoil,2004,2003
-31-0524,Coon-Sandwick,Itasca,Eurasian watermilfoil,2014,2012
-27-0679,Cornelia Pool Pond (Unnamed wetland),Hennepin,Eurasian watermilfoil,2019,2018
-none,County ditches connected to designated infested waters in Jackson County,Jackson,bighead carp,2012,connected water
-none,County ditches connected to designated infested waters in Jackson County,Jackson,silver carp,2012,connected water
-10-0005,Courthouse,Carver,Eurasian watermilfoil,2016,2016
-21-0103,Cowdry (Cowdrey),Douglas,zebra mussel,2011,2011
-69-0616,Crane,St. Louis,spiny waterflea,2007,2007
-02-0084,Crooked,Anoka,Eurasian watermilfoil,1995,1990
-18-0041,Crooked,Crow Wing,Eurasian watermilfoil,2018,2018
-38-0817,Crooked,Lake,spiny waterflea,2014,connected to Basswood (38-0645)
-38-0024,Crooked,Lake,zebra mussel,2014,2014
-49-0133,Crookneck,Morrison,Eurasian watermilfoil,2018,2018
-49-0133,Crookneck,Morrison,zebra mussel,2018,2018
-58-0119,Cross,Pine,Eurasian watermilfoil,2005,2004
-18-0312,Cross,Crow Wing,zebra mussel,2014,2013
-NA,Crow Wing River downstream of the confluence with the Long Prairie River to the Mississippi River ,Multiple (Cass and Morrison counties),zebra mussel,2009,2010
-NA,"Crow Wing River from Highway 87 in Hubbard County downstream to the confluence with the Mississippi River, including 500 feet upstream into its tributaries  ","Multiple (Cass, Hubbard, Morrison, Todd and Wadena)",faucet snail,2010,"2010, 2011"
-19-0027,Crystal,Dakota,Eurasian watermilfoil,1995,1991
-56-0749,Crystal,Otter Tail,zebra mussel,2009,2012
-NA,"Cullen Brook and Roy Lake outlet stream between Roy (18-0398), Nisswa (18-0399) and Lower Cullen (18-0403)",Crow Wing,zebra mussel,2018,connected to Roy and Lower Cullen
-03-0363,Curfman (Deadshot Bay),Becker,flowering rush,2007,1976
-31-0857,Cut Foot Sioux,Itasca,faucet snail,2009,2012
-31-0857,Cut Foot Sioux,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-11-0214,Dade,Cass,zebra mussel,2020,connected to Sylvan (11-0304)
-18-0271,Daggett,Crow Wing,zebra mussel,2014,2013
-21-0080,Darling,Douglas,zebra mussel,2009,2010
-56-0311,Davies,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-56-0824,Dayton Hollow Reservoir,Otter Tail,zebra mussel,2013,2012
-56-0383,Dead,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-NA,Dead River,St. Louis,spiny waterflea,2010,connected to Burntside (69-0118)
-86-0107,Deer,Wright,Eurasian watermilfoil,2000,2000
-56-0298,Deer,Otter Tail,zebra mussel,2017,connected to Otter Tail and East Lost
-82-0101,DeMontreville,Washington,Eurasian watermilfoil,2009,2008
-03-0381,Detroit,Becker,flowering rush,2007,1976
-03-0381,Detroit,Becker,zebra mussel,2016,2016
-16-0143,Devil Track,Cook,spiny waterflea,2008,2007
-16-0029,Devilfish ,Cook,spiny waterflea,2016,2016
-21-0213,Devils,Douglas,zebra mussel,2017,connected to Whiskey (21021600)
-34-0044,Diamond,Kandiyohi,zebra mussel,2018,2018
-31-0882,Dora,Itasca,zebra mussel,2017,2017
-27-0069,Duck,Hennepin,Eurasian watermilfoil,2020,2020
-29-0142,Duck,Hubbard,faucet snail,2019,2019
-27-0181,Dutch,Hennepin,Eurasian watermilfoil,1995,1989
-86-0184,Dutch,Wright,Eurasian watermilfoil,2016,2016
-10-0121,Eagle,Carver,Eurasian watermilfoil,2001,2001
-34-0171,Eagle,Kandiyohi,zebra mussel,2018,2018
-71-0067,Eagle,Sherburne,Eurasian watermilfoil,2006,2005
-56-0253,Eagle,Otter Tail,zebra mussel,2019,2019
-73-0112,Eagle,Stearns,zebra mussel,2019,connected to Big Fish (73-0106)
-07-0060,Eagle (includes North and South Eagle),Blue Earth,Eurasian watermilfoil,2015,2015
-27-0111,Eagle (includes Pike),Hennepin,Eurasian watermilfoil,1995,1992
-19-0033,Earley,Dakota,Eurasian watermilfoil,2006,2005
-56-0138,East Battle,Otter Tail,zebra mussel,2019,2019
-40-0092,East Jefferson (DOW 40-0092-01),Le Sueur,Eurasian watermilfoil,2004,2002
-56-0523,East Loon,Otter Tail,zebra mussel,2018,2018
-56-0378,East Lost,Otter Tail,zebra mussel,2017,2017
-56-0573,East Red River Lake,Otter Tail,zebra mussel,2017,connected to Otter Tail and East Lost
-56-0517,East Silent,Otter Tail,zebra mussel,2018,2018
-56-0501,East Spirit,Otter Tail,zebra mussel,2016,2016
-86-0289,East Sylvia,Wright,Eurasian watermilfoil,2008,connected to West Sylvia (86-0279)
-86-0289,East Sylvia,Wright,zebra mussel,2016,2016
-69-0174,East Twin,St. Louis,spiny waterflea,2010,connected to Burntside (69-0118)
-27-0029,Edina,Hennepin,Eurasian watermilfoil,2017,2017
-27-0041,Edina Mill Pond,Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-18-0305,Edward,Crow Wing,zebra mussel,2017,2017
-31-0817,Egg,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-31-0817,Egg,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-26-0040,Elk,Grant,zebra mussel,2017,2017
-,Elk River downstream from Lake Orono (71-0013) to the Mississippi River,Sherburne,zebra mussel,2020,connected to Orono (71-0013)
-34-0119,Elkhorn ,Kandiyohi,zebra mussel,2018,2018
-34-0119,Elkhorn ,Kandiyohi,Eurasian watermilfoil,2017,2017
-13-0047,Ellen,Chisago,Eurasian watermilfoil,1999,1990
-82-0106,Elmo,Washington,Eurasian watermilfoil,2006,2005
-61-0180,Emily,Pope,Eurasian watermilfoil,2014,2014
-18-0203,Emily,Crow Wing,Eurasian watermilfoil,2014,2014
-61-0180,Emily,Pope,zebra mussel,2012,2016
-86-0188,Emma,Wright,Eurasian watermilfoil,2007,2006
-47-0064,Erie,Meeker,Eurasian watermilfoil,2014,2014
-03-0503,Eunice,Becker,zebra mussel,2015,2015
-77-0195,Faille,Todd,zebra mussel,2016,connected to Osakis (77-0215)
-38-0811,Fall,Lake,spiny waterflea,2014,2014
-30-0043,Fannie,Isanti,Eurasian watermilfoil,2019,2019
-01-0159,Farm Island,Aitkin,zebra mussel,2020,2020
-10-0226,Firemen’s,Carver,Eurasian watermilfoil,1997,1997
-29-0086,First Crow Wing,Hubbard,faucet snail,2011,2011
-31-0818,First River Lake,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-31-0818,First River Lake,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-56-0768,Fish,Otter Tail,zebra mussel,2009,2009
-86-0183,Fish,Wright,Eurasian watermilfoil,2004,2002
-13-0068,Fish,Chisago,Eurasian watermilfoil,2007,2006
-19-0057,Fish,Dakota,Eurasian watermilfoil,2009,2009
-27-0118,Fish,Hennepin,Eurasian watermilfoil,1995,1993
-69-0491,Fish,St. Louis,spiny waterflea,1995,1990
-86-0183,Fish,Wright,zebra mussel,2006,connected to Mississippi River
-49-0137,Fish Trap,Morrison,zebra mussel,2015,2015
-NA,Fish Trap Creek from Fish Trap Lake to the Long Prairie River,Multiple (Morrison and Todd),zebra mussel,2015,connected to Fish Trap (49-0137)
-34-0217,Florida,Kandiyohi,Eurasian watermilfoil,2009,2009
-34-0217,Florida,Kandiyohi,zebra mussel,2016,2016
-16-0147,Flour,Cook,spiny waterflea,2005,2004
-03-0387,Floyd (includes Mud),Becker,zebra mussel,2018,2018
-27-0139,Forest,Hennepin,Eurasian watermilfoil,1995,1990
-82-0159,Forest,Washington,flowering rush,2007,1998
-82-0159,Forest,Washington,Eurasian watermilfoil,2015,2015
-27-0139,Forest,Hennepin,zebra mussel,2012,connected to Minnetonka (27-0133)
-82-0159,Forest,Washington,zebra mussel,2015,2015
-29-0078,Fourth Crow Wing,Hubbard,faucet snail,2019,2019
-66-0029,Fox,Rice,Eurasian watermilfoil,2009,2009
-40-0057,Frances,Le Sueur,Eurasian watermilfoil,2017,2017
-56-0759,Franklin,Otter Tail,zebra mussel,2016,2016
-71-0110,Fredrickson Slough,Sherburne,Eurasian watermilfoil,2018,2018
-66-0038,French,Rice,Eurasian watermilfoil,2009,2009
-86-0273,French,Wright,Eurasian watermilfoil,2002,2001
-01-0104,French,Aitkin,Eurasian watermilfoil,2019,2019
-27-0144,Galpin,Hennepin,Eurasian watermilfoil,2001,2001
-34-0224,Games,Kandiyohi,Eurasian watermilfoil,2014,2014
-34-0224,Games,Kandiyohi,zebra mussel,2018,connected to Norway (34-0251)
-29-0061,Garfield,Hubbard,zebra mussel,2017,2017 - veligers
-21-0052,Geneva,Douglas,zebra mussel,2009,2009
-02-0091,George,Anoka,Eurasian watermilfoil,1998,1998
-29-0216,George,Hubbard,faucet snail,2018,2017
-55-0008,George,Olmsted,Eurasian watermilfoil,1995,1988
-34-0142,George,Kandiyohi,zebra mussel,2017,2017
-02-0005,George Watch,Anoka,Eurasian watermilfoil,2016,2016
-40-0063,German,Le Sueur,Eurasian watermilfoil,2004,2002
-62-0007,Gervais,Ramsey,Eurasian watermilfoil,1995,1995
-62-0272,Gervais Mill Pond,Ramsey,Eurasian watermilfoil,2014,2013
-18-0320,Gilbert,Crow Wing,zebra mussel,2014,2014
-69-1306,Gilbert Pit (Ore-be-gone),St. Louis,Eurasian watermilfoil,1999,1999
-69-1306,Gilbert Pit (Ore-be-gone),St. Louis,zebra mussel,2013,2012
-61-0072,Gilchrist,Pope,Eurasian watermilfoil,1997,1996
-61-0072,Gilchrist,Pope,zebra mussel,2019,2019
-11-0174,Girl,Cass,Eurasian watermilfoil,2017,2017
-85-0012,Goodview  ,Winona,zebra mussel,2018,2017
-85-0012,Goodview (Gravel Pit),Winona,Eurasian watermilfoil,2012,2012
-82-0059,Goose,Washington,Eurasian watermilfoil,2018,2018
-13-0083,Goose,Chisago,Eurasian watermilfoil,2016,2016
-86-0108,Goose,Wright,Eurasian watermilfoil,2000,2000
-73-0055,Grand,Stearns,starry stonewort,2017,2017
-86-0217,Granite,Wright,Eurasian watermilfoil,2010,2010
-86-0217,Granite,Wright,flowering rush,2018,2018
-21-0150,Grants,Douglas,zebra mussel,2019,2019
-21-0150,Grants,Douglas,flowering rush,2019,2019
-86-0243,Grass,Multiple (Stearns and Wright),zebra mussel,2015,connected to Clearwater (86-0252)
-27-0761,Gray's Bay Outlet (wetland),Hennepin,zebra mussel,2010,connected to Minnetonka (27-0133)
-73-0083,Great Northern,Stearns,zebra mussel,2018,connected by the Sauk River between Sauk (77-0150) and Becker (73-0156)
-34-0079,Green,Kandiyohi,zebra mussel,2014,2014
-34-0079,Green,Kandiyohi,Eurasian watermilfoil,2000,2000
-13-0041,Green,Chisago,Eurasian watermilfoil,1995,1990
-30-0136,Green,Isanti,Eurasian watermilfoil,2000,2000
-11-0786,Green's,Cass,zebra mussel,2010,connected to Gull (11-0305)
-16-0077,Greenwood,Cook,spiny waterflea,2005,2004
-21-0204,Grill,Douglas,zebra mussel,2014,connected to Mary (21-0092)
-32-0025,Grovers,Jackson,bighead carp,2012,connected water
-32-0025,Grovers,Jackson,silver carp,2012,connected water
-77-0182,Guernsey,Todd,zebra mussel,2016,2017 (veligers)
-11-0305,Gull,Cass,zebra mussel,2010,2010
-NA,Gull River,Cass,zebra mussel,2010,2014
-16-0356,Gunflint,Cook,spiny waterflea,2007,2007
-31-0373,Hale,Itasca,Eurasian watermilfoil,2014,2014
-18-0238,Half-Moon,Crow Wing,zebra mussel,2006,connected to Mississippi River
-02-0053,Ham ,Anoka,Eurasian watermilfoil,2014,2013
-11-0242,Hand,Cass,zebra mussel,2019,2019
-18-0044,Hanks,Crow Wing,Eurasian watermilfoil,2019,connected to Crooked (18-0041)
-27-0016,Harriet,Hennepin,Eurasian watermilfoil,1995,1991
-27-0016,Harriet,Hennepin,zebra mussel,2017,2017
-31-0020,Hart,Itasca,flowering rush,2007,2010
-34-0207,Henchien ,Kandiyohi,zebra mussel,2018,connected to Norway (34-0251)
-34-0116,Henderson,Kandiyohi,Eurasian watermilfoil,2018,2018
-27-0018,Hiawatha,Hennepin,Eurasian watermilfoil,1995,1994
-27-0018,Hiawatha  ,Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-19-0065,Holland,Dakota,Eurasian watermilfoil,2009,2009
-31-0227,Holman,Itasca,flowering rush,2009,2008
-NA,Hooper Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,connected to Rainy River
-56-0782,Hoot,Otter Tail,zebra mussel,2017,connected to Otter Tail and East Lost
-73-0157,Horseshoe,Stearns,zebra mussel,2018,connected by the Sauk River between Sauk (77-0150) and Becker (73-0156)
-40-0001,Horseshoe,Le Sueur,flowering rush,2014,2013
-69-0503,Horseshoe,St. Louis,Eurasian watermilfoil,2000,1999
-82-0074,Horseshoe,Washington,Eurasian watermilfoil,2013,2012
-NA,Houghtaling Creek downstream of the mouth of the unnamed creek draining Artlip Lake,Lake,zebra mussel,2014,connected to Crooked (38-0024)
-86-0199,Howard,Wright,Eurasian watermilfoil,2004,2003
-18-0375,Hubert,Crow Wing,zebra mussel,2016,2016
-66-0047,Hunt,Rice,Eurasian watermilfoil,2015,2015
-18-0441,Huntington Mine,Crow Wing,zebra mussel,2016,2016
-32-0042,Husen Marsh,Jackson,bighead carp,2012,connected water
-32-0042,Husen Marsh,Jackson,silver carp,2012,connected water
-10-0088,Hydes,Carver,Eurasian watermilfoil,2014,2012
-31-0372,Ice,Itasca,Eurasian watermilfoil,1999,1999
-21-0123,Ida,Douglas,zebra mussel,2013,2014
-03-0582,Ida,Becker,zebra mussel,2015,2015
-32-0072,Illinois,Jackson,bighead carp,2012,connected water
-32-0072,Illinois,Jackson,silver carp,2012,connected water
-27-0176,Independence,Hennepin,zebra mussel,2014,2014
-27-0176,Independence,Hennepin,Eurasian watermilfoil,1995,1989
-21-0136,Indian,Douglas,Eurasian watermilfoil,2018,2018
-53-0007,Indian,Nobles,bighead carp,2012,connected water
-53-0007,Indian,Nobles,silver carp,2012,connected water
-86-0223,Indian,Wright,Eurasian watermilfoil,2004,2003
-56-0327,Indian,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-21-0076,Irene,Douglas,zebra mussel,2012,2011
-69-0121,Iron,St. Louis,spiny waterflea,2014,connected to Basswood (38-0645)
-04-0140,Irving,Beltrami,zebra mussel,2018,connected to Bemidji (04-0130_
-19-0004,Isabelle,Dakota,zebra mussel,2018,2018
-18-0269,Island,Crow Wing,zebra mussel,2014,2013
-62-0075,Island,Ramsey,Eurasian watermilfoil,1995,1991
-69-0372,Island,St. Louis,spiny waterflea,1995,1990
-82-0104,Jane,Washington,Eurasian watermilfoil,2012,2012
-31-0565,Jay Gould,Itasca,zebra mussel,2019,connected to Blandin Reservoir (31-0533)
-40-0092,Jefferson,Le Sueur,Eurasian watermilfoil,2015,part of Jefferson chain
-21-0055,Jessie,Douglas,zebra mussel,2009,2016
-56-0877,Jewett,Otter Tail,zebra mussel,2018,2018
-62-0078,Johanna,Ramsey,zebra mussel,2018,2018
-62-0078,Johanna,Ramsey,Eurasian watermilfoil,2016,2016
-86-0288,John,Wright,Eurasian watermilfoil,2011,2011
-86-0288,John,Wright,zebra mussel,2015,2015
-NA,Johnson Creek from the Rainy River upstream to 500 feet beyond the first road crossing,Lake of the Woods,spiny waterflea,2007,connected to Rainy River
-56-0370,Jolly Ann,Otter Tail,zebra mussel,2020,connected to Eagle (56-0253)
-10-0217,Jonathan (Upper Lake Grace),Carver,Eurasian watermilfoil,2016,2016
-62-0057,Josephine,Ramsey,Eurasian watermilfoil,2013,2012
-NA,"Judicial Ditch No. 35 from S14, T102N, R36W to Rush",Jackson,bighead carp,2012,connected water
-NA,"Judicial Ditch No. 35 from S14, T102N, R36W to Rush",Jackson,silver carp,2012,connected water
-NA,Judicial Ditch No. 8 between Clear and Loon,Jackson,bighead carp,2012,connected water
-NA,Judicial Ditch No. 8 between Clear and Loon,Jackson,silver carp,2012,connected water
-NA,Judicial ditches connected to designated infested waters in Jackson County,Jackson,bighead carp,2012,connected water
-NA,Judicial ditches connected to designated infested waters in Jackson County,Jackson,silver carp,2012,connected water
-77-0163,Juergens,Todd,zebra mussel,2017,connected to Guernsey (77-0182)
-69-0845,Kabetogama,St. Louis,spiny waterflea,2007,2007
-19-0025,Keller,Dakota,Eurasian watermilfoil,2006,2005
-62-0010,Keller,Ramsey,Eurasian watermilfoil,1995,1995
-10-0047,Kelser's Pond,Carver,Eurasian watermilfoil,2009,2008
-56-1636,Kerbs,Otter Tail,zebra mussel,2013,2012
-18-0361,Kimball,Crow Wing,Eurasian watermilfoil,2007,2007
-18-0361,Kimball,Crow Wing,zebra mussel,2016,2016
-04-0007,Kitchi,Beltrami,zebra mussel,2014,connected to Cass (04-0030)
-73-0086,Knaus,Stearns,zebra mussel,2017,2017
-33-0028,Knife,Kanabec,Eurasian watermilfoil,1995,1990
-33-0028,Knife,Kanabec,faucet snail,2016,2016
-62-0006,Kohlmans,Ramsey,Eurasian watermilfoil,2000,2000
-73-0200,Koronis (includes Mud),Stearns,starry stonewort,2015,2015
-73-0087,Krays,Stearns,zebra mussel,2017,connected to Knaus (73-0086)
-69-0224,Lac La Croix,St. Louis,spiny waterflea,2009,2008
-19-0446,Lac Lavon,Dakota,Eurasian watermilfoil,1995,1988
-19-0446,Lac Lavon,Dakota,brittle naiad,2007,2003
-37-0046,Lac qui Parle,"Multiple (Lac qui Parle, Chippewa, Swift)",zebra mussel,2016,2016
-27-0040,Lake of the Isles,Hennepin,Eurasian watermilfoil,1995,1988
-39-0002,Lake of the Woods,Lake of the Woods,zebra mussel,2019,2019 (veligers)
-39-0002,"Lake of the Woods, including the portions of Zipple Bay to Zipple Creek in S9 and S10, T162N, R33W, and to Bostic Creek at County Highway 8",Lake of the Woods,spiny waterflea,2007,year unknown
-27-0017,Lakewood Cemetery,Hennepin,Eurasian watermilfoil,2007,2006
-27-0182,Langdon,Hennepin,Eurasian watermilfoil,2019,2018
-62-0049,Langton,Ramsey,Eurasian watermilfoil,2008,2007
-21-0106,Latoka,Douglas,zebra mussel,2014,2013
-21-0056,Le Homme Dieu,Douglas,zebra mussel,2009,2009
-21-0056,Le Homme Dieu,Douglas,Eurasian watermilfoil,2012,2012
-11-0203,Leech,Cass,Eurasian watermilfoil,2005,2004
-11-0203,Leech,Cass,zebra mussel,2016,2016 (veligers)
-NA,Leech Lake River between Mud Lake and Mississippi River,Cass,faucet snail,2010,2010
-27-0085,Libbs,Hennepin,Eurasian watermilfoil,1995,1988
-27-0085,Libbs,Hennepin,zebra mussel,2012,connected to Minnetonka (27-0133)
-56-0747,Lida (North and South),Otter Tail,zebra mussel,2014,"2013 (North Lida), 2015 (South Lida)"
-19-0180,Lily,Dakota,Eurasian watermilfoil,2016,2016
-02-0026,Linwood,Anoka,Eurasian watermilfoil,2014,2014
-77-0089,Little Birch,Todd,Eurasian watermilfoil,2004,2003
-77-0089,Little Birch,Todd,zebra mussel,2016,2017
-21-0212,Little Chippewa,Douglas,zebra mussel,2017,connected to Whiskey (21021600)
-13-0054,Little Comfort,Chisago,zebra mussel,2017,connected to Comfort (13-0053)
-31-0852,Little Cut Foot,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-31-0852,Little Cut Foot,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-71-0055,Little Elk,Sherburne,Eurasian watermilfoil,2004,2002
-03-0386,Little Floyd,Becker,zebra mussel,2018,connected to Floyd (03-0387)
-NA,"Little Fork River, from 100 feet upstream of Highway 11 downstream to the Rainy River",Koochiching,spiny waterflea,2007,connected to Rainy River
-09-0035,Little Hanging Horn,Carlton,Eurasian watermilfoil,2016,2016
-13-0080,Little Horseshoe,Chisago,Eurasian watermilfoil,2015,2015
-31-0566,Little Jay Gould,Itasca,zebra mussel,2019,connected to Blandin Reservoir (31-0533)
-16-0026,Little John ,Cook,spiny waterflea,2009,2009
-27-0179,Little Long,Hennepin,Eurasian watermilfoil,1995,1991
-86-0139,Little Mary,Wright,Eurasian watermilfoil,2007,2006
-56-0328,Little McDonald,Otter Tail,zebra mussel,2013,2018
-47-0096,Little Mud,Meeker,Eurasian watermilfoil,2009,2009
-77-0201,Little Osakis,Todd,zebra mussel,2016,connected to Osakis (77-0215)
-56-0761,Little Pelican,Otter Tail,zebra mussel,2009,2009
-01-0176,Little Pine,Aitkin,zebra mussel,2020,connected to Farm Island (01-0159)
-18-0266,Little Pine,Crow Wing,zebra mussel,2014,2013
-56-0142,Little Pine,Otter Tail,zebra mussel,2020,connected to East Loon (56-0523)
-18-0139,Little Rabbit,Crow Wing,zebra mussel,2006,2014
-11-0318,Little Red Sand,Cass,zebra mussel,2020,connected to Sylvan (11-0304)
-04-0015,Little Rice,Beltrami,zebra mussel,2014,connected to Cass (04-0030)
-05-0013,Little Rock,Benton,zebra mussel,2006,connected to Mississippi River
-05-0012,Little Rock Lake Channel,Benton,zebra mussel,2006,connected to Mississippi River
-31-0853,Little Sand,Itasca,zebra mussel,2013,2013
-77-0164,Little Sauk,Todd,zebra mussel,2017,2017 (veligers)
-NA,Little Sioux River and its tributaries,Jackson,bighead carp,2012,connected water
-NA,Little Sioux River and its tributaries,Jackson,silver carp,2012,connected water
-32-0024,Little Spirit,Jackson,bighead carp,2012,connected water
-32-0024,Little Spirit,Jackson,silver carp,2012,connected water
-69-0608,Little Vermilion,St. Louis,spiny waterflea,2007,2007
-86-0106,Little Waverly,Wright,Eurasian watermilfoil,1995,1992
-31-0850,Little Winnibigoshish,Itasca,zebra mussel,2013,2017
-31-0850,Little Winnibigoshish,Itasca,faucet snail,2010,connected to Winnibigoshish (11-0147)
-56-0760,Lizzie,Otter Tail,zebra mussel,2009,2009
-21-0144,Lobster,Douglas,zebra mussel,2014,2016
-86-0168,Locke,Wright,Eurasian watermilfoil,2011,2011
-62-0231,Loeb,Ramsey,Eurasian watermilfoil,2004,2003
-15-0081,Lomond,Clearwater,zebra mussel,2019,2019 - veligers
-56-0784,Long,Otter Tail,zebra mussel,2018,2018 - veligers
-27-0160,Long,Hennepin,Eurasian watermilfoil,1995,1992
-29-0161,Long,Hubbard,faucet snail,2017,2017
-29-0161,Long,Hubbard,zebra mussel,2020,2020
-30-0072,Long,Isanti,Eurasian watermilfoil,2007,2006
-56-0388,Long,Otter Tail,zebra mussel,2018,connected to East Loon (56-0523)
-62-0067,Long,Ramsey,Eurasian watermilfoil,2015,2015
-82-0021,Long,Washington,Eurasian watermilfoil,2009,2009
-82-0030,Long,Washington,Eurasian watermilfoil,2016,2016
-82-0118,Long,Washington,Eurasian watermilfoil,2006,2005
-82-0130,Long,Washington,Eurasian watermilfoil,2008,2007
-21-0089,Long,Douglas,zebra mussel,2014,connected to Maple (21-0079)
-62-0067,Long,Ramsey,zebra mussel,2019,2019
-03-0383,Long ,Becker,zebra mussel,2020,2020
-18-0002,Long (Tame Fish),Crow Wing,Eurasian watermilfoil,2010,2010
-NA,Long Branch Creek from Long (56-0784) to Pelican River and streams from Jewett (56-0877) to Long,Otter Tail,zebra mussel,2018,connected to Jewett (56-0877)
-NA,"Long Prairie River, including 500 feet upstream into its tributaries ","Multiple (Cass, Douglas, Morrison and Todd)",zebra mussel,2009,2009
-32-0020,Loon,Jackson,bighead carp,2012,connected water
-32-0020,Loon,Jackson,silver carp,2012,connected water
-69-0470,Loon,St. Louis,spiny waterflea,2009,2008
-18-0268,Loon (Island-Loon),Crow Wing,zebra mussel,2014,connected to Whitefish chain
-NA,Loon Creek between Loon and Spirit,Jackson,bighead carp,2012,connected water
-NA,Loon Creek between Loon and Spirit,Jackson,silver carp,2012,connected water
-21-0105,Lottie (Taylor),Douglas,zebra mussel,2011,connected to Brophy
-10-0006,Lotus,Carver,Eurasian watermilfoil,1995,1991
-10-0006,Lotus,Hennepin,zebra mussel,2019,2019
-10-0006,Lotus ,Carver,brittle naiad,2017,2017
-21-0094,Louise,Douglas,zebra mussel,2014,2015
-18-0440-04,Louise Mine Pit,Crow Wing,Eurasian watermilfoil,2009,2009
-18-0440-04,Louise Mine Pit,Crow Wing,zebra mussel,2020,2020
-18-0388,Love,Crow Wing,zebra mussel,2010,2015
-18-0403,Lower Cullen,Crow Wing,zebra mussel,2016,2016
-18-0378,Lower Hay,Crow Wing,zebra mussel,2014,2013
-18-0243,Lower Mission,Crow Wing,Eurasian watermilfoil,2008,2008
-70-0026,Lower Prior,Scott,zebra mussel,2009,2009
-70-0026,Lower Prior,Scott,Eurasian watermilfoil,1995,1991
-73-0123,Lower Spunk,Stearns,Eurasian watermilfoil,2014,2014
-80-0030,Lower Twin,Wadena,faucet snail,2009,2009
-73-0071,Lower Watab,Stearns,zebra mussel,2014,connected water
-10-0007,Lucy,Carver,Eurasian watermilfoil,2007,2006
-10-0043,Lundsten,Carver,Eurasian watermilfoil,2019,2019
-07-0079,Lura,Blue Earth,Eurasian watermilfoil,2005,2004
-07-0044,Madison,Blue Earth,Eurasian watermilfoil,2010,2010
-27-0065,Magda,Hennepin,Eurasian watermilfoil,2015,2015
-18-0440,Mahnomen Mine Pit #1 & #2,Crow Wing,zebra mussel,2017,2017
-18-0440-03,Mahnomen Mine Pit #3,Crow Wing,zebra mussel,2017,connected to Mahnomen Mine Pit #1 and #2 (18-0440-01 and 18-0440-02)
-18-0744,Mangan Mine Pit,Crow Wing,zebra mussel,2016,2016
-47-0050,Manuella,Meeker,Eurasian watermilfoil,2006,2005
-21-0079,Maple,Douglas,zebra mussel,2014,2013
-86-0134,Maple (includes Upper Maple and Mud),Wright,Eurasian watermilfoil,2007,2007
-86-0134,Maple (includes Upper Maple and Mud),Wright,flowering rush,2015,2015
-86-0134-03,Maple Northeast,Wright,zebra mussel,2019,connected to Upper Maple (86-0134-01)
-11-0222,Margaret,Cass,zebra mussel,2010,connected to Gull (11-0305)
-73-0014,Marie,Stearns,Eurasian watermilfoil,2017,2017
-19-0026,Marion,Dakota,Eurasian watermilfoil,1998,1998
-19-0026,Marion,Dakota,zebra mussel,2017,2017
-04-0142,Marquette,Beltrami,zebra mussel,2018,connected to Bemidji (04-0130_
-02-0007,Marshan,Anoka,Eurasian watermilfoil,2010,2010
-21-0092,Mary,Douglas,zebra mussel,2014,2013
-18-0185,Mary,Crow Wing,Eurasian watermilfoil,2017,2017
-77-0019,Mary,Todd,Eurasian watermilfoil,2018,2018
-86-0156,Mary,Wright,Eurasian watermilfoil,1997,1997
-03-0500,Maud,Becker,zebra mussel,2016,2016
-66-0039,Mazaska,Rice,Eurasian watermilfoil,2010,2010
-62-0054,McCarron,Ramsey,Eurasian watermilfoil,2000,2000
-62-0054,McCarron,Ramsey,zebra mussel,2019,2019
-70-0017,McColl,Scott,Eurasian watermilfoil,2009,2009
-69-0914,McCormack,St. Louis,Eurasian watermilfoil,2013,2012
-44-0080,McCraney,Mahnomen,faucet snail,2015,2015
-56-0386-03,McDonald,Otter Tail,zebra mussel,2019,connected to Big McDonald (56-0386-01)
-19-0076,McDonough,Dakota,Eurasian watermilfoil,2016,2016
-16-0027,McFarland,Cook,spiny waterflea,2005,year unknown
-31-0370,McKinney,Itasca,Eurasian watermilfoil,1999,1999
-70-0050,McMahon,Scott,Eurasian watermilfoil,2007,2007
-27-0054,Meadowbrook,Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-27-0104,Medicine,Hennepin,Eurasian watermilfoil,1995,1989
-27-0104,Medicine,Hennepin,starry stonewort,2018,2018
-27-0104,Medicine,Hennepin,zebra mussel,2017,2017
-03-0475,Melissa,Becker,zebra mussel,2014,2014
-03-0475,Melissa,Becker,flowering rush,2007,1985
-73-0251,Melrose,Stearns,zebra mussel,2018,connected by the Sauk River between Sauk (77-0150) and Becker (73-0156)
-56-0252,Middle,Otter Tail,zebra mussel,2020,connected to Eagle (56-0253)
-03-0602,Middle Cormorant,Becker,zebra mussel,2019,connected to Upper Cormorant (03-0588)
-18-0377,Middle Cullen ,Crow Wing,zebra mussel,2018,connected to Lower Cullen (18-0403)
-40-0092,Middle Jefferson (DOW 40-0092-04),Le Sueur,Eurasian watermilfoil,2010,2010
-75-0074,Middle Pomme de Terre,Stevens,zebra mussel,2018,connected - zebra mussels confirmed in Pomme de Terre River between Middle and North Pomme de Terre in 2018
-73-0128,Middle Spunk,Stearns,Eurasian watermilfoil,2014,2014
-21-0180,Mill,Douglas,zebra mussel,2014,2015
-03-0377,Mill (Mill Pond),Becker,flowering rush,2009,2008
-03-0377,Mill (Mill Pond),Becker,zebra mussel,2014,connected to Melissa (03-0475)
-56-0920,Mill Pond,Otter Tail,zebra mussel,2012,2017
-48-0002,Mille Lacs,Mille Lacs,zebra mussel,2006,2005
-48-0002,Mille Lacs,Mille Lacs,Eurasian watermilfoil,1999,1998
-48-0002,Mille Lacs,Mille Lacs,spiny waterflea,2009,2009
-NA,Mille Lacs tributaries from their mouths upstream to the posted boundaries,"Multiple (Aitkin, Crow Wing and Mille Lacs)",Eurasian watermilfoil,1999,1998
-NA,Mille Lacs tributaries from their mouths upstream to the posted boundaries,"Multiple (Aitkin, Crow Wing and Mille Lacs)",spiny waterflea,2009,connected to Mille Lacs (48-0002)
-NA,Mille Lacs tributaries from their mouths upstream to the posted boundaries,"Multiple (Aitkin, Crow Wing and Mille Lacs)",zebra mussel,2006,connected to Mille Lacs (48-0002)
-18-0133,Miller,Crow Wing,zebra mussel,2006,connected to Mississippi River
-10-0029,Miller,Carver,zebra mussel,2018,2018
-NA,Miller Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,connected water
-21-0083,Miltona,Douglas,zebra mussel,2013,2012
-21-0108,Mina,Douglas,zebra mussel,2014,connected to Mary (21-0092)
-56-0589,Mineral,Otter Tail,zebra mussel,2019,connected to Swan (56-0781)
-86-0088,Mink,Wright,Eurasian watermilfoil,2004,2003
-86-0229,Mink,Wright,Eurasian watermilfoil,2014,2013
-NA,Minnehaha Creek,Hennepin,Eurasian watermilfoil,1995,1989
-NA,Minnehaha Creek,Hennepin,flowering rush,2009,2009
-NA,Minnehaha Creek between Minnetonka and Nokomis,Hennepin,zebra mussel,2010,2010
-27-0084,Minnehaha Marsh,Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-NA,Minnesota River,"Multiple (Big Stone, Lac Qui Parle, Swift, Chippewa, Yellow Medicine, Renville, Redwood, Brown, Nicollet, Sibley, Blue Earth, Le Sueur, Scott, Carver, Hennepin, Dakota, Ramsey)",zebra mussel,2017,2017
-NA,Minnesota River from Granite Falls to the confluence with Mississippi River,"Multiple (Chippewa, Yellow Medicine, Renville, Redwood, Brown, Nicollet, Sibley, Blue Earth, Le Sueur, Scott, Carver, Hennepin, Dakota, Ramsey)",bighead carp,2017,2016
-NA,Minnesota River from Granite Falls to the confluence with Mississippi River,"Multiple (Chippewa, Yellow Medicine, Renville, Redwood, Brown, Nicollet, Sibley, Blue Earth, Le Sueur, Scott, Carver, Hennepin, Dakota, Ramsey)",grass carp,2017,2015
-87-0187,"Minnesota River pool behind Granite Falls, MN dam",Yellow Medicine,zebra mussel,2016,2016
-27-0133,Minnetonka,Hennepin,zebra mussel,2010,2010
-27-0133,Minnetonka,Hennepin,Eurasian watermilfoil,1995,1987
-27-0133,Minnetonka,Hennepin,flowering rush,2009,2009
-10-0009,Minnewashta,Carver,Eurasian watermilfoil,1995,1989
-10-0009,Minnewashta,Carver,zebra mussel,2016,2016
-61-0130,Minnewaska,Pope,zebra mussel,2012,2012
-61-0130,Minnewaska,Pope,Eurasian watermilfoil,1998,1998
-61-0130,Minnewaska,Pope,starry stonewort,2017,2017
-47-0119,Minnie Belle,Meeker,zebra mussel,2020,2020
-47-0119,Minnie-Belle,Meeker,Eurasian watermilfoil,2010,2010
-NA,"Mississippi River between Wolf, Andrusia, and Cass","Multiple (Beltrami, Cass and Itasca)",zebra mussel,2014,connected to Cass (04-0030)
-NA,Mississippi River from Carr (04-0141) to Wolf (04-0079),Beltrami,zebra mussel,2018,connected to Bemidji (04-0130_
-NA,Mississippi River from Lake Winnibigoshish to Mississippi Lake,Itasca,zebra mussel,2019,connected to Blandin Reservoir (31-0533)
-NA,Mississippi River from Little Winnibigoshish (31-0850) to the confluence with the Leech Lake River,Itasca,zebra mussel,2018,2017
-NA,Mississippi River from the Knutson Dam (at the outlet of Cass Lake) downstream to Little Winnibigoshish Lake (31-0850) ,"Multiple (Beltrami, Cass and Itasca)",zebra mussel,2013,connected to Winnibigoshish (11-0147)
-NA,"Mississippi River, from 500 feet upstream of the mouth of the Pine River in Crow Wing County to Upper St. Anthony Falls, including 500 feet upstream into its tributaries",Multiple,zebra mussel,2006,2005
-NA,"Mississippi River, from the Knutson Dam downstream to Lake Winnibigoshish, and between Lake Winnibigoshish and the confluence of the main channel of the Mississippi River and White Oak Lake branch of the Mississippi River in the SE 1/4 of the NW 1/4 of Section 13, Township 144N, Range 25W, including 500 feet upstream into its tributaries","Multiple (Beltrami, Cass and Itasca)",faucet snail,2009,2010
-27-0003,"Mississippi River, Pool 1",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-27-0003,"Mississippi River, Pool 1",Multiple,bighead carp,2015,"connected to Mississippi River, Pool 2"
-27-0003,"Mississippi River, Pool 1",Multiple,grass carp,2015,"connected to Mississippi River, Pool 2"
-27-0003,"Mississippi River, Pool 1",Multiple,silver carp,2015,"connected to Mississippi River, Pool 2"
-27-0003,"Mississippi River, Pool 1, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-19-0005,"Mississippi River, Pool 2",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-19-0005,"Mississippi River, Pool 2",Multiple,bighead carp,2012,2014
-19-0005,"Mississippi River, Pool 2",Multiple,flowering rush,2015,2015
-19-0005,"Mississippi River, Pool 2",Multiple,grass carp,2015,2013
-19-0005,"Mississippi River, Pool 2",Multiple,silver carp,2015,2014
-19-0005,"Mississippi River, Pool 2, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-25-0017,"Mississippi River, Pool 3",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-25-0017,"Mississippi River, Pool 3",Multiple,bighead carp,2012,connected to other Mississippi River pools
-25-0017,"Mississippi River, Pool 3",Multiple,silver carp,2012,connected to other Mississippi River pools
-25-0017,"Mississippi River, Pool 3",Multiple,grass carp,2015,connected to other Mississippi River pools
-25-0017,"Mississippi River, Pool 3, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-79-0005,"Mississippi River, Pool 4",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-79-0005,"Mississippi River, Pool 4",Multiple,flowering rush,2020,2020
-79-0005,"Mississippi River, Pool 4",Multiple,bighead carp,2012,2012
-79-0005,"Mississippi River, Pool 4",Multiple,silver carp,2012,connected to other Mississippi River pools
-79-0005,"Mississippi River, Pool 4",Multiple,grass carp,2015,2015
-79-0005,"Mississippi River, Pool 4",Multiple,faucet snail,2016,2016
-79-0005,"Mississippi River, Pool 4, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-79-0001,"Mississippi River, Pool 5",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-79-0001,"Mississippi River, Pool 5",Multiple,bighead carp,2012,connected to other Mississippi River pools
-79-0001,"Mississippi River, Pool 5",Multiple,silver carp,2012,connected to other Mississippi River pools
-79-0001,"Mississippi River, Pool 5",Multiple,flowering rush,2020,2020
-79-0001,"Mississippi River, Pool 5",Multiple,grass carp,2015,2009
-79-0001,"Mississippi River, Pool 5",Multiple,faucet snail,2016,2016
-79-0001,"Mississippi River, Pool 5, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-85-0013,"Mississippi River, Pool 5A",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-85-0013,"Mississippi River, Pool 5A",Multiple,bighead carp,2012,2009
-85-0013,"Mississippi River, Pool 5A",Multiple,silver carp,2012,2013
-85-0013,"Mississippi River, Pool 5A",Multiple,grass carp,2015,2009
-85-0013,"Mississippi River, Pool 5A",Multiple,faucet snail,2016,2016
-85-0013,"Mississippi River, Pool 5A, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-85-0002,"Mississippi River, Pool 6",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-85-0002,"Mississippi River, Pool 6",Multiple,bighead carp,2012,2012
-85-0002,"Mississippi River, Pool 6",Multiple,silver carp,2012,2012
-85-0002,"Mississippi River, Pool 6",Multiple,grass carp,2015,2009
-85-0002,"Mississippi River, Pool 6",Multiple,faucet snail,2016,connected to other Mississippi River pools
-85-0002,"Mississippi River, Pool 6, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-85-0001,"Mississippi River, Pool 7",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-85-0001,"Mississippi River, Pool 7",Multiple,bighead carp,2012,connected to other Mississippi River pools
-85-0001,"Mississippi River, Pool 7",Multiple,silver carp,2012,2008
-85-0001,"Mississippi River, Pool 7",Multiple,faucet snail,2013,year unknown
-85-0001,"Mississippi River, Pool 7",Multiple,grass carp,2015,connected to other Mississippi River pools
-85-0001,"Mississippi River, Pool 7, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-28-0005,"Mississippi River, Pool 8",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-28-0005,"Mississippi River, Pool 8",Multiple,bighead carp,2012,2009
-28-0005,"Mississippi River, Pool 8",Multiple,silver carp,2012,2008
-28-0005,"Mississippi River, Pool 8",Multiple,faucet snail,2013,year unknown
-28-0005,"Mississippi River, Pool 8",Multiple,flowering rush,2020,2020
-28-0005,"Mississippi River, Pool 8",Multiple,grass carp,2015,2008
-28-0005,"Mississippi River, Pool 8, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-28-0001,"Mississippi River, Pool 9",Multiple,Eurasian watermilfoil,1995,confirmed in Mississippi in 1990
-28-0001,"Mississippi River, Pool 9",Multiple,bighead carp,2012,2009
-28-0001,"Mississippi River, Pool 9",Multiple,silver carp,2012,2011
-28-0001,"Mississippi River, Pool 9",Multiple,faucet snail,2013,year unknown
-28-0001,"Mississippi River, Pool 9",Multiple,grass carp,2015,connected to other Mississippi River pools
-28-0001,"Mississippi River, Pool 9, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
-27-0070,Mitchell,Hennepin,Eurasian watermilfoil,2004,2002
-71-0081,Mitchell,Sherburne,Eurasian watermilfoil,2008,2007
-71-0081,Mitchell,Sherburne,zebra mussel,2020,2020
-56-0303,Molly Stark,Otter Tail,zebra mussel,2018,2018
-04-0011,Moose,Beltrami,starry stonewort,2016,2016
-21-0245,Moses,Douglas,zebra mussel,2020,connected to Aaron (21-0242)
-77-0007,Mound,Todd,zebra mussel,2018,2018
-27-0186,Mud,Hennepin,Eurasian watermilfoil,2020,2020
-56-0222,Mud,Otter Tail,zebra mussel,2020,connected to East Loon (56-0523)
-69-0512,Mud,St. Louis,zebra mussel,2009,connected to Pike (69-0490)
-82-0168,Mud,Washington,Eurasian watermilfoil,2007,2006
-86-0134-02,Mud,Wright,zebra mussel,2019,connected to Upper Maple (86-0134-01)
-70-0010,Murphy,Scott,Eurasian watermilfoil,2020,2020
-03-0360,Muskrat,Becker,flowering rush,2007,year unknown
-03-0360,Muskrat,Becker,zebra mussel,2017,connected to Detroit (03-0381)
-69-0693,Namakan,St. Louis,spiny waterflea,2007,2006
-03-0595,Nelson,Becker,zebra mussel,2019,connected to Upper Cormorant (03-0588)
-34-0154 ,Nest,Kandiyohi,zebra mussel,2017,2017
-38-0784,Newton,Lake,spiny waterflea,2014,connected to Fall (38-0811)
-none,"Niccum’s Pond (located in the NW 1/4 of the SW 1/4 of S10, T117N, R24W)",Hennepin,Eurasian watermilfoil,1995,1991
-18-0399,Nisswa,Crow Wing,zebra mussel,2010,connected to Gull (11-0305)
-none,"Nokasippi River, 500 feet  upstream from Upper South Long (18-0096)",Crow Wing,Eurasian watermilfoil,2020,conected to Upper South Long (18-0096)
-27-0019,Nokomis,Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-27-0019,Nokomis,Hennepin,Eurasian watermilfoil,1995,1995
-27-1045-01,Normandale,Hennepin,Eurasian watermilfoil,2019,2018
-13-0032,North Center,Chisago,Eurasian watermilfoil,2008,2008
-NA,"North Fork Crow River downstream of Farmington Ave. SE (west of Rockford), downstream to confluence with the Mississippi River",Wright,zebra mussel,2019,2019
-16-0036,North Fowl,Cook,spiny waterflea,2010,2010
-13-0035,North Lindstrom,Chisago,Eurasian watermilfoil,2006,2005
-18-0372,North Long,Crow Wing,zebra mussel,2014,2014
-75-0061,North Pomme de Terre,Stevens,zebra mussel,2018,connected - zebra mussels confirmed in Pomme de Terre River between Middle and North Pomme de Terre in 2018
-31-0653,North Star,Itasca,zebra mussel,2017,2017
-56-0604,North Ten Mile,Otter Tail,zebra mussel,2017,connected to Ten Mile (56061300)
-31-0190,North Twin,Itasca,Eurasian watermilfoil,2000,2000
-31-0190,North Twin,Itasca,flowering rush,2007,2007
-86-0123,North Twin,Wright,Eurasian watermilfoil,2009,2009
-21-0095,North Union ,Douglas,zebra mussel,2011,connected to Brophy
-34-0251,Norway,Kandiyohi,Eurasian watermilfoil,2002,2001
-34-0251,Norway,Kandiyohi,zebra mussel,2018,2018
-70-0095,O’Dowd,Scott,Eurasian watermilfoil,2002,2001
-10-0093,Oak,Carver,Eurasian watermilfoil,2020,2020
-19-0072,O'Brien,Dakota,Eurasian watermilfoil,2016,2016
-NA,Ocheyedan River from Lake Bella dam to Iowa border,Nobles,silver carp,2019,2019
-48-0014,Ogechie,Mille Lacs,zebra mussel,2007,2012
-82-0103,Olson,Washington,Eurasian watermilfoil,2009,connected to DeMontreville (82-0101)
-48-0009,Onamia,Mille Lacs,zebra mussel,2007,connected water
-19-0031,Orchard,Dakota,Eurasian watermilfoil,2017,2017
-71-0013,Orono,Sherburne,Eurasian watermilfoil,2020,2020
-71-0013,Orono ,Sherburne,zebra mussel,2020,2020
-56-0945,Orwell Reservoir,Otter Tail,zebra mussel,2013,2012
-77-0215,Osakis,Multiple (Todd and Douglas),zebra mussel,2016,2016
-21-0257,Oscar,Douglas,zebra mussel,2019,2019
-21-0257,Oscar ,Douglas,Eurasian watermilfoil,1995,1992
-18-0352,Ossawinnamakee,Crow Wing,zebra mussel,2004,2003
-18-0352,Ossawinnamakee,Crow Wing,Eurasian watermilfoil,2004,2002
-73-0015,Otter,Stearns,zebra mussel,2015,connected to Clearwater (86-0252)
-02-0003,Otter,Anoka,Eurasian watermilfoil,1995,1989
-73-0015,Otter ,Stearns,Eurasian watermilfoil,2011,2011
-56-0242,Otter Tail,Otter Tail,zebra mussel,2016,2016
-NA,Otter Tail River downstream of Otter Tail Lake to the confluence of the Pelican River,Otter Tail,zebra mussel,2017,connected to Otter Tail and East Lost
-NA,"Otter Tail River from 500 feet upstream of the confluence of the Pelican River downstream to the Bois De Sioux River, including 500 feet upstream into its tributaries ",Multiple (Otter Tail and Wilkin),zebra mussel,2013,2012
-,Otter Tail River from Big Pine (56-0130) to Rush (56-0141) ,Otter Tail,zebra mussel,2020,connected to East Loon (56-0523)
-NA,Outlet Creek from Minnewaska to Emily,Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-62-0056,Owasso,Ramsey,Eurasian watermilfoil,2000,2000
 27-0107,Parker’s,Hennepin,Eurasian watermilfoil,1995,1991
-10-0042,Parley,Carver,Eurasian watermilfoil,2001,2001
-56-0335,Paul,Otter Tail,zebra mussel,2013,2012
-32-0033,Pearl,Jackson,bighead carp,2012,connected water
-32-0033,Pearl,Jackson,silver carp,2012,connected water
-27-0138,Peavey,Hennepin,zebra mussel,2012,connected to Minnetonka (27-0133)
-27-0138,Peavey,Hennepin,Eurasian watermilfoil,1999,1988
-56-0786,Pelican,Otter Tail,zebra mussel,2009,2009
-18-0308,Pelican,Crow Wing,zebra mussel,2012,2012
-86-0031,Pelican,Wright,Eurasian watermilfoil,2010,2010
-61-0111,Pelican,Pope,zebra mussel,2019,2019
-NA,Pelican Brook from the source at Ossawinnamakee to the Pine River,Crow Wing,zebra mussel,2004,2003
-NA,Pelican River between Detroit and Sallie,Becker,zebra mussel,2017,connected to Detroit (03-0381)
-NA,Pelican River from Detroit to Muskrat,Becker,flowering rush,2007,year unknown
-NA,"Pelican River, from Bucks Mill Drive downstream to the Otter Tail River, including 500 feet upstream into its tributaries",Multiple (Becker and Otter Tail counties),zebra mussel,2009,2012
-02-0004,Peltier,Anoka,Eurasian watermilfoil,2000,2000
-18-0439,Pennington Mine,Crow Wing,zebra mussel,2017,connected to Mahnomen Mine Pit #1 and #2 (18-0440-01 and 18-0440-02)
-25-0001,Pepin,Multiple (Goodhue and Wabasha),Eurasian watermilfoil,2012,year unknown
-25-0001,Pepin,"Multiple (Goodhue, Wabasha)",bighead carp,2012,2003
-25-0001,Pepin,"Multiple (Goodhue, Wabasha)",silver carp,2012,connected to other Mississippi River pools
-25-0001,Pepin,"Multiple (Goodhue, Wabasha)",zebra mussel,2012,1992
-75-0075,Perkins (Lower Pomme de Terre),Stevens,zebra mussel,2018,2018
-62-0013,Phalen,Ramsey,Eurasian watermilfoil,1997,1997
-03-0287,Pickerel,Becker,zebra mussel,2014,2014
-18-0232,Pickerel,Crow Wing,zebra mussel,2006,connected to Mississippi River
-03-0287,Pickerel,Becker,flowering rush,2015,2015
-56-0475,Pickerel,Ottertail,zebra mussel,2020,2020
-10-0053,Pierson,Carver,Eurasian watermilfoil,1995,1991
-10-0053,Pierson,Carver,zebra mussel,2020,2020
-18-0354,Pig,Crow Wing,zebra mussel,2014,2016
-NA,Pigeon River downstream of South Fowl,Cook,spiny waterflea,2010,2010
-NA,Pigeon River from the Pigeon Dam Lake dam to Winnibigoshish,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-NA,Pigeon River from the Pigeon Dam Lake dam to Winnibigoshish,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-69-0490,Pike,St. Louis,zebra mussel,2009,2009
-70-0076,Pike,Scott,Eurasian watermilfoil,2014,2012
-11-0415,Pike Bay,Cass,zebra mussel,2014,2016
-NA,Pike River from Pike River Dam at CSAH 77 near Peyla to Vermilion,St. Louis,spiny waterflea,2015,connected to Vermilion (69-0378)
-04-0032,Pimushe,Beltrami,zebra mussel,2019,2019
-18-0261,Pine,Crow Wing,Eurasian watermilfoil,2017,2017
-16-0041,Pine,Cook,spiny waterflea,2005,2004
-NA,Pine River from the base of Cross Lake Dam to the confluence with Pelican Brook,Crow Wing,zebra mussel,2014,NA
-NA,Pine River upstream of Pine Lake to Cross Lake,Crow Wing,Eurasian watermilfoil,2017,2017
-NA,"Pine River, from 500 feet upstream of the mouth of Pelican Brook to the Mississippi River, including 500 feet upstream into its tributaries",Crow Wing,zebra mussel,2006,2003
-62-0046,Pleasant,Ramsey,zebra mussel,2007,2007
-62-0046,Pleasant,Ramsey,Eurasian watermilfoil,2010,2010
-86-0251,Pleasant,Wright,Eurasian watermilfoil,2017,2017
-86-0251,Pleasant,Wright,starry stonewort,2018,2018
-86-0251,Pleasant ,Wright,zebra mussel,2020,2020
-32-0027,Pletz Marsh,Jackson,bighead carp,2012,connected water
-32-0027,Pletz Marsh,Jackson,silver carp,2012,connected water
-32-0071,Plum,Jackson,bighead carp,2012,connected water
-32-0071,Plum,Jackson,silver carp,2012,connected water
-21-0140,Pocket,Douglas,zebra mussel,2016,2016
-58-0142,Pokegama,Pine,Eurasian watermilfoil,2006,2005
-31-0532,Pokegama,Itasca,zebra mussel,2019,connected to Blandin Reservoir (31-0533)
-26-0097,Pomme de Terre,Grant,zebra mussel,2018,2018
-NA,Pomme de Terre River from Ten Mile (56-0613) to 500 feet downstream of Perkins (75-0075),"Multiple (Otter Tail, Grant and Stevens)",zebra mussel,2018,connected - zebra mussels confirmed in Pomme de Terre River between Middle and North Pomme de Terre in 2018
-62-0271,Pond Six,Ramsey,Eurasian watermilfoil,2002,2001
-62-0279,Pond Three,Ramsey,Eurasian watermilfoil,2006,2004
-31-0824,Portage,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-18-0050,Portage,Crow Wing,Eurasian watermilfoil,2019,connected to Crooked (18-0041)
-19-0074,Portage (in Lebanon Hills Regional Park),Dakota,Eurasian watermilfoil,2016,2016
-27-0014,Powderhorn,Hennepin,Eurasian watermilfoil,2008,2003
-82-0092,Powers,Washington,Eurasian watermilfoil,1998,1998
-56-0915,Prairie,Otter Tail,zebra mussel,2009,2011
-04-0003,Pug Hole,Beltrami,zebra mussel,2014,2017
+27-0179,Little Long,Hennepin,Eurasian watermilfoil,1995,1991
+62-0075,Island,Ramsey,Eurasian watermilfoil,1995,1991
+70-0026,Lower Prior,Scott,Eurasian watermilfoil,1995,1991
 86-0053,Pulaski,Wright,Eurasian watermilfoil,1995,1991
-19-0128,Quarry,Dakota,Eurasian watermilfoil,2007,2006
-70-0343,Quarry,Scott,Eurasian watermilfoil,2016,2016
-31-0923,Rabbits,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-31-0923,Rabbits,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-69-0694,Rainy,St. Louis,spiny waterflea,2007,2006
-NA,Rainy River from Rainy Lake to Lake of the Woods,"Multiple (Koochiching, Lake of the Woods)",spiny waterflea,2007,2007
-86-0120,Ramsey,Wright,Eurasian watermilfoil,2004,2003
-NA,Rapid River from 500 feet upstream of Highway 11 to Clementson Bay of the Rainy River,Lake of the Woods,spiny waterflea,2007,connected to Rainy River
-31-0925,Raven,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-31-0925,Raven,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-NA,"Ravens Flowage (includes unnamed creek from S3, T146N, R29W to S11, T146N, R29W and Raven Creek downstream of Raven and Rabbit lakes to Lake Winnibigoshish)",Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-NA,"Ravens Flowage (includes unnamed creek from S3, T146N, R29W, to S11, T146N, R29W, and Raven Creek downstream of Raven and
-Rabbit lakes to Lake Winnibigoshish)",Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-40-0056,Ray's,Le Sueur,Eurasian watermilfoil,2009,2008
-19-0003,Rebecca,Dakota,zebra mussel,2009,2009
-27-0192,Rebecca,Hennepin,Eurasian watermilfoil,1995,1989
-04-0035,Red,Beltrami,zebra mussel,2019,2019 (veligers)
-NA,Red River,"Multiple (Clay, Kittson, Marshall, Norman, Polk and Wilkin)",zebra mussel,2015,2015
-56-0711,Red River Lake,Otter Tail,zebra mussel,2017,connected to Otter Tail and East Lost
-21-0214,Redick Swamp,Douglas,zebra mussel,2017,connected to Whiskey (21021600)
-56-0876,Reed,Otter Tail,zebra mussel,2018,connected to Long (56-0784)
-81-0055,Reeds,Waseca,Eurasian watermilfoil,2014,2014
-10-0052,Reitz,Carver,Eurasian watermilfoil,2008,2008
-61-0078,Reno,Pope,zebra mussel,2014,2018
-18-0145,Rice,Crow Wing,zebra mussel,2006,2005
-31-0876,Rice,Itasca,zebra mussel,2013,connected to Sand (31-0826) and Little Sand (31-0853)
-27-0116,Rice,Hennepin,Eurasian watermilfoil,1997,1996
-73-0196,Rice,Stearns,starry stonewort,2016,2016
-10-0002,Riley,Carver,zebra mussel,2018,2018
-10-0002,Riley,Carver,Eurasian watermilfoil,1995,1990
-47-0134,Ripley,Meeker,Eurasian watermilfoil,2004,2002
-NA,Ripple River between Bay and Tame Fish,Crow Wing,Eurasian watermilfoil,2000,2000
-none,Ripple River between Farm Island (01-0159) and Little Pine (01-0176),Aitkin,zebra mussel,2020,connected to Farm Island (01-0159)
-,Ripple River from Bay Lake to Farm Island Lake,Crow Wing,zebra mussel,2020,connected to Tame Fish (18-0002)
-86-0182,Rock,Wright,Eurasian watermilfoil,1995,1993
-11-0043,Roosevelt,Multiple (Cass and Crow Wing),Eurasian watermilfoil,2016,2016
-56-0360,Rose,Otter Tail,zebra mussel,2011,2011
-73-0072,Rossier,Stearns,zebra mussel,2014,connected water
-69-1292,Rouchleau Mine Pit (connected to Mesabi Mt. or Missabe Mtn. Pit),St. Louis,zebra mussel,2019,2019
-56-0214,Round,Otter Tail,zebra mussel,2018,2018
-01-0204,Round,Multiple (Aitkin and Crow Wing),zebra mussel,2016,2016
-18-0373,Round,Crow Wing,zebra mussel,2010,2010
-27-0071,Round,Hennepin,Eurasian watermilfoil,1996,1995
-27-0071,Round,Hennepin,brittle naiad,2010,2010
-32-0069,Round,Jackson,bighead carp,2012,connected water
-32-0069,Round,Jackson,silver carp,2012,connected water
-21-0197,Round,Douglas,Eurasian watermilfoil,2014,2013
-62-0012,Round,Ramsey,Eurasian watermilfoil,1997,1997
-86-0192,Round,Wright,Eurasian watermilfoil,2009,2009
-26-0031,Round,Grant,zebra mussel,2017,connected to Elk (26004000)
-56-0522,Round,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-18-0398,Roy,Crow Wing,zebra mussel,2010,connected to Gull (11-0305)
-16-0025,Royal (on the Royal River),Cook,spiny waterflea,2010,2010
-NA,Royal River between Little John and North Fowls,Cook,spiny waterflea,2010,connected to Little John (16-0026)
-NA,Rum River including 500 feet upstream into its tributaries ,"Multiple (Anoka, Isanti, Mille Lacs and Sherburne)",zebra mussel,2007,2005
-56-1641,Rusch,Otter Tail,zebra mussel,2013,2012
-32-0031,Rush,Jackson,bighead carp,2012,connected water
-32-0031,Rush,Jackson,silver carp,2012,connected water
-32-0063,Rush,Jackson,bighead carp,2012,connected water
-32-0063,Rush,Jackson,silver carp,2012,connected water
-13-0069,Rush,Chisago,Eurasian watermilfoil,1995,1992
-71-0147,Rush,Sherburne,Eurasian watermilfoil,2014,2014
-56-0141,Rush,Otter Tail,zebra mussel,2017,2017
-18-0311,Rush-Hen,Crow Wing,zebra mussel,2014,2013 - veligers
-18-0212,Ruth,Crow Wing,zebra mussel,2015,2015
-18-0212,Ruth,Crow Wing,Eurasian watermilfoil,1997,1997
-16-0633,Saganaga,Cook,spiny waterflea,2004,2003
-03-0359,Sallie,Becker,flowering rush,2007,1989
-03-0359,Sallie,Becker,zebra mussel,2016,2016
-31-0826,Sand,Itasca,zebra mussel,2013,2013
-58-0081,Sand,Pine,Eurasian watermilfoil,2004,2003
-69-0617,Sand Point,St. Louis,spiny waterflea,2007,2007
-51-0063,Sarah,Murray,zebra mussel,2018,2018
-27-0191,Sarah,Hennepin,Eurasian watermilfoil,1995,1990
-77-0150,Sauk,Todd,Eurasian watermilfoil,1995,1994
-77-0150,Sauk,Todd,flowering rush,2009,2009
-77-0150,Sauk,Todd,zebra mussel,2018,2018
-,Sauk Lake (77-0150) tributaries from their mouths upstream 500 feet or to the posted boundaries,Todd,zebra mussel,2019,connected to Sauk (77-0150)
-NA,Sauk River from Juergens to Sauk,Todd,flowering rush,2007,1997
-NA,Sauk River from Knaus to Mississippi River,Stearns,zebra mussel,2017,2017
-NA,Sauk River from Osakis to Guernsey,Todd,zebra mussel,2016,connected to Osakis (77-0215)
-NA,Sauk River from Sauk (77-0150) to Becker (73-0156),Todd,zebra mussel,2018,2018
-27-0185,Saunders,Hennepin,Eurasian watermilfoil,2014,2014
-61-0041,Scandinavian,Pope,Eurasian watermilfoil,2014,2013
-27-0102,Schmidt,Hennepin,Eurasian watermilfoil,1995,1990
-86-0029,Schmidt,Wright,Eurasian watermilfoil,2014,2014
-73-0082,Schneider,Stearns,zebra mussel,2018,connected by the Sauk River between Sauk (77-0150) and Becker (73-0156)
-73-0035,School Section,Stearns,Eurasian watermilfoil,2018,2018
-19-0075,Schultz,Dakota,Eurasian watermilfoil,2000,2000
-10-0018,Schutz,Carver,Eurasian watermilfoil,1995,1990
-29-0085,Second Crow Wing,Hubbard,faucet snail,2011,2011
-NA,Sensky Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,connected water
-18-0090,Serpent,Crow Wing,zebra mussel,2017,2017
-,Serpent Creek between Serpent Lake (18009000) and Armour #2 mine ,Crow Wing,zebra mussel,2020,connected to Armour #2 mine
-27-0089,Shady Oak,Hennepin,Eurasian watermilfoil,2019,2019
-69-0069,Shagawa,St. Louis,spiny waterflea,2014,year unknown
-NA,Shagawa River between Shagawa Lake and Fall Lake,Multiple (St. Louis and Lake),spiny waterflea,2014,connected to Shagawa (69-0069)
-48-0012,Shakopee,Mille Lacs,zebra mussel,2007,connected water
-NA,Shakopee Creek from Norway (34-0251) to Andrew (34-0206),Kandiyohi,zebra mussel,2018,connected to Norway (34-0251)
-61-0112,Shallow Pond,Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-49-0127,Shamineau,Morrison,Eurasian watermilfoil,2012,2012
-NA,"Shell River, from Upper Twin to Crow Wing River, including 500 feet upstream into its tributaries ",Multiple (Hubbard and Wadena),faucet snail,2009,2009
-66-0055,Shields,Rice,Eurasian watermilfoil,2015,2015
-NA,Shotley Brook,Beltrami,zebra mussel,2019,connected to Red (04-0035)
-61-0149,Signalness (also known as Mountain),Pope,zebra mussel,2016,2016
-62-0001,Silver,Ramsey,Eurasian watermilfoil ,1995,1992
-86-0140,Silver,Wright,Eurasian watermilfoil,2011,2011
-NA,Silver Creek from 500 feet upstream of Highway 11 to the Rainy River,Lake of the Woods,spiny waterflea,2007,connected water
-21-0084,Skoglund Slough,Douglas,zebra mussel,2014,connected to Mary (21-0092)
-30-0022,Skogman,Isanti,Eurasian watermilfoil,2014,2014
-32-0059,Skunk,Jackson,bighead carp,2012,connected water
-32-0059,Skunk,Jackson,silver carp,2012,connected water
-27-0073,Smetana,Hennepin,Eurasian watermilfoil,2020,2020
-62-0073,Snail,Ramsey,Eurasian watermilfoil,2000,2000
-NA,"Snake River between Pokegama and Cross, including 500 feet upstream into its tributaries",Pine,Eurasian watermilfoil,2005,2004
-27-0001,Snelling,Hennepin,Eurasian watermilfoil,2006,2005
-86-0230,Somers,Wright,Eurasian watermilfoil,2014,2013
-13-0027,South Center,Chisago,Eurasian watermilfoil,2009,2008
-02-0048,South Coon,Anoka,Eurasian watermilfoil,2010,2010
-16-0034,South Fowl,Cook,spiny waterflea,2010,2010
-13-0028,South Lindstrom,Chisago,Eurasian watermilfoil,2010,2010
-31-0191,South Twin,Itasca,flowering rush,2007,1995
-31-0191,South Twin,Itasca,Eurasian watermilfoil,2016,2016
-44-0014,South Twin,Mahnomen,zebra mussel,2019,2019
-27-0062,Southeast Anderson,Hennepin,Eurasian watermilfoil,2017,2017
-30-0135,Spectacle,Isanti,Eurasian watermilfoil,2007,2007
-30-0135,Spectacle,Isanti,zebra mussel,2019,2019
-11-0221,Spider,Cass,zebra mussel,2010,connected to Gull (11-0305)
-31-0538,Spider,Itasca,flowering rush,2014,2014
-32-0023,Spirit,Jackson,bighead carp,2012,connected water
-32-0023,Spirit,Jackson,silver carp,2012,connected water
-NA,Spoon Creek between Keller and Phalen lakes,Ramsey,Eurasian watermilfoil,1999,1995
-66-0045,Sprague,Rice,flowering rush,2014,2013
-26-0032,Spring,Grant,zebra mussel,2017,connected to Elk (26004000)
-73-0183,St. Anna,Stearns,Eurasian watermilfoil,2014,2014
-03-0382,St. Clair,Becker,zebra mussel,2020,connected to Long (3-0383)
-82-0001,St. Croix River,Washington,Eurasian watermilfoil,1995,1992
-NA,St. Croix River downstream of the dam at Taylors Falls ,Multiple (Chisago and Washington),bighead carp,2012,1996
-NA,St. Croix River downstream of the dam at Taylors Falls ,Multiple (Chisago and Washington),silver carp,2012,connected water
-NA,St. Croix River downstream of the dam at Taylors Falls ,Multiple (Chisago and Washington),grass carp,2015,connected to Mississippi River
-NA,St. Croix River downstream of the St.Croix Boomsite Recreation Area at river mile 25.4,Washington,zebra mussel,2001,2000
-NA,St. Louis River downstream of the Cloquet River,Multiple (Carlton and St. Louis),spiny waterflea,1995,connected water
-NA,St. Louis River downstream of the Fond du Lac dam,Multiple (Carlton and St. Louis),ruffe,1995,year unknown
-NA,St. Louis River downstream of the Fond du Lac dam,Multiple (Carlton and St. Louis),white perch,1995,year unknown
-NA,St. Louis River downstream of the Fond du Lac dam,Multiple (Carlton and St. Louis),round goby,1996,year unknown
-NA,St. Louis River downstream of the Fond du Lac dam,Multiple (Carlton and St. Louis),New Zealand mud snail,2007,year unknown
-NA,St. Louis River downstream of the Fond du Lac dam,Multiple (Carlton and St. Louis),VHS,2010,connected to Superior (16-0001)
-NA,St. Louis River downstream of the Fond du Lac dam,Multiple (Carlton and St. Louis),faucet snail,2014,2014
-NA,St. Louis River downstream of the mouth of the White Pine River in St. Louis County,Multiple (Carlton and St. Louis),zebra mussel,1995,"1989, 2009"
-56-0437,Stalker,Otter Tail,flowering rush,2018,2018
-56-0385,Star,Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-27-0078,Staring,Hennepin,brittle naiad,2015,2015
-27-0078,Staring,Hennepin,Eurasian watermilfoil,2015,2015
-11-0504,Steamboat,"Multiple (Cass, Hubbard)",zebra mussel,2017,2017
-10-0045,Steiger,Carver,Eurasian watermilfoil,2002,2001
-47-0068,Stella,Meeker,zebra mussel,2015,2015
-47-0068,Stella,Meeker,Eurasian watermilfoil,1999,1999
-10-0056,Stone,Carver,Eurasian watermilfoil,1995,1991
-21-0101,Stoney (Stony),Douglas,zebra mussel,2011,connected to Brophy
-21-0264,Stowe,Douglas,zebra mussel,2017,connected to Whiskey (21021600)
-,Stream connections from Long Lake (03038300) to Pelican River,Becker,zebra mussel,2020,connected to Long (3-0383)
-NA,stream segment between  Aaron (21-0242) and Moses (21-0245),Douglas,zebra mussel,2020,connected to Aaron (21-0242)
-NA,Stream segments between West McDonald (56-0386-02) and Walker (56-0310),Otter Tail,zebra mussel,2019,connected to West McDonald (56-0386-02)
-NA,Streams from West Battle to Otter Tail,Otter Tail,zebra mussel,2018,"connected to West Battle, Molly Stark and Annie Battle"
-58-0067,Sturgeon,Pine,Eurasian watermilfoil,2008,2008
-62-0028,Sucker,Ramsey,zebra mussel,2007,2007
-62-0028,Sucker,Ramsey,Eurasian watermilfoil,1996,1995
-86-0233,Sugar,Wright,zebra mussel,2018,2018
-31-0926,Sugar,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-31-0926,Sugar,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-86-0233,Sugar,Wright,Eurasian watermilfoil,1995,1990
-82-0107,Sunfish,Washington,Eurasian watermilfoil,2019,2018
-82-0133,Sunnybrook,Washington,Eurasian watermilfoil,2019,2019
-82-0153,Sunset,Washington,Eurasian watermilfoil,2001,2001
-19-0451,Sunset Pond,Dakota,Eurasian watermilfoil,2004,2002
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",zebra mussel,1995,1989
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",spiny waterflea,1995,1987
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",white perch,1995,year unknown
-16-0001,Superior,"Multiple (Cook, Lake, St. Louis)",ruffe,1995,year unknown
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",round goby,1996,year unknown
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",Eurasian watermilfoil,2007,2006
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",New Zealand mud snail,2007,year unknown
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",VHS,2010,2010
-16-0001,Superior,"Multiple (Cook, Lake and St. Louis)",faucet snail,2014,connected to St. Louis River
-NA,"Superior Tributaries,either the entire length of the tributary or, on tributaries that have been posted, upstream to the posted boundaries","Multiple (Cook, Lake and St. Louis)",round goby,2010,2010
-NA,"Superior Tributaries,either the entire length of the tributary or, on tributaries that have been posted, upstream to the posted boundaries","Multiple (Cook, Lake and St. Louis)",ruffe,2010,connected to Superior (16-0001)
-NA,"Superior Tributaries,either the entire length of the tributary or, on tributaries that have been posted, upstream to the posted boundaries","Multiple (Cook, Lake and St. Louis)",VHS,2010,connected to Superior (16-0001)
-NA,"Superior Tributaries,either the entire length of the tributary or, on tributaries that have been posted, upstream to the posted boundaries","Multiple (Cook, Lake and St. Louis)",white perch,2010,connected to Superior (16-0001)
-10-0013,Susan,Carver,Eurasian watermilfoil,2005,2004
-10-0013,Susan,Carver,brittle naiad,2019,2019
-34-0223,Swan,Kandiyohi,zebra mussel,2018,connected to Norway (34-0251)
-56-0781,Swan,Otter Tail,zebra mussel,2019,2019
-none,"Swan (located in the NW 1/4 of the NW 1/4 of S4, T117N, R23W)",Hennepin,Eurasian watermilfoil,1995,1993
-10-0095,Swede,Carver,Eurasian watermilfoil,2008,2008
-40-0092,Swede's Bay (DOW 40-0092-03),Le Sueur,Eurasian watermilfoil,2015,part of Jefferson chain
-NA,Swift Ditch from 500 feet upstream of Highway 12 downstream to Lake of the Woods,Roseau,spiny waterflea,2011,connected water
-56-0387,Sybil,Otter Tail,zebra mussel,2016,2016
-11-0304,Sylvan,Cass,zebra mussel,2020,2020
-73-0249,Sylvia,Stearns,zebra mussel,2015,2015
-73-0249,Sylvia,Stearns,Eurasian watermilfoil,2011,2011
-NA,Tamarac River,Beltrami,zebra mussel,2019,connected to Red (04-0035)
-18-0002,Tame Fish,Crow Wing,zebra mussel,2020,2020
-27-0141,Tanager,Hennepin,zebra mussel,2012,connected to Minnetonka (27-0133)
-27-0141,Tanager,Hennepin,Eurasian watermilfoil,1999,1988
-56-0613,Ten Mile,Otter Tail,zebra mussel,2017,2017
-11-0413,Ten Mile,Cass,zebra mussel,2019,2019 - veligers
-40-0031,Tetonka,Le Sueur,flowering rush,2009,2008
-40-0031,Tetonka,Le Sueur,Eurasian watermilfoil,2016,2016
-29-0077,Third Crow Wing,Hubbard,faucet snail,2018,2016
-NA,Third River downstream of Highway 33,Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-NA,Third River downstream of Highway 33,Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-"none, part of Winnibigoshish",Third River Flowage (part of Lake Winnibigoshish),Itasca,zebra mussel,2013,connected to Winnibigoshish (11-0147)
-"none, part of Winnibigoshish",Third River Flowage (part of Lake Winnibigoshish),Itasca,faucet snail,2009,connected to Winnibigoshish (11-0147)
-70-0120,Thole,Scott,Eurasian watermilfoil,2002,2001
-19-0067,Thomas,Dakota,Eurasian watermilfoil,2012,2011
-NA,Threemile Creek between Otter and Clearwater,Stearns,zebra mussel,2015,connected to Clearwater (86-0252)
-14-0004,Tilde,Clay,red swamp crayfish,2016,2016
-11-0190,Town Line,Cass,Eurasian watermilfoil,2009,2009
-16-0049,Trout,Cook,spiny waterflea,2013,2012
-31-0216,Trout,Itasca,flowering rush,2015,2015
-21-0090,Turtle,Douglas,zebra mussel,2014,2014
-62-0061,Turtle,Ramsey,Eurasian watermilfoil,2000,2000
-26-0030,Turtle,Grant,zebra mussel,2017,connected to Elk (26004000)
-04-0159,Turtle (Big Turtle),Beltrami,starry stonewort,2016,2016
-27-0042,Twin,Hennepin,Eurasian watermilfoil,2007,2006
-19-0028,Twin Lakes,Dakota,Eurasian watermilfoil,1997,1996
-60-0217,Union,Polk,Eurasian watermilfoil,2007,2007
-21-0440,Unnamed,Douglas,zebra mussel,2014,connected to Mary (21-0092)
-21-0479,Unnamed,Douglas,zebra mussel,2014,connected to Mary (21-0092)
-56-1118,Unnamed,Otter Tail,zebra mussel,2019,connected to Swan (56-0781)
-56-0588,Unnamed,Otter Tail,zebra mussel,2019,connected to Swan (56-0781)
-56-0605,Unnamed,Otter Tail,zebra mussel,2019,connected to Swan (56-0781)
-03-1162,Unnamed,Becker,zebra mussel,2020,connected to Long (3-0383)
-10-0218,Unnamed (Grace),Carver,Eurasian watermilfoil,2016,2016
-19-0035,Unnamed (in McGroarty Park),Dakota,Eurasian watermilfoil,2016,2016
-73-0312,Unnamed (wetland along Clearwater River),Multiple (Stearns and Wright),zebra mussel,2015,connected to Clearwater (86-0252)
-73-0312,Unnamed (wetland along Clearwater River),Multiple (Stearns and Wright),Eurasian watermilfoil,1999,1998
-NA,Unnamed creek between Anderson’s Marsh and Pearl,Jackson,bighead carp,2012,connected water
-NA,Unnamed creek between Anderson’s Marsh and Pearl,Jackson,silver carp,2012,connected water
-NA,Unnamed creek between Crooked Lake and Houghtaling Creek,Lake,zebra mussel,2014,connected to Crooked (38-0024)
-NA,Unnamed creek between Pearl and Loon ,Jackson,bighead carp,2012,connected water
-NA,Unnamed creek between Pearl and Loon ,Jackson,silver carp,2012,connected water
-NA,Unnamed creek between Rush and Anderson’s Marsh,Jackson,bighead carp,2012,connected water
-NA,Unnamed creek between Rush and Anderson’s Marsh,Jackson,silver carp,2012,connected water
-none,"Unnamed gravel pit (located in S 1/2 of S14, T41N, R21W)",Pine,Eurasian watermilfoil,2005,2004
-none,"Unnamed gravel pit (located in S16, T108, R20W)",Steele,Eurasian watermilfoil,2012,2011
-56-1126,Unnamed lake,Otter Tail,zebra mussel,2018,connected to Molly Stark and Annie Battle
-32-0061,Unnamed lake,Jackson,bighead carp,2012,connected water
-32-0061,Unnamed lake,Jackson,silver carp,2012,connected water
-32-0062,Unnamed lake,Jackson,bighead carp,2012,connected water
-32-0062,Unnamed lake,Jackson,silver carp,2012,connected water
-32-0093,Unnamed lake,Jackson,bighead carp,2012,connected water
-32-0093,Unnamed lake,Jackson,silver carp,2012,connected water
-19-0064,Unnamed lake,Dakota,flowering rush,2007,year unknown
-19-0062,Unnamed lake (Hay),Dakota,flowering rush,2018,2018
+86-0114,Waverly,Wright,Eurasian watermilfoil,1995,1991
+,"Niccum’s Pond (located in the NW 1/4 of the SW 1/4 of S10, T117N, R24W)",Hennepin,Eurasian watermilfoil,1995,1991
+02-0654,Cenaiko,Anoka,Eurasian watermilfoil,1995,1992
 02-0688,Unnamed Lake in Springbrook Nature Center,Anoka,Eurasian watermilfoil,1995,1992
-32-0055,Unnamed lake on Little Sioux River,Jackson,bighead carp,2012,connected water
-32-0055,Unnamed lake on Little Sioux River,Jackson,silver carp,2012,connected water
-32-0096,Unnamed lake on Little Sioux River,Jackson,bighead carp,2012,connected water
-32-0096,Unnamed lake on Little Sioux River,Jackson,silver carp,2012,connected water
-61-0511,Unnamed pond,Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-62-0129,Unnamed pond (Black Tern Pond),Ramsey,Eurasian watermilfoil,2016,2016
+13-0069,Rush,Chisago,Eurasian watermilfoil,1995,1992
+18-0034,Bay,Crow Wing,Eurasian watermilfoil,1995,1992
+19-0005,"Mississippi River, Pool 2, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+21-0257,Oscar ,Douglas,Eurasian watermilfoil,1995,1992
+25-0001,Pepin,Multiple,zebra mussel,2012,1992
+25-0017,"Mississippi River, Pool 3, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+27-0003,"Mississippi River, Pool 1, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+27-0111,Eagle (includes Pike),Hennepin,Eurasian watermilfoil,1995,1992
+27-0137,Christmas,Hennepin,Eurasian watermilfoil,1995,1992
+27-0160,Long,Hennepin,Eurasian watermilfoil,1995,1992
+28-0001,"Mississippi River, Pool 9, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+28-0005,"Mississippi River, Pool 8, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+62-0001,Silver,Ramsey,Eurasian watermilfoil ,1995,1992
+62-0082,Wabasso,Ramsey,Eurasian watermilfoil,1995,1992
+79-0001,"Mississippi River, Pool 5, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+79-0005,"Mississippi River, Pool 4, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+82-0001,St. Croix River,Washington,Eurasian watermilfoil,1995,1992
+85-0001,"Mississippi River, Pool 7, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+85-0002,"Mississippi River, Pool 6, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+85-0013,"Mississippi River, Pool 5A, including 500 feet upstream into its tributaries",Multiple,zebra mussel,1995,1992
+86-0106,Little Waverly,Wright,Eurasian watermilfoil,1995,1992
+27-0118,Fish,Hennepin,Eurasian watermilfoil,1995,1993
+86-0023,Beebe,Wright,Eurasian watermilfoil,1995,1993
+86-0182,Rock,Wright,Eurasian watermilfoil,1995,1993
+86-0284,Augusta,Wright,Eurasian watermilfoil,1995,1993
+,"Swan (located in the NW 1/4 of the NW 1/4 of S4, T117N, R23W)",Hennepin,Eurasian watermilfoil,1995,1993
+27-0018,Hiawatha,Hennepin,Eurasian watermilfoil,1995,1994
+77-0150,Sauk,Todd,Eurasian watermilfoil,1995,1994
+10-0012,Ann,Carver,Eurasian watermilfoil,1995,1995
+27-0019,Nokomis,Hennepin,Eurasian watermilfoil,1995,1995
+27-0045,Arrowhead,Hennepin,Eurasian watermilfoil,1996,1995
+27-0071,Round,Hennepin,Eurasian watermilfoil,1996,1995
+31-0191,South Twin,Itasca,flowering rush,2007,1995
+62-0007,Gervais,Ramsey,Eurasian watermilfoil,1995,1995
+62-0010,Keller,Ramsey,Eurasian watermilfoil,1995,1995
+62-0028,Sucker,Ramsey,Eurasian watermilfoil,1996,1995
+,Spoon Creek between Keller and Phalen lakes,Ramsey,Eurasian watermilfoil,1999,1995
+19-0028,Twin Lakes,Dakota,Eurasian watermilfoil,1997,1996
+27-0037,Wirth,Hennepin,Eurasian watermilfoil,1997,1996
+27-0116,Rice,Hennepin,Eurasian watermilfoil,1997,1996
+27-0184,Whaletail,Hennepin,Eurasian watermilfoil,1997,1996
+61-0072,Gilchrist,Pope,Eurasian watermilfoil,1997,1996
+,St. Croix River downstream of the dam at Taylors Falls ,Multiple,bighead carp,2012,1996
+10-0226,Firemen’s,Carver,Eurasian watermilfoil,1997,1997
+18-0212,Ruth,Crow Wing,Eurasian watermilfoil,1997,1997
+62-0012,Round,Ramsey,Eurasian watermilfoil,1997,1997
+62-0013,Phalen,Ramsey,Eurasian watermilfoil,1997,1997
+86-0156,Mary,Wright,Eurasian watermilfoil,1997,1997
+,Sauk River from Juergens to Sauk,Todd,flowering rush,2007,1997
+02-0091,George,Anoka,Eurasian watermilfoil,1998,1998
+19-0026,Marion,Dakota,Eurasian watermilfoil,1998,1998
+27-0098,Bass,Hennepin,Eurasian watermilfoil,1998,1998
+48-0002,Mille Lacs,Mille Lacs,Eurasian watermilfoil,1999,1998
+61-0130,Minnewaska,Pope,Eurasian watermilfoil,1998,1998
+66-0010,Wells,Rice,flowering rush,2007,1998
+73-0312,Unnamed (wetland along Clearwater River),Multiple,Eurasian watermilfoil,1999,1998
+82-0092,Powers,Washington,Eurasian watermilfoil,1998,1998
+82-0159,Forest,Washington,flowering rush,2007,1998
+86-0242,Weigand,Wright,Eurasian watermilfoil,1999,1998
+,Mille Lacs tributaries from their mouths upstream to the posted boundaries,Multiple,Eurasian watermilfoil,1999,1998
+,"Clearwater River downstream of Clearwater, including 500 feet upstream into its tributaries",Wright,Eurasian watermilfoil,1999,1998
+02-0006,Centerville,Anoka,Eurasian watermilfoil,1999,1999
+31-0370,McKinney,Itasca,Eurasian watermilfoil,1999,1999
+31-0372,Ice,Itasca,Eurasian watermilfoil,1999,1999
+47-0046,Washington,Meeker,Eurasian watermilfoil,1999,1999
+47-0068,Stella,Meeker,Eurasian watermilfoil,1999,1999
+69-0503,Horseshoe,St. Louis,Eurasian watermilfoil,2000,1999
+69-1306,Gilbert Pit (Ore-be-gone),St. Louis,Eurasian watermilfoil,1999,1999
+86-0090,Buffalo,Wright,Eurasian watermilfoil,1999,1999
+02-0004,Peltier,Anoka,Eurasian watermilfoil,2000,2000
+19-0075,Schultz,Dakota,Eurasian watermilfoil,2000,2000
+27-0900,Unnamed wetland,Hennepin,Eurasian watermilfoil,2000,2000
+30-0136,Green,Isanti,Eurasian watermilfoil,2000,2000
+31-0190,North Twin,Itasca,Eurasian watermilfoil,2000,2000
+34-0079,Green,Kandiyohi,Eurasian watermilfoil,2000,2000
+55-0004,Zumbro,Olmsted,zebra mussel,2000,2000
+62-0006,Kohlmans,Ramsey,Eurasian watermilfoil,2000,2000
+62-0054,McCarron,Ramsey,Eurasian watermilfoil,2000,2000
+62-0056,Owasso,Ramsey,Eurasian watermilfoil,2000,2000
+62-0061,Turtle,Ramsey,Eurasian watermilfoil,2000,2000
+62-0073,Snail,Ramsey,Eurasian watermilfoil,2000,2000
+70-0072,Upper Prior,Scott,Eurasian watermilfoil,2000,2000
+86-0107,Deer,Wright,Eurasian watermilfoil,2000,2000
+86-0108,Goose,Wright,Eurasian watermilfoil,2000,2000
+,Ripple River between Bay and Tame Fish,Crow Wing,Eurasian watermilfoil,2000,2000
+,"Zumbro River downstream of Zumbro, including 500 feet upstream into its tributaries",Wabasha,zebra mussel,2000,2000
+,St. Croix River downstream of the St.Croix Boomsite Recreation Area at river mile 25.4,Washington,zebra mussel,2001,2000
+10-0042,Parley,Carver,Eurasian watermilfoil,2001,2001
+10-0045,Steiger,Carver,Eurasian watermilfoil,2002,2001
+10-0048,Wasserman,Carver,Eurasian watermilfoil,2001,2001
+10-0121,Eagle,Carver,Eurasian watermilfoil,2001,2001
+27-0144,Galpin,Hennepin,Eurasian watermilfoil,2001,2001
+34-0251,Norway,Kandiyohi,Eurasian watermilfoil,2002,2001
+62-0271,Pond Six,Ramsey,Eurasian watermilfoil,2002,2001
+66-0052,Cedar,Rice,Eurasian watermilfoil,2001,2001
+70-0095,O’Dowd,Scott,Eurasian watermilfoil,2002,2001
+70-0120,Thole,Scott,Eurasian watermilfoil,2002,2001
+82-0153,Sunset,Washington,Eurasian watermilfoil,2001,2001
+86-0273,French,Wright,Eurasian watermilfoil,2002,2001
+18-0352,Ossawinnamakee,Crow Wing,Eurasian watermilfoil,2004,2002
+19-0451,Sunset Pond,Dakota,Eurasian watermilfoil,2004,2002
+27-0070,Mitchell,Hennepin,Eurasian watermilfoil,2004,2002
+40-0063,German,Le Sueur,Eurasian watermilfoil,2004,2002
+40-0092,East Jefferson (DOW 40-0092-01),Le Sueur,Eurasian watermilfoil,2004,2002
+47-0134,Ripley,Meeker,Eurasian watermilfoil,2004,2002
+71-0055,Little Elk,Sherburne,Eurasian watermilfoil,2004,2002
+86-0183,Fish,Wright,Eurasian watermilfoil,2004,2002
+02-0042,Coon,Anoka,Eurasian watermilfoil,2004,2003
+10-0084,Burandt,Carver,Eurasian watermilfoil,2004,2003
+16-0633,Saganaga,Cook,spiny waterflea,2004,2003
+18-0352,Ossawinnamakee,Crow Wing,zebra mussel,2004,2003
+19-0446,Lac Lavon,Dakota,brittle naiad,2007,2003
+25-0001,Pepin,Multiple,bighead carp,2012,2003
+27-0014,Powderhorn,Hennepin,Eurasian watermilfoil,2008,2003
+27-0664,Wolfe,Hennepin,Eurasian watermilfoil,2004,2003
+49-0079,Alexander,Morrison,Eurasian watermilfoil,2004,2003
+58-0081,Sand,Pine,Eurasian watermilfoil,2004,2003
+62-0231,Loeb,Ramsey,Eurasian watermilfoil,2004,2003
+77-0089,Little Birch,Todd,Eurasian watermilfoil,2004,2003
+86-0088,Mink,Wright,Eurasian watermilfoil,2004,2003
+86-0120,Ramsey,Wright,Eurasian watermilfoil,2004,2003
+86-0199,Howard,Wright,Eurasian watermilfoil,2004,2003
+86-0223,Indian,Wright,Eurasian watermilfoil,2004,2003
+,Pelican Brook from the source at Ossawinnamakee to the Pine River,Crow Wing,zebra mussel,2004,2003
+,"Pine River, from 500 feet upstream of the mouth of Pelican Brook to the Mississippi River, including 500 feet upstream into its tributaries",Crow Wing,zebra mussel,2006,2003
+07-0079,Lura,Blue Earth,Eurasian watermilfoil,2005,2004
+10-0013,Susan,Carver,Eurasian watermilfoil,2005,2004
+11-0203,Leech,Cass,Eurasian watermilfoil,2005,2004
+16-0041,Pine,Cook,spiny waterflea,2005,2004
+16-0077,Greenwood,Cook,spiny waterflea,2005,2004
+16-0147,Flour,Cook,spiny waterflea,2005,2004
+27-1130,Arbor West,Hennepin,Eurasian watermilfoil,2006,2004
+27-1140,"Arbor North (NW 1/4, SW 1/4, S23, T119N, R22W)",Hennepin,Eurasian watermilfoil,2006,2004
+58-0119,Cross,Pine,Eurasian watermilfoil,2005,2004
+62-0016,Beaver,Ramsey,Eurasian watermilfoil,2005,2004
+62-0279,Pond Three,Ramsey,Eurasian watermilfoil,2006,2004
+82-0052,Big Marine,Washington,Eurasian watermilfoil,2005,2004
+,"Snake River between Pokegama and Cross, including 500 feet upstream into its tributaries",Pine,Eurasian watermilfoil,2005,2004
+,"Arbor South (S 1/2, SW 1/4, S23, T119N, R22W)",Hennepin,Eurasian watermilfoil,2006,2004
+,"Unnamed gravel pit (located in S 1/2 of S14, T41N, R21W)",Pine,Eurasian watermilfoil,2005,2004
+13-0035,North Lindstrom,Chisago,Eurasian watermilfoil,2006,2005
+18-0145,Rice,Crow Wing,zebra mussel,2006,2005
+19-0025,Keller,Dakota,Eurasian watermilfoil,2006,2005
+19-0033,Earley,Dakota,Eurasian watermilfoil,2006,2005
 19-0348,Unnamed pond (Valley Pond) in Valley Park,Dakota,Eurasian watermilfoil,2006,2005
-27-0721,"Unnamed pond in the NW 1/4 of S14, T117, R22",Hennepin,zebra mussel,2010,connected to Minnehaha Creek
+27-0001,Snelling,Hennepin,Eurasian watermilfoil,2006,2005
+47-0016,Wolf,Meeker,Eurasian watermilfoil,2006,2005
+47-0050,Manuella,Meeker,Eurasian watermilfoil,2006,2005
+48-0002,Mille Lacs,Mille Lacs,zebra mussel,2006,2005
+58-0142,Pokegama,Pine,Eurasian watermilfoil,2006,2005
+62-0024,Birch,Ramsey,Eurasian watermilfoil,2006,2005
+71-0067,Eagle,Sherburne,Eurasian watermilfoil,2006,2005
+81-0014,Clear,Waseca,Eurasian watermilfoil,2006,2005
+82-0106,Elmo,Washington,Eurasian watermilfoil,2006,2005
+82-0118,Long,Washington,Eurasian watermilfoil,2006,2005
+,"Mississippi River, from 500 feet upstream of the mouth of the Pine River in Crow Wing County to Upper St. Anthony Falls, including 500 feet upstream into its tributaries",Multiple,zebra mussel,2006,2005
+,Rum River including 500 feet upstream into its tributaries ,Multiple,zebra mussel,2007,2005
+10-0007,Lucy,Carver,Eurasian watermilfoil,2007,2006
+13-0068,Fish,Chisago,Eurasian watermilfoil,2007,2006
+16-0001,Superior,Multiple,Eurasian watermilfoil,2007,2006
+19-0128,Quarry,Dakota,Eurasian watermilfoil,2007,2006
+27-0017,Lakewood Cemetery,Hennepin,Eurasian watermilfoil,2007,2006
+27-0042,Twin,Hennepin,Eurasian watermilfoil,2007,2006
+30-0072,Long,Isanti,Eurasian watermilfoil,2007,2006
+69-0693,Namakan,St. Louis,spiny waterflea,2007,2006
+69-0694,Rainy,St. Louis,spiny waterflea,2007,2006
+82-0054,Bone,Washington,Eurasian watermilfoil,2007,2006
+82-0163,Clear,Washington,Eurasian watermilfoil,2007,2006
+82-0168,Mud,Washington,Eurasian watermilfoil,2007,2006
+82-0502,Camp Galilee,Washington,Eurasian watermilfoil,2007,2006
+85-0011,Winona,Winona,Eurasian watermilfoil,2007,2006
+86-0139,Little Mary,Wright,Eurasian watermilfoil,2007,2006
+86-0188,Emma,Wright,Eurasian watermilfoil,2007,2006
+16-0143,Devil Track,Cook,spiny waterflea,2008,2007
+16-0356,Gunflint,Cook,spiny waterflea,2007,2007
+18-0361,Kimball,Crow Wing,Eurasian watermilfoil,2007,2007
+30-0135,Spectacle,Isanti,Eurasian watermilfoil,2007,2007
+31-0190,North Twin,Itasca,flowering rush,2007,2007
+60-0217,Union,Polk,Eurasian watermilfoil,2007,2007
+62-0028,Sucker,Ramsey,zebra mussel,2007,2007
+62-0038,Vadnais,Ramsey,zebra mussel,2007,2007
+62-0046,Pleasant,Ramsey,zebra mussel,2007,2007
+62-0049,Langton,Ramsey,Eurasian watermilfoil,2008,2007
+69-0608,Little Vermilion,St. Louis,spiny waterflea,2007,2007
+69-0616,Crane,St. Louis,spiny waterflea,2007,2007
+69-0617,Sand Point,St. Louis,spiny waterflea,2007,2007
+69-0845,Kabetogama,St. Louis,spiny waterflea,2007,2007
+70-0018,Cate's,Scott,Eurasian watermilfoil,2007,2007
+70-0050,McMahon,Scott,Eurasian watermilfoil,2007,2007
+71-0081,Mitchell,Sherburne,Eurasian watermilfoil,2008,2007
+71-0082,Big,Sherburne,Eurasian watermilfoil,2007,2007
+82-0090,Wilmes,Washington,Eurasian watermilfoil,2007,2007
+82-0130,Long,Washington,Eurasian watermilfoil,2008,2007
+86-0134,Maple (includes Upper Maple and Mud),Wright,Eurasian watermilfoil,2007,2007
+,Rainy River from Rainy Lake to Lake of the Woods,Multiple,spiny waterflea,2007,2007
+01-0062,Big Sandy,Aitkin,flowering rush,2009,2008
+03-0377,Mill (Mill Pond),Becker,flowering rush,2009,2008
+03-0473,Buck,Becker,flowering rush,2009,2008
+10-0047,Kelser's Pond,Carver,Eurasian watermilfoil,2009,2008
+10-0052,Reitz,Carver,Eurasian watermilfoil,2008,2008
+10-0095,Swede,Carver,Eurasian watermilfoil,2008,2008
+11-0147,Winnibigoshish,Cass,faucet snail,2009,2008
+13-0027,South Center,Chisago,Eurasian watermilfoil,2009,2008
+13-0032,North Center,Chisago,Eurasian watermilfoil,2008,2008
+18-0242,Upper Mission,Crow Wing,Eurasian watermilfoil,2008,2008
+18-0243,Lower Mission,Crow Wing,Eurasian watermilfoil,2008,2008
+28-0005,"Mississippi River, Pool 8",Multiple,silver carp,2012,2008
+31-0227,Holman,Itasca,flowering rush,2009,2008
+40-0002,Upper Sakatah,Le Sueur,flowering rush,2009,2008
+40-0031,Tetonka,Le Sueur,flowering rush,2009,2008
+40-0056,Ray's,Le Sueur,Eurasian watermilfoil,2009,2008
+58-0067,Sturgeon,Pine,Eurasian watermilfoil,2008,2008
+69-0224,Lac La Croix,St. Louis,spiny waterflea,2009,2008
+69-0470,Loon,St. Louis,spiny waterflea,2009,2008
+70-0153,Unnamed wetland,Scott,Eurasian watermilfoil,2009,2008
+82-0101,DeMontreville,Washington,Eurasian watermilfoil,2009,2008
+85-0001,"Mississippi River, Pool 7",Multiple,silver carp,2012,2008
+86-0279,West Sylvia,Wright,Eurasian watermilfoil,2008,2008
+86-0281,Caroline,Wright,Eurasian watermilfoil,2009,2008
+09-0008,Chub,Carlton,Eurasian watermilfoil,2009,2009
+11-0059,Washburn,Cass,Eurasian watermilfoil,2009,2009
+11-0190,Town Line,Cass,Eurasian watermilfoil,2009,2009
+16-0026,Little John ,Cook,spiny waterflea,2009,2009
+18-0440-04,Louise Mine Pit,Crow Wing,Eurasian watermilfoil,2009,2009
+19-0003,Rebecca,Dakota,zebra mussel,2009,2009
+19-0057,Fish,Dakota,Eurasian watermilfoil,2009,2009
+19-0065,Holland,Dakota,Eurasian watermilfoil,2009,2009
+21-0052,Geneva,Douglas,zebra mussel,2009,2009
+21-0056,Le Homme Dieu,Douglas,zebra mussel,2009,2009
+21-0057,Carlos,Douglas,zebra mussel,2009,2009
+27-0133,Minnetonka,Hennepin,flowering rush,2009,2009
+28-0001,"Mississippi River, Pool 9",Multiple,bighead carp,2012,2009
+28-0005,"Mississippi River, Pool 8",Multiple,bighead carp,2012,2009
+29-0157,Upper Twin,Hubbard,faucet snail,2009,2009
+34-0217,Florida,Kandiyohi,Eurasian watermilfoil,2009,2009
+47-0096,Little Mud,Meeker,Eurasian watermilfoil,2009,2009
+48-0002,Mille Lacs,Mille Lacs,spiny waterflea,2009,2009
+56-0760,Lizzie,Otter Tail,zebra mussel,2009,2009
+56-0761,Little Pelican,Otter Tail,zebra mussel,2009,2009
+56-0768,Fish,Otter Tail,zebra mussel,2009,2009
+56-0770,Bass,Otter Tail,zebra mussel,2009,2009
+56-0786,Pelican,Otter Tail,zebra mussel,2009,2009
+66-0029,Fox,Rice,Eurasian watermilfoil,2009,2009
+66-0038,French,Rice,Eurasian watermilfoil,2009,2009
+69-0490,Pike,St. Louis,zebra mussel,2009,2009
+70-0017,McColl,Scott,Eurasian watermilfoil,2009,2009
+70-0026,Lower Prior,Scott,zebra mussel,2009,2009
+70-0072,Upper Prior,Scott,zebra mussel,2009,2009
+77-0150,Sauk,Todd,flowering rush,2009,2009
+80-0030,Lower Twin,Wadena,faucet snail,2009,2009
+82-0021,Long,Washington,Eurasian watermilfoil,2009,2009
+85-0013,"Mississippi River, Pool 5A",Multiple,bighead carp,2012,2009
+86-0123,North Twin,Wright,Eurasian watermilfoil,2009,2009
+86-0192,Round,Wright,Eurasian watermilfoil,2009,2009
+,Minnehaha Creek,Hennepin,flowering rush,2009,2009
+,"Long Prairie River, including 500 feet upstream into its tributaries ",Multiple,zebra mussel,2009,2009
+,"Shell River, from Upper Twin to Crow Wing River, including 500 feet upstream into its tributaries ",Multiple,faucet snail,2009,2009
+02-0007,Marshan,Anoka,Eurasian watermilfoil,2010,2010
+02-0048,South Coon,Anoka,Eurasian watermilfoil,2010,2010
+07-0044,Madison,Blue Earth,Eurasian watermilfoil,2010,2010
+11-0305,Gull,Cass,zebra mussel,2010,2010
+13-0012,Chisago,Chisago,Eurasian watermilfoil,2010,2010
+13-0028,South Lindstrom,Chisago,Eurasian watermilfoil,2010,2010
+16-0025,Royal (on the Royal River),Cook,spiny waterflea,2010,2010
+16-0034,South Fowl,Cook,spiny waterflea,2010,2010
+16-0036,North Fowl,Cook,spiny waterflea,2010,2010
+18-0002,Long (Tame Fish),Crow Wing,Eurasian watermilfoil,2010,2010
+18-0373,Round,Crow Wing,zebra mussel,2010,2010
+19-0153,Unnamed wetland (Heine Pond),Dakota,Eurasian watermilfoil,2010,2010
+21-0054,Victoria,Douglas,zebra mussel,2009,2010
+21-0080,Darling,Douglas,zebra mussel,2009,2010
+21-0102,Brophy ,Douglas,zebra mussel,2011,2010
+27-0071,Round,Hennepin,brittle naiad,2010,2010
+27-0133,Minnetonka,Hennepin,zebra mussel,2010,2010
+31-0020,Hart,Itasca,flowering rush,2007,2010
+34-0062,Calhoun,Kandiyohi,Eurasian watermilfoil,2010,2010
+40-0092,Middle Jefferson (DOW 40-0092-04),Le Sueur,Eurasian watermilfoil,2010,2010
+47-0119,Minnie-Belle,Meeker,Eurasian watermilfoil,2010,2010
+62-0046,Pleasant,Ramsey,Eurasian watermilfoil,2010,2010
+66-0039,Mazaska,Rice,Eurasian watermilfoil,2010,2010
+69-0118,Burntside,St. Louis,spiny waterflea,2010,2010
+86-0031,Pelican,Wright,Eurasian watermilfoil,2010,2010
+86-0217,Granite,Wright,Eurasian watermilfoil,2010,2010
+86-0227,Cedar,Wright,Eurasian watermilfoil,2010,2010
+,Leech Lake River between Mud Lake and Mississippi River,Cass,faucet snail,2010,2010
+,Pigeon River downstream of South Fowl,Cook,spiny waterflea,2010,2010
+,Minnehaha Creek between Minnetonka and Nokomis,Hennepin,zebra mussel,2010,2010
+,"Mississippi River, from the Knutson Dam downstream to Lake Winnibigoshish, and between Lake Winnibigoshish and the confluence of the main channel of the Mississippi River and White Oak Lake branch of the Mississippi River in the SE 1/4 of the NW 1/4 of Section 13, Township 144N, Range 25W, including 500 feet upstream into its tributaries",Multiple,faucet snail,2009,2010
+,Crow Wing River downstream of the confluence with the Long Prairie River to the Mississippi River ,Multiple,zebra mussel,2009,2010
+18-0038,Clearwater,Crow Wing,Eurasian watermilfoil,2011,2011
+19-0067,Thomas,Dakota,Eurasian watermilfoil,2012,2011
+19-0456,Cobblestone,Dakota,Eurasian watermilfoil,2012,2011
+21-0076,Irene,Douglas,zebra mussel,2012,2011
+21-0103,Cowdry (Cowdrey),Douglas,zebra mussel,2011,2011
+28-0001,"Mississippi River, Pool 9",Multiple,silver carp,2012,2011
+29-0085,Second Crow Wing,Hubbard,faucet snail,2011,2011
+29-0086,First Crow Wing,Hubbard,faucet snail,2011,2011
+56-0360,Rose,Otter Tail,zebra mussel,2011,2011
+56-0915,Prairie,Otter Tail,zebra mussel,2009,2011
+66-0027,Circle,Rice,Eurasian watermilfoil,2011,2011
+73-0015,Otter ,Stearns,Eurasian watermilfoil,2011,2011
+73-0249,Sylvia,Stearns,Eurasian watermilfoil,2011,2011
+82-0094,Colby,Washington,Eurasian watermilfoil,2012,2011
+86-0140,Silver,Wright,Eurasian watermilfoil,2011,2011
+86-0168,Locke,Wright,Eurasian watermilfoil,2011,2011
+86-0288,John,Wright,Eurasian watermilfoil,2011,2011
+,"Unnamed gravel pit (located in S16, T108, R20W)",Steele,Eurasian watermilfoil,2012,2011
 03-0230,"Unnamed pond located in S14 and S15, T142, R39W",Becker,faucet snail,2012,2012
 03-0231,"Unnamed pond located in S15 T142N, R39W",Becker,faucet snail,2012,2012
-none,"Unnamed pond located in SE 1/4 of SW 1/4 of S14, T142, R39W",Becker,faucet snail,2013,2012
-none,"Unnamed pond located in SW 1/4 of SE 1/4 of S15, T142, R39W",Becker,faucet snail,2013,2012
-none,"Unnamed pond located in the NE 1/4 of NW 1/4 of S22, T142N, R39W",Becker,faucet snail,2012,2012
-none,"Unnamed pond located in the NE 1/4 of SE 1/4 of S15, T142N, R39W",Becker,faucet snail,2012,2012
 03-1272,"Unnamed pond located in the NW 1/4 of NE 1/4 of S22, T142N, R39W ",Becker,faucet snail,2012,2012
-none,"Unnamed pond located in the SE 1/4 of the SW 1/4 of S15, T142N, R39W",Becker,faucet snail,2012,2012
-none,"Unnamed pond located in the SW 1/4 of SW 1/4 of S14, T142N, R39W",Becker,faucet snail,2012,2012
-none,"Unnamed pond north of East Spirit and south of County Road 4 (located in the NE 1/4 of the SW 1/4 of S4, T136N, R41W)",Otter Tail,zebra mussel,2016,connected to East Spirit (56-0501)
-NA,Unnamed river from the outlet of Irene (21-0076) to Miltona (21-0083),Douglas,zebra mussel,2013,connected to Irene (21-0076)
-NA,Unnamed river from the outlet of Lake Miltona (21-0083) to Ida (21-0123),Douglas,zebra mussel,2013,connected to Miltona (21-0083)
-NA,Unnamed stream between Crooked (18-0041) and Maple (18-0045),Crow Wing,Eurasian watermilfoil,2019,connected to Crooked (18-0041)
-NA,Unnamed stream between Eagle (56-0253) to Middle (56-0252) to Jolly Ann (56-0370),Otter Tail,zebra mussel,2020,connected to Eagle (56-0253)
-NA,Unnamed stream between Long (56038800) and the Otter Tail River ,Otter Tail,zebra mussel,2020,connected to East Loon (56-0523)
-NA,"Unnamed stream connecting Big Rice, Little Rice and Kitchi Lakes",Beltrami,zebra mussel,2014,connected to Cass (04-0030)
-NA,"Unnamed stream connecting Kitchi, Pug Hole and Cass Lakes",Beltrami,zebra mussel,2014,connected to Cass (04-0030)
-NA,Unnamed stream connecting Pike Bay and Cass Lakes,Cass,zebra mussel,2014,connected to Cass (04-0030)
-18-0235,Unnamed wetland,Crow Wing,zebra mussel,2006,connected to Mississippi River
-27-0900,Unnamed wetland,Hennepin,Eurasian watermilfoil,2000,2000
-70-0153,Unnamed wetland,Scott,Eurasian watermilfoil,2009,2008
-19-0153,Unnamed wetland (Heine Pond),Dakota,Eurasian watermilfoil,2010,2010
-none,"Unnamed wetland (located  in the NE 1/4 of the NE 1/4 of S33, T135N, R27W)",Crow Wing,zebra mussel,2006,connected water
-none,"Unnamed wetland (located  in the NE 1/4 of the SW 1/4 of S3, T135N, R27W)",Crow Wing,zebra mussel,2006,connected water
-none,"Unnamed wetland (located in the NE 1/4 of the NE 1/4 of S33, T31N, R22W)",Anoka,flowering rush,2007,year unknown
-none,"Unnamed wetland (located in the NE 1/4 of the SE 1/4 of S2, T46N, R30W)",Crow Wing,zebra mussel,2006,connected water
-none,"Unnamed wetland (located in the NW 1/4 of the NE 1/4 of S33, T46N, R30W)",Crow Wing,zebra mussel,2006,connected water
-27-0997,Unnamed wetland (Purgatory wetland),Hennepin,brittle naiad,2014,2013
-56-1640,Unnamed wetland connected to Paul Lake (56-0335),Otter Tail,zebra mussel,2013,2012
-03-0752,unnamed wetland downstream of Upper Cormorant,Becker,zebra mussel,2019,connected to Upper Cormorant (03-0588)
-27-0716,"Unnamed wetland in the E 1/2 of S13, T117N R22W",Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-27-0662,"Unnamed wetland in the NE 1/4 of S20 T117N, R21W",Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-27-0779,"Unnamed wetland in the NW 1/4 of S19, T117N, R21W",Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-27-0720,Unnamed wetland in the SE 1/4 of S11 and NE 1/4 of S14 T117N R22W,Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-27-0663,"Unnamed wetland in the SW 1/4 of S20, T117N, R21W",Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-none,"Unnamed wetland located  in the NE 1/4 of the SW 1/4  of S2, T46N, R30W)",Crow Wing,zebra mussel,2006,connected water
-61-0422,"Unnamed wetland located in S 16, T124N, R39W",Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-61-0420,"Unnamed wetland located in S 20 and 21, T124N, R39W",Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-61-0505,"Unnamed wetland located in S 20, T124N, R39W",Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-61-0231,"Unnamed wetland located in S 9 and 16, T124N, R39W",Pope,zebra mussel,2012,connected to Minnewaska (61-0130)
-54-0001,"Unnamed wetland located in S2, T143N, R43W",Norman,faucet snail,2013,2012
-27-0715,"Unnamed wetland NW 1/4 of S18 T117N, R21W",Hennepin,zebra mussel,2010,connected to Minnehaha Creek
-29-0148,Upper Bottle,Hubbard,faucet snail,2019,2019
-03-0588,Upper Cormorant,Becker,zebra mussel,2019,2019
-11-0218,Upper Gull,Cass,zebra mussel,2010,connected to Gull (11-0305)
-18-0412,Upper Hay,Crow Wing,zebra mussel,2014,2013
-86-0134-01,Upper Maple,Wright,zebra mussel,2019,2019
-18-0242,Upper Mission,Crow Wing,Eurasian watermilfoil,2008,2008
-70-0072,Upper Prior,Scott,zebra mussel,2009,2009
-70-0072,Upper Prior,Scott,Eurasian watermilfoil,2000,2000
-04-0035-01,Upper Red,Beltrami,starry stonewort,2016,2016
-40-0002,Upper Sakatah,Le Sueur,Eurasian watermilfoil,2020,2020
-40-0002,Upper Sakatah,Le Sueur,flowering rush,2009,2008
-18-0096,Upper South Long,Crow Wing,Eurasian watermilfoil,2019,2019
-29-0157,Upper Twin,Hubbard,faucet snail,2009,2009
-62-0038,Vadnais,Ramsey,zebra mussel,2007,2007
-62-0038,Vadnais ,Ramsey,Eurasian watermilfoil,1995,1989
-56-0719,Venstrom,Otter Tail,zebra mussel,2014,connected to Lida (56-0747)
-69-0378,Vermilion,St. Louis,spiny waterflea,2015,2015
-NA,Vermilion River from Vermilion to Crane,St. Louis,spiny waterflea,2015,connected to Vermilion (69-0378)
-21-0054,Victoria,Douglas,zebra mussel,2009,2010
-21-0054,Victoria,Douglas,Eurasian watermilfoil,2017,2017
-61-0067,Villard,Pope,zebra mussel,2020,2020
-10-0015,Virginia,Carver,zebra mussel,2014,2014
-10-0015,Virginia,Carver,Eurasian watermilfoil,1995,1988
-62-0082,Wabasso,Ramsey,Eurasian watermilfoil,1995,1992
-NA,Wabonica Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,connected water
-10-0059,Waconia,Carver,zebra mussel,2014,2014
-10-0059,Waconia,Carver,Eurasian watermilfoil,1995,1989
-56-0310,Walker,Otter Tail,zebra mussel,2018,2018
-NA,Warroad River from 500 feet upstream of Highway 11 downstream to Lake of the Woods,Roseau,spiny waterflea,2007,connected water
-11-0059,Washburn,Cass,Eurasian watermilfoil,2009,2009
-47-0046,Washington,Meeker,zebra mussel,2015,connected to Stella (47-0068)
-47-0046,Washington,Meeker,Eurasian watermilfoil,1999,1999
-10-0048,Wasserman,Carver,Eurasian watermilfoil,2001,2001
-73-0070,Watab Lake,Stearns,zebra mussel,2014,2013
-NA,Watab River from Watab Lake to the Mississippi River,Stearns,zebra mussel,2014,connected water
-86-0114,Waverly,Wright,Eurasian watermilfoil,1995,1991
-27-0117,Weaver,Hennepin,Eurasian watermilfoil,2013,2012
-86-0242,Weigand,Multiple (Stearns and Wright),zebra mussel,2015,connected to Clearwater (86-0252)
-86-0242,Weigand,Wright,Eurasian watermilfoil,1999,1998
-66-0010,Wells,Rice,flowering rush,2007,1998
-56-0239,West Battle,Otter Tail,zebra mussel,2016,2016
-NA,West Fork Little Sioux River and its tributaries,Jackson,bighead carp,2012,connected water
-NA,West Fork Little Sioux River and its tributaries,Jackson,silver carp,2012,connected water
-40-0092,West Jefferson (DOW 40-0092-02),Le Sueur,Eurasian watermilfoil,2015,part of Jefferson chain
-56-0481,West Lost,Otter Tail,zebra mussel,2017,connected to Otter Tail and East Lost
-56-0386-02,West McDonald,Otter Tail,zebra mussel,2019,2019
-86-0279,West Sylvia,Wright,Eurasian watermilfoil,2008,2008
-86-0279,West Sylvia,Wright,starry stonewort,2016,2016
-86-0279,West Sylvia,Wright,zebra mussel,2017,connected to East Sylvia (86-0289)
-69-0167,West Twin,St. Louis,spiny waterflea,2010,connected to Burntside (69-0118)
-27-0184,Whaletail,Hennepin,Eurasian watermilfoil,1997,1996
-21-0216,Whiskey,Douglas,zebra mussel,2017,2017
-82-0167,White Bear,Washington,zebra mussel,2014,2014
-82-0167,White Bear,Washington,Eurasian watermilfoil,1995,1988
-NA,White Pine River,St. Louis,zebra mussel,2009,connected water
-18-0379,White Sand,Crow Wing,Eurasian watermilfoil,2015,2015
-18-0310,Whitefish ,Crow Wing,zebra mussel,2014,2014
-82-0090,Wilmes,Washington,Eurasian watermilfoil,2007,2007
+07-0054,Ballantyne,Blue Earth,Eurasian watermilfoil,2013,2012
+10-0088,Hydes,Carver,Eurasian watermilfoil,2014,2012
 11-0147,Winnibigoshish,Cass,zebra mussel,2013,2012
-11-0147,Winnibigoshish,Cass,faucet snail,2009,2008
-11-0147,Winnibigoshish,Multiple (Cass and Itasca),starry stonewort,2016,2016
-85-0011,Winona,Winona,Eurasian watermilfoil,2007,2006
-NA,Winter Road River from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,connected to Rainy River
-27-0037,Wirth,Hennepin,Eurasian watermilfoil,1997,1996
-none,Wirth Beach Wetland,Hennepin,Eurasian watermilfoil,2019,2019
-04-0079,Wolf,Beltrami,zebra mussel,2014,connected to Cass (04-0030)
-47-0016,Wolf,Meeker,Eurasian watermilfoil,2006,2005
-04-0079,Wolf (Big Wolf),Beltrami,starry stonewort,2018,2018
-27-0664,Wolfe,Hennepin,Eurasian watermilfoil,2004,2003
+16-0049,Trout,Cook,spiny waterflea,2013,2012
+18-0308,Pelican,Crow Wing,zebra mussel,2012,2012
+19-0021,Alimagnet,Dakota,Eurasian watermilfoil,2014,2012
+21-0056,Le Homme Dieu,Douglas,Eurasian watermilfoil,2012,2012
+21-0083,Miltona,Douglas,zebra mussel,2013,2012
+27-0117,Weaver,Hennepin,Eurasian watermilfoil,2013,2012
+31-0524,Coon-Sandwick,Itasca,Eurasian watermilfoil,2014,2012
+31-0813,Bowstring,Itasca,faucet snail,2015,2012
+31-0857,Cut Foot Sioux,Itasca,faucet snail,2009,2012
+43-0115,Cedar,McLeod,Eurasian watermilfoil,2013,2012
+48-0014,Ogechie,Mille Lacs,zebra mussel,2007,2012
+49-0127,Shamineau,Morrison,Eurasian watermilfoil,2012,2012
+54-0001,"Unnamed wetland located in S2, T143N, R43W",Norman,faucet snail,2013,2012
+56-0335,Paul,Otter Tail,zebra mussel,2013,2012
+56-0749,Crystal,Otter Tail,zebra mussel,2009,2012
+56-0824,Dayton Hollow Reservoir,Otter Tail,zebra mussel,2013,2012
+56-0945,Orwell Reservoir,Otter Tail,zebra mussel,2013,2012
+56-1636,Kerbs,Otter Tail,zebra mussel,2013,2012
+56-1640,Unnamed wetland connected to Paul Lake (56-0335),Otter Tail,zebra mussel,2013,2012
+56-1641,Rusch,Otter Tail,zebra mussel,2013,2012
+61-0130,Minnewaska,Pope,zebra mussel,2012,2012
+62-0057,Josephine,Ramsey,Eurasian watermilfoil,2013,2012
+69-0914,McCormack,St. Louis,Eurasian watermilfoil,2013,2012
+69-1306,Gilbert Pit (Ore-be-gone),St. Louis,zebra mussel,2013,2012
+70-0076,Pike,Scott,Eurasian watermilfoil,2014,2012
+79-0005,"Mississippi River, Pool 4",Multiple,bighead carp,2012,2012
+82-0074,Horseshoe,Washington,Eurasian watermilfoil,2013,2012
+82-0104,Jane,Washington,Eurasian watermilfoil,2012,2012
+82-0287,Alice,Washington,Eurasian watermilfoil,2013,2012
+85-0002,"Mississippi River, Pool 6",Multiple,bighead carp,2012,2012
+85-0002,"Mississippi River, Pool 6",Multiple,silver carp,2012,2012
+85-0012,Goodview (Gravel Pit),Winona,Eurasian watermilfoil,2012,2012
+86-0221,Camp,Wright,Eurasian watermilfoil,2013,2012
+,"Pelican River, from Bucks Mill Drive downstream to the Otter Tail River, including 500 feet upstream into its tributaries",Multiple,zebra mussel,2009,2012
+,"Otter Tail River from 500 feet upstream of the confluence of the Pelican River downstream to the Bois De Sioux River, including 500 feet upstream into its tributaries ",Multiple,zebra mussel,2013,2012
+,"Unnamed pond located in SE 1/4 of SW 1/4 of S14, T142, R39W",Becker,faucet snail,2013,2012
+,"Unnamed pond located in SW 1/4 of SE 1/4 of S15, T142, R39W",Becker,faucet snail,2013,2012
+,"Unnamed pond located in the NE 1/4 of NW 1/4 of S22, T142N, R39W",Becker,faucet snail,2012,2012
+,"Unnamed pond located in the NE 1/4 of SE 1/4 of S15, T142N, R39W",Becker,faucet snail,2012,2012
+,"Unnamed pond located in the SE 1/4 of the SW 1/4 of S15, T142N, R39W",Becker,faucet snail,2012,2012
+,"Unnamed pond located in the SW 1/4 of SW 1/4 of S14, T142N, R39W",Becker,faucet snail,2012,2012
+02-0053,Ham ,Anoka,Eurasian watermilfoil,2014,2013
+18-0266,Little Pine,Crow Wing,zebra mussel,2014,2013
+18-0269,Island,Crow Wing,zebra mussel,2014,2013
+18-0271,Daggett,Crow Wing,zebra mussel,2014,2013
+18-0312,Cross,Crow Wing,zebra mussel,2014,2013
+18-0315,Big Trout,Crow Wing,zebra mussel,2014,2013
+18-0378,Lower Hay,Crow Wing,zebra mussel,2014,2013
+18-0412,Upper Hay,Crow Wing,zebra mussel,2014,2013
+21-0079,Maple,Douglas,zebra mussel,2014,2013
+21-0092,Mary,Douglas,zebra mussel,2014,2013
+21-0106,Latoka,Douglas,zebra mussel,2014,2013
+21-0197,Round,Douglas,Eurasian watermilfoil,2014,2013
+27-0997,Unnamed wetland (Purgatory wetland),Hennepin,brittle naiad,2014,2013
+31-0826,Sand,Itasca,zebra mussel,2013,2013
+31-0853,Little Sand,Itasca,zebra mussel,2013,2013
+40-0001,Horseshoe,Le Sueur,flowering rush,2014,2013
+47-0095,Clear,Meeker,Eurasian watermilfoil,2014,2013
+61-0041,Scandinavian,Pope,Eurasian watermilfoil,2014,2013
+62-0002,Bald Eagle,Ramsey,flowering rush,2014,2013
+62-0272,Gervais Mill Pond,Ramsey,Eurasian watermilfoil,2014,2013
+66-0045,Sprague,Rice,flowering rush,2014,2013
+73-0070,Watab Lake,Stearns,zebra mussel,2014,2013
+85-0013,"Mississippi River, Pool 5A",Multiple,silver carp,2012,2013
+86-0229,Mink,Wright,Eurasian watermilfoil,2014,2013
+86-0230,Somers,Wright,Eurasian watermilfoil,2014,2013
+,"Bishop Creek between Round and Gull (located in S35, T135N, R29W)",Crow Wing,zebra mussel,2010,2013
+02-0026,Linwood,Anoka,Eurasian watermilfoil,2014,2014
+03-0287,Pickerel,Becker,zebra mussel,2014,2014
+03-0475,Melissa,Becker,zebra mussel,2014,2014
+04-0030,Cass,Beltrami,zebra mussel,2014,2014
+10-0015,Virginia,Carver,zebra mussel,2014,2014
+10-0059,Waconia,Carver,zebra mussel,2014,2014
+13-0053,Comfort,Chisago,Eurasian watermilfoil,2014,2014
+18-0139,Little Rabbit,Crow Wing,zebra mussel,2006,2014
+18-0203,Emily,Crow Wing,Eurasian watermilfoil,2014,2014
+18-0310,Whitefish ,Crow Wing,zebra mussel,2014,2014
+18-0320,Gilbert,Crow Wing,zebra mussel,2014,2014
+18-0372,North Long,Crow Wing,zebra mussel,2014,2014
+19-0005,"Mississippi River, Pool 2",Multiple,bighead carp,2012,2014
+19-0005,"Mississippi River, Pool 2",Multiple,silver carp,2015,2014
+19-0059,Blackhawk,Dakota,Eurasian watermilfoil,2017,2014
+21-0090,Turtle,Douglas,zebra mussel,2014,2014
+21-0123,Ida,Douglas,zebra mussel,2013,2014
+27-0137,Christmas,Hennepin,zebra mussel,2014,2014
+27-0176,Independence,Hennepin,zebra mussel,2014,2014
+27-0185,Saunders,Hennepin,Eurasian watermilfoil,2014,2014
+30-0022,Skogman,Isanti,Eurasian watermilfoil,2014,2014
+31-0373,Hale,Itasca,Eurasian watermilfoil,2014,2014
+31-0538,Spider,Itasca,flowering rush,2014,2014
+34-0079,Green,Kandiyohi,zebra mussel,2014,2014
+34-0224,Games,Kandiyohi,Eurasian watermilfoil,2014,2014
+38-0024,Crooked,Lake,zebra mussel,2014,2014
+38-0645,Basswood,Lake,spiny waterflea,2014,2014
+38-0811,Fall,Lake,spiny waterflea,2014,2014
+47-0064,Erie,Meeker,Eurasian watermilfoil,2014,2014
+61-0180,Emily,Pope,Eurasian watermilfoil,2014,2014
+71-0147,Rush,Sherburne,Eurasian watermilfoil,2014,2014
+73-0123,Lower Spunk,Stearns,Eurasian watermilfoil,2014,2014
+73-0128,Middle Spunk,Stearns,Eurasian watermilfoil,2014,2014
+73-0183,St. Anna,Stearns,Eurasian watermilfoil,2014,2014
+81-0055,Reeds,Waseca,Eurasian watermilfoil,2014,2014
+82-0167,White Bear,Washington,zebra mussel,2014,2014
+86-0011,Charlotte,Wright,Eurasian watermilfoil,2014,2014
+86-0029,Schmidt,Wright,Eurasian watermilfoil,2014,2014
+,Gull River,Cass,zebra mussel,2010,2014
+,Bowstring River from Sand downstream to Rice ,Itasca,zebra mussel,2013,2014
+,St. Louis River downstream of the Fond du Lac dam,Multiple,faucet snail,2014,2014
+03-0287,Pickerel,Becker,flowering rush,2015,2015
+03-0503,Eunice,Becker,zebra mussel,2015,2015
+03-0576,Big Cormorant,Becker,zebra mussel,2015,2015
+03-0582,Ida,Becker,zebra mussel,2015,2015
+07-0060,Eagle (includes North and South Eagle),Blue Earth,Eurasian watermilfoil,2015,2015
+09-0034,Bear,Carlton,Eurasian watermilfoil,2015,2015
+13-0080,Little Horseshoe,Chisago,Eurasian watermilfoil,2015,2015
+18-0212,Ruth,Crow Wing,zebra mussel,2015,2015
+18-0379,White Sand,Crow Wing,Eurasian watermilfoil,2015,2015
+18-0388,Love,Crow Wing,zebra mussel,2010,2015
+19-0005,"Mississippi River, Pool 2",Multiple,flowering rush,2015,2015
+21-0094,Louise,Douglas,zebra mussel,2014,2015
+21-0180,Mill,Douglas,zebra mussel,2014,2015
+27-0065,Magda,Hennepin,Eurasian watermilfoil,2015,2015
+27-0067,Bryant,Hennepin,zebra mussel,2015,2015
+27-0078,Staring,Hennepin,brittle naiad,2015,2015
+27-0078,Staring,Hennepin,Eurasian watermilfoil,2015,2015
+31-0216,Trout,Itasca,flowering rush,2015,2015
+44-0080,McCraney,Mahnomen,faucet snail,2015,2015
+47-0068,Stella,Meeker,zebra mussel,2015,2015
+49-0137,Fish Trap,Morrison,zebra mussel,2015,2015
+62-0067,Long,Ramsey,Eurasian watermilfoil,2015,2015
+66-0047,Hunt,Rice,Eurasian watermilfoil,2015,2015
+66-0055,Shields,Rice,Eurasian watermilfoil,2015,2015
+69-0378,Vermilion,St. Louis,spiny waterflea,2015,2015
+73-0200,Koronis (includes Mud),Stearns,starry stonewort,2015,2015
+73-0249,Sylvia,Stearns,zebra mussel,2015,2015
+82-0159,Forest,Washington,Eurasian watermilfoil,2015,2015
+82-0159,Forest,Washington,zebra mussel,2015,2015
+84-0023,Breckenridge,Wilkin,zebra mussel,2013,2015
+86-0134,Maple (includes Upper Maple and Mud),Wright,flowering rush,2015,2015
+86-0252,Clearwater,Multiple,zebra mussel,2015,2015
+86-0288,John,Wright,zebra mussel,2015,2015
+,Red River,Multiple,zebra mussel,2015,2015
+01-0204,Round,Multiple,zebra mussel,2016,2016
+02-0005,George Watch,Anoka,Eurasian watermilfoil,2016,2016
+03-0359,Sallie,Becker,zebra mussel,2016,2016
+03-0381,Detroit,Becker,zebra mussel,2016,2016
+03-0500,Maud,Becker,zebra mussel,2016,2016
+04-0011,Moose,Beltrami,starry stonewort,2016,2016
+04-0030,Cass,Beltrami,starry stonewort,2016,2016
+04-0035-01,Upper Red,Beltrami,starry stonewort,2016,2016
+04-0038,Andrusia,Beltrami,zebra mussel,2014,2016
+04-0042,Buck,Beltrami,zebra mussel,2014,2016
+04-0159,Turtle (Big Turtle),Beltrami,starry stonewort,2016,2016
+09-0035,Little Hanging Horn,Carlton,Eurasian watermilfoil,2016,2016
+10-0005,Courthouse,Carver,Eurasian watermilfoil,2016,2016
+10-0009,Minnewashta,Carver,zebra mussel,2016,2016
+10-0217,Jonathan (Upper Lake Grace),Carver,Eurasian watermilfoil,2016,2016
+10-0218,Unnamed (Grace),Carver,Eurasian watermilfoil,2016,2016
+11-0043,Roosevelt,Multiple,Eurasian watermilfoil,2016,2016
+11-0147,Winnibigoshish,Multiple,starry stonewort,2016,2016
+11-0415,Pike Bay,Cass,zebra mussel,2014,2016
+13-0083,Goose,Chisago,Eurasian watermilfoil,2016,2016
+16-0029,Devilfish ,Cook,spiny waterflea,2016,2016
+18-0354,Pig,Crow Wing,zebra mussel,2014,2016
+18-0361,Kimball,Crow Wing,zebra mussel,2016,2016
+18-0375,Hubert,Crow Wing,zebra mussel,2016,2016
+18-0403,Lower Cullen,Crow Wing,zebra mussel,2016,2016
+18-0441,Huntington Mine,Crow Wing,zebra mussel,2016,2016
+18-0744,Mangan Mine Pit,Crow Wing,zebra mussel,2016,2016
+19-0006,Byllesby,Dakota,flowering rush,2016,2016
+19-0035,Unnamed (in McGroarty Park),Dakota,Eurasian watermilfoil,2016,2016
+19-0072,O'Brien,Dakota,Eurasian watermilfoil,2016,2016
+19-0074,Portage (in Lebanon Hills Regional Park),Dakota,Eurasian watermilfoil,2016,2016
+19-0076,McDonough,Dakota,Eurasian watermilfoil,2016,2016
+19-0179,Bridge,Dakota,Eurasian watermilfoil,2016,2016
+19-0180,Lily,Dakota,Eurasian watermilfoil,2016,2016
+21-0055,Jessie,Douglas,zebra mussel,2009,2016
+21-0085,Andrew,Douglas,zebra mussel,2016,2016
+21-0140,Pocket,Douglas,zebra mussel,2016,2016
+21-0144,Lobster,Douglas,zebra mussel,2014,2016
+29-0077,Third Crow Wing,Hubbard,faucet snail,2018,2016
+30-0114,Baxter,Isanti,Eurasian watermilfoil,2018,2016
+31-0191,South Twin,Itasca,Eurasian watermilfoil,2016,2016
+31-0561,Blackwater,Itasca,faucet snail,2016,2016
+33-0028,Knife,Kanabec,faucet snail,2016,2016
+34-0062,Calhoun,Kandiyohi,zebra mussel,2014,2016
+34-0217,Florida,Kandiyohi,zebra mussel,2016,2016
+37-0046,Lac qui Parle,Multiple,zebra mussel,2016,2016
+40-0031,Tetonka,Le Sueur,Eurasian watermilfoil,2016,2016
+56-0031,Adley,Otter Tail,zebra mussel,2016,2016
+56-0239,West Battle,Otter Tail,zebra mussel,2016,2016
+56-0242,Otter Tail,Otter Tail,zebra mussel,2016,2016
+56-0387,Sybil,Otter Tail,zebra mussel,2016,2016
+56-0501,East Spirit,Otter Tail,zebra mussel,2016,2016
+56-0759,Franklin,Otter Tail,zebra mussel,2016,2016
+61-0149,Signalness (also known as Mountain),Pope,zebra mussel,2016,2016
+61-0180,Emily,Pope,zebra mussel,2012,2016
+62-0078,Johanna,Ramsey,Eurasian watermilfoil,2016,2016
+62-0129,Unnamed pond (Black Tern Pond),Ramsey,Eurasian watermilfoil,2016,2016
+70-0343,Quarry,Scott,Eurasian watermilfoil,2016,2016
+73-0196,Rice,Stearns,starry stonewort,2016,2016
+77-0084,Big Birch,Multiple,zebra mussel,2016,2016
+77-0215,Osakis,Multiple,zebra mussel,2016,2016
+79-0001,"Mississippi River, Pool 5",Multiple,faucet snail,2016,2016
+79-0005,"Mississippi River, Pool 4",Multiple,faucet snail,2016,2016
+82-0030,Long,Washington,Eurasian watermilfoil,2016,2016
+85-0013,"Mississippi River, Pool 5A",Multiple,faucet snail,2016,2016
+86-0051,Constance,Wright,Eurasian watermilfoil,2016,2016
+86-0184,Dutch,Wright,Eurasian watermilfoil,2016,2016
+86-0279,West Sylvia,Wright,starry stonewort,2016,2016
+86-0289,East Sylvia,Wright,zebra mussel,2016,2016
+87-0187,"Minnesota River pool behind Granite Falls, MN dam",Yellow Medicine,zebra mussel,2016,2016
+,Minnesota River from Granite Falls to the confluence with Mississippi River,Multiple,bighead carp,2017,2016
+04-0003,Pug Hole,Beltrami,zebra mussel,2014,2017
+10-0006,Lotus ,Carver,brittle naiad,2017,2017
+10-0012,Ann,Carver,brittle naiad,2017,2017
+10-0084,Burandt,Carver,zebra mussel,2017,2017
+11-0174,Girl,Cass,Eurasian watermilfoil,2017,2017
+11-0504,Steamboat,Multiple,zebra mussel,2017,2017
+13-0053,Comfort,Chisago,zebra mussel,2017,2017
+18-0090,Serpent,Crow Wing,zebra mussel,2017,2017
+18-0185,Mary,Crow Wing,Eurasian watermilfoil,2017,2017
+18-0261,Pine,Crow Wing,Eurasian watermilfoil,2017,2017
+18-0305,Edward,Crow Wing,zebra mussel,2017,2017
+18-0355,Bertha,Crow Wing,zebra mussel,2014,2017
+18-0374,Clark,Crow Wing,zebra mussel,2017,2017
+18-0440,Mahnomen Mine Pit #1 & #2,Crow Wing,zebra mussel,2017,2017
+19-0026,Marion,Dakota,zebra mussel,2017,2017
+19-0031,Orchard,Dakota,Eurasian watermilfoil,2017,2017
+21-0049,Burgen,Douglas,zebra mussel,2017,2017
+21-0054,Victoria,Douglas,Eurasian watermilfoil,2017,2017
+21-0145,Chippewa,Douglas,zebra mussel,2017,2017
+21-0216,Whiskey,Douglas,zebra mussel,2017,2017
+26-0040,Elk,Grant,zebra mussel,2017,2017
+27-0016,Harriet,Hennepin,zebra mussel,2017,2017
+27-0029,Edina,Hennepin,Eurasian watermilfoil,2017,2017
+27-0062,Southeast Anderson,Hennepin,Eurasian watermilfoil,2017,2017
+27-0104,Medicine,Hennepin,zebra mussel,2017,2017
+29-0161,Long,Hubbard,faucet snail,2017,2017
+29-0208,Bad Axe,Hubbard,Eurasian watermilfoil,2017,2017
+29-0216,George,Hubbard,faucet snail,2018,2017
+31-0653,North Star,Itasca,zebra mussel,2017,2017
+31-0850,Little Winnibigoshish,Itasca,zebra mussel,2013,2017
+31-0882,Dora,Itasca,zebra mussel,2017,2017
+34-0119,Elkhorn ,Kandiyohi,Eurasian watermilfoil,2017,2017
+34-0142,George,Kandiyohi,zebra mussel,2017,2017
+34-0154 ,Nest,Kandiyohi,zebra mussel,2017,2017
+40-0057,Frances,Le Sueur,Eurasian watermilfoil,2017,2017
+56-0141,Rush,Otter Tail,zebra mussel,2017,2017
+56-0378,East Lost,Otter Tail,zebra mussel,2017,2017
+56-0613,Ten Mile,Otter Tail,zebra mussel,2017,2017
 56-0783,Wright,Otter Tail,zebra mussel,2017,2017
-10-0041,Zumbra,Carver,Eurasian watermilfoil,1995,1989
-55-0004,Zumbro,Olmsted,zebra mussel,2000,2000
-NA,"Zumbro River downstream of Zumbro, including 500 feet upstream into its tributaries",Wabasha,zebra mussel,2000,2000
-73-0089,Zumwalde,Stearns,zebra mussel,2018,connected by the Sauk River between Sauk (77-0150) and Becker (73-0156)
+56-0920,Mill Pond,Otter Tail,zebra mussel,2012,2017
+61-0130,Minnewaska,Pope,starry stonewort,2017,2017
+73-0014,Marie,Stearns,Eurasian watermilfoil,2017,2017
+73-0055,Grand,Stearns,starry stonewort,2017,2017
+73-0086,Knaus,Stearns,zebra mussel,2017,2017
+77-0089,Little Birch,Todd,zebra mussel,2016,2017
+85-0012,Goodview  ,Winona,zebra mussel,2018,2017
+86-0227,Cedar,Wright,zebra mussel,2017,2017
+86-0251,Pleasant,Wright,Eurasian watermilfoil,2017,2017
+86-0284,Augusta,Multiple,zebra mussel,2015,2017
+,Pine River upstream of Pine Lake to Cross Lake,Crow Wing,Eurasian watermilfoil,2017,2017
+,Bigfork River between Dora (31-0882) and Itasca County Road 14 bridge,Itasca,zebra mussel,2019,2017
+,Bowstring River between Little Sand (31-0853) and Dora (31-0882),Itasca,zebra mussel,2019,2017
+,Mississippi River from Little Winnibigoshish (31-0850) to the confluence with the Leech Lake River,Itasca,zebra mussel,2018,2017
+,Minnesota River,Multiple,zebra mussel,2017,2017
+,Chippewa River from Emily (61-0180) to confluence with the Minnesota River,Multiple,zebra mussel,2018,2017
+,Sauk River from Knaus to Mississippi River,Stearns,zebra mussel,2017,2017
+01-0157,Big Pine,Aitkin,zebra mussel,2018,2018
+03-0387,Floyd (includes Mud),Becker,zebra mussel,2018,2018
+04-0069,Blackduck,Beltrami,faucet snail,2018,2018
+04-0079,Wolf (Big Wolf),Beltrami,starry stonewort,2018,2018
+04-0130,Bemidji (includes Stump),Beltrami,zebra mussel,2018,2018
+10-0002,Riley,Carver,zebra mussel,2018,2018
+10-0029,Miller,Carver,zebra mussel,2018,2018
+18-0041,Crooked,Crow Wing,Eurasian watermilfoil,2018,2018
+19-0004,Isabelle,Dakota,zebra mussel,2018,2018
+19-0062,Unnamed lake (Hay),Dakota,flowering rush,2018,2018
+21-0136,Indian,Douglas,Eurasian watermilfoil,2018,2018
+26-0095,Barrett,Grant,zebra mussel,2018,2018
+26-0097,Pomme de Terre,Grant,zebra mussel,2018,2018
+27-0031,Bde Maka Ska,Hennepin,zebra mussel,2018,2018
+27-0104,Medicine,Hennepin,starry stonewort,2018,2018
+27-0182,Langdon,Hennepin,Eurasian watermilfoil,2019,2018
+27-0679,Cornelia Pool Pond (Unnamed wetland),Hennepin,Eurasian watermilfoil,2019,2018
+27-1045-01,Normandale,Hennepin,Eurasian watermilfoil,2019,2018
+31-0533,Blandin Reservoir,Itasca,zebra mussel,2018,2018
+34-0044,Diamond,Kandiyohi,zebra mussel,2018,2018
+34-0116,Henderson,Kandiyohi,Eurasian watermilfoil,2018,2018
+34-0119,Elkhorn ,Kandiyohi,zebra mussel,2018,2018
+34-0171,Eagle,Kandiyohi,zebra mussel,2018,2018
+34-0251,Norway,Kandiyohi,zebra mussel,2018,2018
+47-0049,Belle,McLeod,Eurasian watermilfoil,2018,2018
+49-0133,Crookneck,Morrison,Eurasian watermilfoil,2018,2018
+49-0133,Crookneck,Morrison,zebra mussel,2018,2018
+51-0063,Sarah,Murray,zebra mussel,2018,2018
+56-0214,Round,Otter Tail,zebra mussel,2018,2018
+56-0241,Annie Battle,Otter Tail,zebra mussel,2018,2018
+56-0303,Molly Stark,Otter Tail,zebra mussel,2018,2018
+56-0310,Walker,Otter Tail,zebra mussel,2018,2018
+56-0328,Little McDonald,Otter Tail,zebra mussel,2013,2018
+56-0437,Stalker,Otter Tail,flowering rush,2018,2018
+56-0517,East Silent,Otter Tail,zebra mussel,2018,2018
+56-0523,East Loon,Otter Tail,zebra mussel,2018,2018
+56-0770,Bass,Otter Tail,flowering rush,2018,2018
+56-0877,Jewett,Otter Tail,zebra mussel,2018,2018
+61-0064,Amelia,Pope,zebra mussel,2018,2018
+61-0078,Reno,Pope,zebra mussel,2014,2018
+62-0002,Bald Eagle,Ramsey,zebra mussel,2018,2018
+62-0078,Johanna,Ramsey,zebra mussel,2018,2018
+71-0110,Fredrickson Slough,Sherburne,Eurasian watermilfoil,2018,2018
+73-0035,School Section,Stearns,Eurasian watermilfoil,2018,2018
+73-0106,Big Fish,Stearns,zebra mussel,2018,2018
+73-0133,Cedar Island (Koetter),Stearns,zebra mussel,2018,2018
+75-0075,Perkins (Lower Pomme de Terre),Stevens,zebra mussel,2018,2018
+77-0007,Mound,Todd,zebra mussel,2018,2018
+77-0019,Mary,Todd,Eurasian watermilfoil,2018,2018
+77-0150,Sauk,Todd,zebra mussel,2018,2018
+80-0034,Blueberry,Wadena,faucet snail,2018,2018
+82-0059,Goose,Washington,Eurasian watermilfoil,2018,2018
+82-0107,Sunfish,Washington,Eurasian watermilfoil,2019,2018
+86-0217,Granite,Wright,flowering rush,2018,2018
+86-0233,Sugar,Wright,zebra mussel,2018,2018
+86-0251,Pleasant,Wright,starry stonewort,2018,2018
+,Sauk River from Sauk (77-0150) to Becker (73-0156),Todd,zebra mussel,2018,2018
+01-0104,French,Aitkin,Eurasian watermilfoil,2019,2019
+03-0588,Upper Cormorant,Becker,zebra mussel,2019,2019
+04-0032,Pimushe,Beltrami,zebra mussel,2019,2019
+04-0135,Beltrami,Beltrami,starry stonewort,2019,2019
+10-0006,Lotus,Hennepin,zebra mussel,2019,2019
+10-0013,Susan,Carver,brittle naiad,2019,2019
+10-0043,Lundsten,Carver,Eurasian watermilfoil,2019,2019
+11-0242,Hand,Cass,zebra mussel,2019,2019
+18-0096,Upper South Long,Crow Wing,Eurasian watermilfoil,2019,2019
+21-0150,Grants,Douglas,flowering rush,2019,2019
+21-0150,Grants,Douglas,zebra mussel,2019,2019
+21-0257,Oscar,Douglas,zebra mussel,2019,2019
+22-0074,Bass,Faribault,Eurasian watermilfoil,2019,2019
+27-0089,Shady Oak,Hennepin,Eurasian watermilfoil,2019,2019
+29-0078,Fourth Crow Wing,Hubbard,faucet snail,2019,2019
+29-0142,Duck,Hubbard,faucet snail,2019,2019
+29-0148,Upper Bottle,Hubbard,faucet snail,2019,2019
+30-0043,Fannie,Isanti,Eurasian watermilfoil,2019,2019
+30-0135,Spectacle,Isanti,zebra mussel,2019,2019
+34-0206,Andrew,Kandiyohi,Eurasian watermilfoil,2019,2019
+44-0014,South Twin,Mahnomen,zebra mussel,2019,2019
+49-0079,Alexander,Morrison,zebra mussel,2019,2019
+56-0138,East Battle,Otter Tail,zebra mussel,2019,2019
+56-0253,Eagle,Otter Tail,zebra mussel,2019,2019
+56-0386-01,Big McDonald,Otter Tail,zebra mussel,2019,2019
+56-0386-02,West McDonald,Otter Tail,zebra mussel,2019,2019
+56-0781,Swan,Otter Tail,zebra mussel,2019,2019
+61-0072,Gilchrist,Pope,zebra mussel,2019,2019
+61-0111,Pelican,Pope,zebra mussel,2019,2019
+62-0054,McCarron,Ramsey,zebra mussel,2019,2019
+62-0067,Long,Ramsey,zebra mussel,2019,2019
+69-1292,Rouchleau Mine Pit (connected to Mesabi Mt. or Missabe Mtn. Pit),St. Louis,zebra mussel,2019,2019
+82-0054,Bone,Washington,zebra mussel,2019,2019
+82-0133,Sunnybrook,Washington,Eurasian watermilfoil,2019,2019
+86-0066,Birch,Wright,Eurasian watermilfoil,2019,2019
+86-0134-01,Upper Maple,Wright,zebra mussel,2019,2019
+,Ocheyedan River from Lake Bella dam to Iowa border,Nobles,silver carp,2019,2019
+,"North Fork Crow River downstream of Farmington Ave. SE (west of Rockford), downstream to confluence with the Mississippi River",Wright,zebra mussel,2019,2019
+,Wirth Beach Wetland,Hennepin,Eurasian watermilfoil,2019,2019
+01-0159,Farm Island,Aitkin,zebra mussel,2020,2020
+03-0383,Long ,Becker,zebra mussel,2020,2020
+10-0053,Pierson,Carver,zebra mussel,2020,2020
+10-0093,Oak,Carver,Eurasian watermilfoil,2020,2020
+11-0304,Sylvan,Cass,zebra mussel,2020,2020
+18-0002,Tame Fish,Crow Wing,zebra mussel,2020,2020
+18-0438,Armour #2  Mine,Crow Wing,zebra mussel,2020,2020
+18-0440-04,Louise Mine Pit,Crow Wing,zebra mussel,2020,2020
+21-0242,Aaron,Douglas,zebra mussel,2020,2020
+27-0067,Bryant,Hennepin,brittle naiad,2020,2020
+27-0069,Duck,Hennepin,Eurasian watermilfoil,2020,2020
+27-0073,Smetana,Hennepin,Eurasian watermilfoil,2020,2020
+27-0186,Mud,Hennepin,Eurasian watermilfoil,2020,2020
+28-0005,"Mississippi River, Pool 8",Multiple,flowering rush,2020,2020
+29-0151,Big Mantrap,Hubbard,Eurasian watermilfoil,2020,2020
+29-0161,Long,Hubbard,zebra mussel,2020,2020
+29-0162,Boulder,Hubbard,faucet snail,2020,2020
+31-0812,Ball Club,Itasca,zebra mussel,2020,2020
+31-0813,Bowstring,Itasca,zebra mussel,2020,2020
+40-0002,Upper Sakatah,Le Sueur,Eurasian watermilfoil,2020,2020
+47-0119,Minnie Belle,Meeker,zebra mussel,2020,2020
+56-0475,Pickerel,Ottertail,zebra mussel,2020,2020
+61-0067,Villard,Pope,zebra mussel,2020,2020
+70-0010,Murphy,Scott,Eurasian watermilfoil,2020,2020
+71-0013,Orono,Sherburne,Eurasian watermilfoil,2020,2020
+71-0013,Orono ,Sherburne,zebra mussel,2020,2020
+71-0057,Birch,Sherburne,Eurasian watermilfoil,2020,2020
+71-0081,Mitchell,Sherburne,zebra mussel,2020,2020
+71-0082,Big,Sherburne,zebra mussel,2020,2020
+71-0141,Big Elk,Sherburne,Eurasian watermilfoil,2020,2020
+73-0038,Carnelian,Stearns,starry stonewort,2020,2020
+73-0102,Big Watab,Stearns,zebra mussel,2020,2020
+79-0001,"Mississippi River, Pool 5",Multiple,flowering rush,2020,2020
+79-0005,"Mississippi River, Pool 4",Multiple,flowering rush,2020,2020
+86-0251,Pleasant ,Wright,zebra mussel,2020,2020
+,Cannon River from Wells Lower Sakatah to the confluence with the Straight River,Multiple,flowering rush,2007,1977
+,St. Louis River downstream of the mouth of the White Pine River in St. Louis County,Multiple,zebra mussel,1995,1989
+,"Crow Wing River from Highway 87 in Hubbard County downstream to the confluence with the Mississippi River, including 500 feet upstream into its tributaries  ",Multiple,faucet snail,2010,2010
+18-0311,Rush-Hen,Crow Wing,zebra mussel,2014,2013
+56-0747,Lida (North and South),Otter Tail,zebra mussel,2014,2013
+11-0203,Leech,Cass,zebra mussel,2016,2016
+29-0061,Garfield,Hubbard,zebra mussel,2017,2017
+18-0034,Bay,Crow Wing,zebra mussel,2018,2017
+77-0164,Little Sauk,Todd,zebra mussel,2017,2017
+77-0182,Guernsey,Todd,zebra mussel,2016,2017
+56-0784,Long,Otter Tail,zebra mussel,2018,2018
+11-0413,Ten Mile,Cass,zebra mussel,2019,2019
+15-0081,Lomond,Clearwater,zebra mussel,2019,2019
+04-0035,Red,Beltrami,zebra mussel,2019,2019
+39-0002,Lake of the Woods,Lake of the Woods,zebra mussel,2019,2019
+,"Nokasippi River, 500 feet  upstream from Upper South Long (18-0096)",Crow Wing,Eurasian watermilfoil,2020,1990
+19-0005,"Mississippi River, Pool 2",Multiple,Eurasian watermilfoil,1995,1990
+25-0017,"Mississippi River, Pool 3",Multiple,Eurasian watermilfoil,1995,1990
+27-0003,"Mississippi River, Pool 1",Multiple,Eurasian watermilfoil,1995,1990
+28-0001,"Mississippi River, Pool 9",Multiple,Eurasian watermilfoil,1995,1990
+28-0005,"Mississippi River, Pool 8",Multiple,Eurasian watermilfoil,1995,1990
+79-0001,"Mississippi River, Pool 5",Multiple,Eurasian watermilfoil,1995,1990
+79-0005,"Mississippi River, Pool 4",Multiple,Eurasian watermilfoil,1995,1990
+85-0001,"Mississippi River, Pool 7",Multiple,Eurasian watermilfoil,1995,1990
+85-0002,"Mississippi River, Pool 6",Multiple,Eurasian watermilfoil,1995,1990
+85-0013,"Mississippi River, Pool 5A",Multiple,Eurasian watermilfoil,1995,1990
+75-0061,North Pomme de Terre,Stevens,zebra mussel,2018,2018
+75-0074,Middle Pomme de Terre,Stevens,zebra mussel,2018,2018
+,Pomme de Terre River from Ten Mile (56-0613) to 500 feet downstream of Perkins (75-0075),Multiple,zebra mussel,2018,2018
+73-0082,Schneider,Stearns,zebra mussel,2018,
+73-0083,Great Northern,Stearns,zebra mussel,2018,
+73-0089,Zumwalde,Stearns,zebra mussel,2018,
+73-0156,Becker,Stearns,zebra mussel,2018,
+73-0157,Horseshoe,Stearns,zebra mussel,2018,
+73-0251,Melrose,Stearns,zebra mussel,2018,
+21-0245,Moses,Douglas,zebra mussel,2020,
+,stream segment between  Aaron (21-0242) and Moses (21-0245),Douglas,zebra mussel,2020,
+,Serpent Creek between Serpent Lake (18009000) and Armour #2 mine ,Crow Wing,zebra mussel,2020,
+38-0817,Crooked,Lake,spiny waterflea,2014,
+69-0121,Iron,St. Louis,spiny waterflea,2014,
+69-1064,Bottle,St. Louis,spiny waterflea,2014,
+,Basswood River between Basswood Lake and Crooked Lake,Lake,spiny waterflea,2014,
+,Bottle River between Bottle Lake and Lac La Croix,St. Louis,spiny waterflea,2014,
+04-0140,Irving,Beltrami,zebra mussel,2018,
+04-0141,Carr,Beltrami,zebra mussel,2018,
+04-0142,Marquette,Beltrami,zebra mussel,2018,
+,Mississippi River from Carr (04-0141) to Wolf (04-0079),Beltrami,zebra mussel,2018,
+,Adley Creek from Big Birch to the Sauk River,Multiple,zebra mussel,2016,
+73-0112,Eagle,Stearns,zebra mussel,2019,
+56-0386-03,McDonald,Otter Tail,zebra mussel,2019,
+31-0532,Pokegama,Itasca,zebra mussel,2019,
+31-0565,Jay Gould,Itasca,zebra mussel,2019,
+31-0566,Little Jay Gould,Itasca,zebra mussel,2019,
+,Mississippi River from Lake Winnibigoshish to Mississippi Lake,Itasca,zebra mussel,2019,
+,Bowstring River between Bowstring and Sand (31-0826),Itasca,zebra mussel,2020,
+21-0095,North Union ,Douglas,zebra mussel,2011,
+21-0101,Stoney (Stony),Douglas,zebra mussel,2011,
+21-0105,Lottie (Taylor),Douglas,zebra mussel,2011,
+69-0167,West Twin,St. Louis,spiny waterflea,2010,
+69-0174,East Twin,St. Louis,spiny waterflea,2010,
+,Burntside River between Burntside and Shagawa,St. Louis,spiny waterflea,2010,
+,Dead River,St. Louis,spiny waterflea,2010,
+04-0007,Kitchi,Beltrami,zebra mussel,2014,
+04-0015,Little Rice,Beltrami,zebra mussel,2014,
+04-0031,Big Rice,Beltrami,zebra mussel,2014,
+04-0079,Wolf,Beltrami,zebra mussel,2014,
+,"Unnamed stream connecting Big Rice, Little Rice and Kitchi Lakes",Beltrami,zebra mussel,2014,
+,"Unnamed stream connecting Kitchi, Pug Hole and Cass Lakes",Beltrami,zebra mussel,2014,
+,Unnamed stream connecting Pike Bay and Cass Lakes,Cass,zebra mussel,2014,
+,"Mississippi River between Wolf, Andrusia, and Cass",Multiple,zebra mussel,2014,
+73-0015,Otter,Stearns,zebra mussel,2015,
+73-0312,Unnamed (wetland along Clearwater River),Multiple,zebra mussel,2015,
+86-0242,Weigand,Multiple,zebra mussel,2015,
+86-0243,Grass,Multiple,zebra mussel,2015,
+,Clearwater River from Clearwater Lake to the Mississippi River,Multiple,zebra mussel,2015,
+,Threemile Creek between Otter and Clearwater,Stearns,zebra mussel,2015,
+13-0054,Little Comfort,Chisago,zebra mussel,2017,
+18-0044,Hanks,Crow Wing,Eurasian watermilfoil,2019,
+18-0050,Portage,Crow Wing,Eurasian watermilfoil,2019,
+,Unnamed stream between Crooked (18-0041) and Maple (18-0045),Crow Wing,Eurasian watermilfoil,2019,
+38-0021,Artlip,Lake,zebra mussel,2014,
+,Houghtaling Creek downstream of the mouth of the unnamed creek draining Artlip Lake,Lake,zebra mussel,2014,
+,Unnamed creek between Crooked Lake and Houghtaling Creek,Lake,zebra mussel,2014,
+21-0093,Alvin,Douglas,zebra mussel,2009,
+82-0103,Olson,Washington,Eurasian watermilfoil,2009,
+,Pelican River between Detroit and Sallie,Becker,zebra mussel,2017,
+56-0252,Middle,Otter Tail,zebra mussel,2020,
+56-0370,Jolly Ann,Otter Tail,zebra mussel,2020,
+,Unnamed stream between Eagle (56-0253) to Middle (56-0252) to Jolly Ann (56-0370),Otter Tail,zebra mussel,2020,
+56-0130,Big Pine,Otter Tail,zebra mussel,2020,
+56-0142,Little Pine,Otter Tail,zebra mussel,2020,
+56-0222,Mud,Otter Tail,zebra mussel,2020,
+56-0388,Long,Otter Tail,zebra mussel,2018,
+,Unnamed stream between Long (56038800) and the Otter Tail River ,Otter Tail,zebra mussel,2020,
+,Otter Tail River from Big Pine (56-0130) to Rush (56-0141) ,Otter Tail,zebra mussel,2020,
+,"Unnamed pond north of East Spirit and south of County Road 4 (located in the NE 1/4 of the SW 1/4 of S4, T136N, R41W)",Otter Tail,zebra mussel,2016,
+86-0279,West Sylvia,Wright,zebra mussel,2017,
+26-0030,Turtle,Grant,zebra mussel,2017,
+26-0031,Round,Grant,zebra mussel,2017,
+26-0032,Spring,Grant,zebra mussel,2017,
+38-0784,Newton,Lake,spiny waterflea,2014,
+,Ripple River between Farm Island (01-0159) and Little Pine (01-0176),Aitkin,zebra mussel,2020,
+,Bender Creek from Bender Creek Road downstream to First Crow Wing (29-0086),Hubbard,faucet snail,2019,
+,Fish Trap Creek from Fish Trap Lake to the Long Prairie River,Multiple,zebra mussel,2015,
+77-0163,Juergens,Todd,zebra mussel,2017,
+11-0218,Upper Gull,Cass,zebra mussel,2010,
+11-0220,Bass (or Ray),Cass,zebra mussel,2010,
+11-0221,Spider,Cass,zebra mussel,2010,
+11-0222,Margaret,Cass,zebra mussel,2010,
+11-0786,Green's,Cass,zebra mussel,2010,
+18-0398,Roy,Crow Wing,zebra mussel,2010,
+18-0399,Nisswa,Crow Wing,zebra mussel,2010,
+21-0120,Charley,Douglas,zebra mussel,2014,
+,Unnamed river from the outlet of Irene (21-0076) to Miltona (21-0083),Douglas,zebra mussel,2013,
+,Long Branch Creek from Long (56-0784) to Pelican River and streams from Jewett (56-0877) to Long,Otter Tail,zebra mussel,2018,
+,"Ash River downstream of the northern section line of S8 T68N, R19W",St. Louis,spiny waterflea,2007,
+73-0087,Krays,Stearns,zebra mussel,2017,
+73-0088,Bolfing,Stearns,zebra mussel,2017,
+21-0057,Carlos,Douglas,Eurasian watermilfoil,2012,
+29-0048,Benedict,Hubbard,zebra mussel,2017,
+56-0719,Venstrom,Otter Tail,zebra mussel,2014,
+,Royal River between Little John and North Fowls,Cook,spiny waterflea,2010,
+03-1162,Unnamed,Becker,zebra mussel,2020,
+,Stream connections from Long Lake (03038300) to Pelican River,Becker,zebra mussel,2020,
+56-0876,Reed,Otter Tail,zebra mussel,2018,
+18-0377,Middle Cullen ,Crow Wing,zebra mussel,2018,
+18-0439,Pennington Mine,Crow Wing,zebra mussel,2017,
+18-0440-03,Mahnomen Mine Pit #3,Crow Wing,zebra mussel,2017,
+18-0440-06,Alstead Mine,Crow Wing,zebra mussel,2017,
+18-0440-07,Arco Mine,Crow Wing,zebra mussel,2017,
+21-0089,Long,Douglas,zebra mussel,2014,
+21-0084,Skoglund Slough,Douglas,zebra mussel,2014,
+21-0108,Mina,Douglas,zebra mussel,2014,
+21-0204,Grill,Douglas,zebra mussel,2014,
+21-0440,Unnamed,Douglas,zebra mussel,2014,
+21-0479,Unnamed,Douglas,zebra mussel,2014,
+03-1249,Bucks Mill Pond (Minnow Pond),Becker,zebra mussel,2014,
+,Mille Lacs tributaries from their mouths upstream to the posted boundaries,Multiple,spiny waterflea,2009,
+,Mille Lacs tributaries from their mouths upstream to the posted boundaries,Multiple,zebra mussel,2006,
+,Unnamed river from the outlet of Lake Miltona (21-0083) to Ida (21-0123),Douglas,zebra mussel,2013,
+27-0018,Hiawatha  ,Hennepin,zebra mussel,2010,
+27-0019,Nokomis,Hennepin,zebra mussel,2010,
+27-0041,Edina Mill Pond,Hennepin,zebra mussel,2010,
+27-0054,Meadowbrook,Hennepin,zebra mussel,2010,
+27-0084,Minnehaha Marsh,Hennepin,zebra mussel,2010,
+27-0662,"Unnamed wetland in the NE 1/4 of S20 T117N, R21W",Hennepin,zebra mussel,2010,
+27-0663,"Unnamed wetland in the SW 1/4 of S20, T117N, R21W",Hennepin,zebra mussel,2010,
+27-0715,"Unnamed wetland NW 1/4 of S18 T117N, R21W",Hennepin,zebra mussel,2010,
+27-0716,"Unnamed wetland in the E 1/2 of S13, T117N R22W",Hennepin,zebra mussel,2010,
+27-0720,Unnamed wetland in the SE 1/4 of S11 and NE 1/4 of S14 T117N R22W,Hennepin,zebra mussel,2010,
+27-0721,"Unnamed pond in the NW 1/4 of S14, T117, R22",Hennepin,zebra mussel,2010,
+27-0779,"Unnamed wetland in the NW 1/4 of S19, T117N, R21W",Hennepin,zebra mussel,2010,
+27-0085,Libbs,Hennepin,zebra mussel,2012,
+27-0138,Peavey,Hennepin,zebra mussel,2012,
+27-0139,Forest,Hennepin,zebra mussel,2012,
+27-0141,Tanager,Hennepin,zebra mussel,2012,
+27-0761,Gray's Bay Outlet (wetland),Hennepin,zebra mussel,2010,
+61-0112,Shallow Pond,Pope,zebra mussel,2012,
+61-0231,"Unnamed wetland located in S 9 and 16, T124N, R39W",Pope,zebra mussel,2012,
+61-0420,"Unnamed wetland located in S 20 and 21, T124N, R39W",Pope,zebra mussel,2012,
+61-0422,"Unnamed wetland located in S 16, T124N, R39W",Pope,zebra mussel,2012,
+61-0505,"Unnamed wetland located in S 20, T124N, R39W",Pope,zebra mussel,2012,
+61-0511,Unnamed pond,Pope,zebra mussel,2012,
+,Outlet Creek from Minnewaska to Emily,Pope,zebra mussel,2012,
+05-0012,Little Rock Lake Channel,Benton,zebra mussel,2006,
+05-0013,Little Rock,Benton,zebra mussel,2006,
+18-0133,Miller,Crow Wing,zebra mussel,2006,
+18-0140,Black Bear,Crow Wing,zebra mussel,2006,
+18-0232,Pickerel,Crow Wing,zebra mussel,2006,
+18-0235,Unnamed wetland,Crow Wing,zebra mussel,2006,
+18-0238,Half-Moon,Crow Wing,zebra mussel,2006,
+18-0529,Boom,Crow Wing,zebra mussel,2006,
+86-0183,Fish,Wright,zebra mussel,2006,
+27-0003,"Mississippi River, Pool 1",Multiple,bighead carp,2015,
+27-0003,"Mississippi River, Pool 1",Multiple,silver carp,2015,
+56-0240,Blanche,Otter Tail,zebra mussel,2018,
+56-1126,Unnamed lake,Otter Tail,zebra mussel,2018,
+,Bishop Creek between North Long and Round (also known as Sugar Bush Creek),Crow Wing,zebra mussel,2015,
+34-0206,Andrew ,Kandiyohi,zebra mussel,2018,
+34-0207,Henchien ,Kandiyohi,zebra mussel,2018,
+34-0223,Swan,Kandiyohi,zebra mussel,2018,
+34-0224,Games,Kandiyohi,zebra mussel,2018,
+,Shakopee Creek from Norway (34-0251) to Andrew (34-0206),Kandiyohi,zebra mussel,2018,
+,Elk River downstream from Lake Orono (71-0013) to the Mississippi River,Sherburne,zebra mussel,2020,
+77-0195,Faille,Todd,zebra mussel,2016,
+77-0201,Little Osakis,Todd,zebra mussel,2016,
+,Sauk River from Osakis to Guernsey,Todd,zebra mussel,2016,
+25-0001,Pepin,Multiple,silver carp,2012,
+25-0017,"Mississippi River, Pool 3",Multiple,bighead carp,2012,
+25-0017,"Mississippi River, Pool 3",Multiple,silver carp,2012,
+79-0001,"Mississippi River, Pool 5",Multiple,bighead carp,2012,
+79-0001,"Mississippi River, Pool 5",Multiple,silver carp,2012,
+79-0005,"Mississippi River, Pool 4",Multiple,silver carp,2012,
+85-0001,"Mississippi River, Pool 7",Multiple,bighead carp,2012,
+85-0002,"Mississippi River, Pool 6",Multiple,faucet snail,2016,
+56-0298,Deer,Otter Tail,zebra mussel,2017,
+56-0481,West Lost,Otter Tail,zebra mussel,2017,
+56-0573,East Red River Lake,Otter Tail,zebra mussel,2017,
+56-0711,Red River Lake,Otter Tail,zebra mussel,2017,
+56-0782,Hoot,Otter Tail,zebra mussel,2017,
+,Otter Tail River downstream of Otter Tail Lake to the confluence of the Pelican River,Otter Tail,zebra mussel,2017,
+69-0512,Mud,St. Louis,zebra mussel,2009,
+,Big Fork River from 500 feet upstream of the public water access on Highway 11 downstream to the Rainy River,Koochiching,spiny waterflea,2007,
+,"Black River, the south branch downstream of Highway 11 and the west branch downstream of Highway 147",Koochiching,spiny waterflea,2007,
+,"Little Fork River, from 100 feet upstream of Highway 11 downstream to the Rainy River",Koochiching,spiny waterflea,2007,
+,Baudette River from 500 feet upstream of Highway 11 downstream to the Rainy River ,Lake of the Woods,spiny waterflea,2007,
+,Hooper Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,Johnson Creek from the Rainy River upstream to 500 feet beyond the first road crossing,Lake of the Woods,spiny waterflea,2007,
+,Rapid River from 500 feet upstream of Highway 11 to Clementson Bay of the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,Winter Road River from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,Shotley Brook,Beltrami,zebra mussel,2019,
+,Tamarac River,Beltrami,zebra mussel,2019,
+,"Cullen Brook and Roy Lake outlet stream between Roy (18-0398), Nisswa (18-0399) and Lower Cullen (18-0403)",Crow Wing,zebra mussel,2018,
+31-0834,Bird's Eye,Itasca,zebra mussel,2013,
+31-0876,Rice,Itasca,zebra mussel,2013,
+,Sauk Lake (77-0150) tributaries from their mouths upstream 500 feet or to the posted boundaries,Todd,zebra mussel,2019,
+,Shagawa River between Shagawa Lake and Fall Lake,Multiple,spiny waterflea,2014,
+16-0001,Superior,Multiple,faucet snail,2014,
+47-0046,Washington,Meeker,zebra mussel,2015,
+56-0588,Unnamed,Otter Tail,zebra mussel,2019,
+56-0589,Mineral,Otter Tail,zebra mussel,2019,
+56-0605,Unnamed,Otter Tail,zebra mussel,2019,
+56-1118,Unnamed,Otter Tail,zebra mussel,2019,
+11-0214,Dade,Cass,zebra mussel,2020,
+11-0318,Little Red Sand,Cass,zebra mussel,2020,
+,Ripple River from Bay Lake to Farm Island Lake,Crow Wing,zebra mussel,2020,
+56-0604,North Ten Mile,Otter Tail,zebra mussel,2017,
+03-0595,Nelson,Becker,zebra mussel,2019,
+03-0602,Middle Cormorant,Becker,zebra mussel,2019,
+03-0752,unnamed wetland downstream of Upper Cormorant,Becker,zebra mussel,2019,
+86-0134-02,Mud,Wright,zebra mussel,2019,
+86-0134-03,Maple Northeast,Wright,zebra mussel,2019,
+,Pike River from Pike River Dam at CSAH 77 near Peyla to Vermilion,St. Louis,spiny waterflea,2015,
+,Vermilion River from Vermilion to Crane,St. Louis,spiny waterflea,2015,
+,Carver Creek from Waconia to the Minnesota River,Carver,zebra mussel,2018,
+,Streams from West Battle to Otter Tail,Otter Tail,zebra mussel,2018,
+56-0311,Davies,Otter Tail,zebra mussel,2019,
+56-0327,Indian,Otter Tail,zebra mussel,2019,
+56-0381-01,Amor,Otter Tail,zebra mussel,2019,
+56-0383,Dead,Otter Tail,zebra mussel,2019,
+56-0385,Star,Otter Tail,zebra mussel,2019,
+56-0522,Round,Otter Tail,zebra mussel,2019,
+56-1628,Brown,Otter Tail,zebra mussel,2019,
+,Stream segments between West McDonald (56-0386-02) and Walker (56-0310),Otter Tail,zebra mussel,2019,
+86-0289,East Sylvia,Wright,Eurasian watermilfoil,2008,
+21-0212,Little Chippewa,Douglas,zebra mussel,2017,
+21-0213,Devils,Douglas,zebra mussel,2017,
+21-0214,Redick Swamp,Douglas,zebra mussel,2017,
+21-0264,Stowe,Douglas,zebra mussel,2017,
+18-0261,Big Pine,Crow Wing,zebra mussel,2014,
+18-0268,Loon (Island-Loon),Crow Wing,zebra mussel,2014,
+18-0356,Clamshell,Crow Wing,zebra mussel,2014,
+18-0366,Arrowhead,Crow Wing,zebra mussel,2014,
+31-0817,Egg,Itasca,faucet snail,2009,
+31-0817,Egg,Itasca,zebra mussel,2013,
+31-0818,First River Lake,Itasca,faucet snail,2009,
+31-0818,First River Lake,Itasca,zebra mussel,2013,
+31-0824,Portage,Itasca,zebra mussel,2013,
+31-0850,Little Winnibigoshish,Itasca,faucet snail,2010,
+31-0852,Little Cut Foot,Itasca,faucet snail,2009,
+31-0852,Little Cut Foot,Itasca,zebra mussel,2013,
+31-0857,Cut Foot Sioux,Itasca,zebra mussel,2013,
+31-0923,Rabbits,Itasca,faucet snail,2009,
+31-0923,Rabbits,Itasca,zebra mussel,2013,
+31-0925,Raven,Itasca,faucet snail,2009,
+31-0925,Raven,Itasca,zebra mussel,2013,
+31-0926,Sugar,Itasca,faucet snail,2009,
+31-0926,Sugar,Itasca,zebra mussel,2013,
+,Pigeon River from the Pigeon Dam Lake dam to Winnibigoshish,Itasca,faucet snail,2009,
+,"Ravens Flowage (includes unnamed creek from S3, T146N, R29W to S11, T146N, R29W and Raven Creek downstream of Raven and Rabbit lakes to Lake Winnibigoshish)",Itasca,faucet snail,2009,
+,Third River downstream of Highway 33,Itasca,faucet snail,2009,
+,Pigeon River from the Pigeon Dam Lake dam to Winnibigoshish,Itasca,zebra mussel,2013,
+,"Ravens Flowage (includes unnamed creek from S3, T146N, R29W, to S11, T146N, R29W, and Raven Creek downstream of Raven and
+Rabbit lakes to Lake Winnibigoshish)",Itasca,zebra mussel,2013,
+,Third River downstream of Highway 33,Itasca,zebra mussel,2013,
+,Mississippi River from the Knutson Dam (at the outlet of Cass Lake) downstream to Little Winnibigoshish Lake (31-0850) ,Multiple,zebra mussel,2013,
+,Third River Flowage (part of Lake Winnibigoshish),Itasca,faucet snail,2009,
+,Third River Flowage (part of Lake Winnibigoshish),Itasca,zebra mussel,2013,
+32-0020,Loon,Jackson,bighead carp,2012,
+32-0020,Loon,Jackson,silver carp,2012,
+32-0022,Clear,Jackson,bighead carp,2012,
+32-0022,Clear,Jackson,silver carp,2012,
+32-0023,Spirit,Jackson,bighead carp,2012,
+32-0023,Spirit,Jackson,silver carp,2012,
+32-0024,Little Spirit,Jackson,bighead carp,2012,
+32-0024,Little Spirit,Jackson,silver carp,2012,
+32-0025,Grovers,Jackson,bighead carp,2012,
+32-0025,Grovers,Jackson,silver carp,2012,
+32-0027,Pletz Marsh,Jackson,bighead carp,2012,
+32-0027,Pletz Marsh,Jackson,silver carp,2012,
+32-0031,Rush,Jackson,bighead carp,2012,
+32-0031,Rush,Jackson,silver carp,2012,
+32-0032,Anderson’s Marsh,Jackson,bighead carp,2012,
+32-0032,Anderson’s Marsh,Jackson,silver carp,2012,
+32-0033,Pearl,Jackson,bighead carp,2012,
+32-0033,Pearl,Jackson,silver carp,2012,
+32-0042,Husen Marsh,Jackson,bighead carp,2012,
+32-0042,Husen Marsh,Jackson,silver carp,2012,
+32-0055,Unnamed lake on Little Sioux River,Jackson,bighead carp,2012,
+32-0055,Unnamed lake on Little Sioux River,Jackson,silver carp,2012,
+32-0059,Skunk,Jackson,bighead carp,2012,
+32-0059,Skunk,Jackson,silver carp,2012,
+32-0061,Unnamed lake,Jackson,bighead carp,2012,
+32-0061,Unnamed lake,Jackson,silver carp,2012,
+32-0062,Unnamed lake,Jackson,bighead carp,2012,
+32-0062,Unnamed lake,Jackson,silver carp,2012,
+32-0063,Rush,Jackson,bighead carp,2012,
+32-0063,Rush,Jackson,silver carp,2012,
+32-0069,Round,Jackson,bighead carp,2012,
+32-0069,Round,Jackson,silver carp,2012,
+32-0071,Plum,Jackson,bighead carp,2012,
+32-0071,Plum,Jackson,silver carp,2012,
+32-0072,Illinois,Jackson,bighead carp,2012,
+32-0072,Illinois,Jackson,silver carp,2012,
+32-0093,Unnamed lake,Jackson,bighead carp,2012,
+32-0093,Unnamed lake,Jackson,silver carp,2012,
+32-0096,Unnamed lake on Little Sioux River,Jackson,bighead carp,2012,
+32-0096,Unnamed lake on Little Sioux River,Jackson,silver carp,2012,
+48-0009,Onamia,Mille Lacs,zebra mussel,2007,
+48-0012,Shakopee,Mille Lacs,zebra mussel,2007,
+53-0007,Indian,Nobles,bighead carp,2012,
+53-0007,Indian,Nobles,silver carp,2012,
+62-0062,Charley,Ramsey,zebra mussel,2007,
+73-0071,Lower Watab,Stearns,zebra mussel,2014,
+73-0072,Rossier,Stearns,zebra mussel,2014,
+,"Judicial Ditch No. 35 from S14, T102N, R36W to Rush",Jackson,bighead carp,2012,
+,Judicial Ditch No. 8 between Clear and Loon,Jackson,bighead carp,2012,
+,Judicial ditches connected to designated infested waters in Jackson County,Jackson,bighead carp,2012,
+,Little Sioux River and its tributaries,Jackson,bighead carp,2012,
+,Loon Creek between Loon and Spirit,Jackson,bighead carp,2012,
+,Unnamed creek between Anderson’s Marsh and Pearl,Jackson,bighead carp,2012,
+,Unnamed creek between Pearl and Loon ,Jackson,bighead carp,2012,
+,Unnamed creek between Rush and Anderson’s Marsh,Jackson,bighead carp,2012,
+,West Fork Little Sioux River and its tributaries,Jackson,bighead carp,2012,
+,"Judicial Ditch No. 35 from S14, T102N, R36W to Rush",Jackson,silver carp,2012,
+,Judicial Ditch No. 8 between Clear and Loon,Jackson,silver carp,2012,
+,Judicial ditches connected to designated infested waters in Jackson County,Jackson,silver carp,2012,
+,Little Sioux River and its tributaries,Jackson,silver carp,2012,
+,Loon Creek between Loon and Spirit,Jackson,silver carp,2012,
+,Unnamed creek between Anderson’s Marsh and Pearl,Jackson,silver carp,2012,
+,Unnamed creek between Pearl and Loon ,Jackson,silver carp,2012,
+,Unnamed creek between Rush and Anderson’s Marsh,Jackson,silver carp,2012,
+,West Fork Little Sioux River and its tributaries,Jackson,silver carp,2012,
+,Miller Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,Sensky Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,Silver Creek from 500 feet upstream of Highway 11 to the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,Wabonica Creek from 500 feet upstream of State Highway 172 downstream to the Rainy River,Lake of the Woods,spiny waterflea,2007,
+,St. Louis River downstream of the Cloquet River,Multiple,spiny waterflea,1995,
+,St. Croix River downstream of the dam at Taylors Falls ,Multiple,silver carp,2012,
+,Swift Ditch from 500 feet upstream of Highway 12 downstream to Lake of the Woods,Roseau,spiny waterflea,2011,
+,Warroad River from 500 feet upstream of Highway 11 downstream to Lake of the Woods,Roseau,spiny waterflea,2007,
+,White Pine River,St. Louis,zebra mussel,2009,
+,Watab River from Watab Lake to the Mississippi River,Stearns,zebra mussel,2014,
+,"Unnamed wetland (located  in the NE 1/4 of the NE 1/4 of S33, T135N, R27W)",Crow Wing,zebra mussel,2006,
+,"Unnamed wetland (located  in the NE 1/4 of the SW 1/4 of S3, T135N, R27W)",Crow Wing,zebra mussel,2006,
+,"Unnamed wetland (located in the NE 1/4 of the SE 1/4 of S2, T46N, R30W)",Crow Wing,zebra mussel,2006,
+,"Unnamed wetland (located in the NW 1/4 of the NE 1/4 of S33, T46N, R30W)",Crow Wing,zebra mussel,2006,
+,"Unnamed wetland located  in the NE 1/4 of the SW 1/4  of S2, T46N, R30W)",Crow Wing,zebra mussel,2006,
+,County ditches connected to designated infested waters in Jackson County,Jackson,bighead carp,2012,
+,County ditches connected to designated infested waters in Jackson County,Jackson,silver carp,2012,
+,Pine River from the base of Cross Lake Dam to the confluence with Pelican Brook,Crow Wing,zebra mussel,2014,
+40-0092,Jefferson,Le Sueur,Eurasian watermilfoil,2015,
+40-0092,Swede's Bay (DOW 40-0092-03),Le Sueur,Eurasian watermilfoil,2015,
+40-0092,West Jefferson (DOW 40-0092-02),Le Sueur,Eurasian watermilfoil,2015,
+16-0027,McFarland,Cook,spiny waterflea,2005,
+16-0141,"Caribou (in the Boundary Waters Canoe Area, just west of Pine)",Cook,spiny waterflea,2007,
+19-0064,Unnamed lake,Dakota,flowering rush,2007,
+25-0001,Pepin,Multiple,Eurasian watermilfoil,2012,
+28-0001,"Mississippi River, Pool 9",Multiple,faucet snail,2013,
+28-0005,"Mississippi River, Pool 8",Multiple,faucet snail,2013,
+39-0002,"Lake of the Woods, including the portions of Zipple Bay to Zipple Creek in S9 and S10, T162N, R33W, and to Bostic Creek at County Highway 8",Lake of the Woods,spiny waterflea,2007,
+69-0069,Shagawa,St. Louis,spiny waterflea,2014,
+85-0001,"Mississippi River, Pool 7",Multiple,faucet snail,2013,
+,Pelican River from Detroit to Muskrat,Becker,flowering rush,2007,
+,"Unnamed wetland (located in the NE 1/4 of the NE 1/4 of S33, T31N, R22W)",Anoka,flowering rush,2007,
+01-0176,Little Pine,Aitkin,zebra mussel,2020,
+03-0360,Muskrat,Becker,flowering rush,2007,
+03-0360,Muskrat,Becker,zebra mussel,2017,
+03-0377,Mill (Mill Pond),Becker,zebra mussel,2014,
+03-0382,St. Clair,Becker,zebra mussel,2020,
+03-0386,Little Floyd,Becker,zebra mussel,2018,
+03-0473,Buck,Becker,zebra mussel,2012,

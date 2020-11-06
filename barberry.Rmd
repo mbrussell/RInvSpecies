@@ -1,0 +1,104 @@
+---
+title: "Distribution of common barberry"
+author: "Matt Russell"
+date: "11/6/2020"
+output: html_document
+---
+
+## 1. Loading packages 
+
+We've already installed the **tidyverse** package, so we won't need to install it again. We will need to let R that we want to use it again, so we'll load it with the `library` command:
+
+```{r}
+library(tidyverse)
+```
+
+For this analysis, we will use the **usmap** package for making maps of invasive plant distributions. Remove the hashtag in front of `install.packages()` below to install it, and then load it using `library()`: 
+
+```{r}
+# install.packages("usmap")
+library(usmap)
+```
+
+## 2. Reading in common barberry data from EDDMapS
+
+EDDMapS is a web-based mapping system for documenting invasive species and pest distributions. The platform is managed by the Center for Invasive Species and Ecosystem Health at the University of Georgia and contains data from the entire US and Canada. More information is available here: <https://www.eddmaps.org/about/>
+
+You can download data on invasive species locations at <https://www.eddmaps.org/tools/query/>. The data download from EDDMapS will provide a similar-looking data set for all species. In the example data set we'll use, we'll look at 2,096 observations of common barberry (*Berberis vulgaris* L.).
+
+There are a number of variables provided in the EDDMapS output, but here are the ones we'll primarily use in our analysis:
+
+* `RecOwner`: The owner of the record (e.g., non-profit, state agency, herbarium)
+* `Habitat`: Habitat type where the plant was found (e.g., Roadside/Pipeline/Railroad Habitats)
+* `Latitude`: Latitude coordinate in decimal degrees
+* `Longitude`: Longitude coordinate in decimal degrees
+
+We will read in the `barberry.csv` file using the `read_csv()` function in R. We will store this as a data set in R named `barberry`:
+
+```{r}
+barberry <- read_csv('barberry.csv')
+```
+
+Let's use the `head()` function to get a glimpse of the data and return the first six lines of observations:
+
+```{r}
+head(barberry)
+```
+
+## 3. Visualizing data with ggplot()
+
+The **usmaps** package works well with the **ggplot2** package. Run the code below to get a map of Minnesota counties. You will see that the `geom_polygon()` later adds the state and county boundaries: 
+
+```{r}
+mn_counties <- map_data("county", "minnesota") %>% 
+  select(lon = long, lat, group, id = subregion)
+
+ggplot(mn_counties, aes(lon, lat, group = group)) +
+  geom_polygon(fill = "white", colour = "grey50") + 
+  coord_quickmap()
+```
+
+We can add a point to the map by specifying `geom_point()`. Here is a point added for the coordinates for Duluth, MN, the (somewhat) home of UMISC 2020: 
+
+```{r}
+ggplot(mn_counties, aes(lon, lat, group = group)) +
+  geom_polygon(fill = "white", colour = "grey50") + 
+  geom_point(aes(x = 	-92.100487, y = 46.786671), col = "red", size = 3) +
+  coord_quickmap()
+```
+
+Now, let's make a map of the entire US that shows where common barberry locations have been observed with EDDMapS. Remember the `Longitude` and `Latitude` coordinates are in the `barberry` data set. In this case we can add these coordinates from the `barberry` data set using `geom_point()`:
+
+```{r}
+states <- map_data("state")
+
+ggplot() +
+ geom_polygon(data = states, aes(x = long, y = lat, group = group), 
+              colour = "black", fill = "white" ) + 
+    geom_point(data = barberry, aes(x = Longitude, y = Latitude), col = "blue") +
+  coord_map("conic", lat0 = 30)
+```
+
+You'll notice that many data points are not plotted because they contain missing values (i.e., there is not latitude and longitude for those data). In particular, New York has many observations in the EDDMapS data with missing lat/long coordinates (but information on he town/location is there).   
+
+## Practice problems
+
+**1.** In the `barberry` data, which `RecOwner` (e.g., non-profit, state agency, herbarium, etc.) has made the largest number of observations of common barberry?
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**2.** In the `barberry` data, which `Habitat` (e.g., non-profit, state agency, herbarium, etc.) are common barberry most commonly found?
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+**3.** Make a map of negative reports of common barberry in the US by querying the `Status` variable. First create a new data set using `filter()` with all observations that are negative, e.g., `filter(Status == "Negative")` 
+
+```{r}
+# INSERT YOUR CODE HERE.
+```
+
+

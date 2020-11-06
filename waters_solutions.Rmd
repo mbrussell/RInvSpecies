@@ -1,0 +1,69 @@
+---
+title: "Minnesota DNR infested waters"
+author: "Matt Russell"
+date: "11/6/2020"
+output: html_document
+---
+
+Load the `tidyverse` package and read in the `waters` data set:
+
+```{r}
+library(tidyverse)
+
+waters <- read_csv('infested-waters.csv')
+```
+
+## Practice problems - Solutions
+
+**1.** In which year was the greatest number of new infestations observed in Minnesota waters? Make a bar plot that lists the number of AIS by year.
+
+```{r}
+ggplot(data = waters, aes(YearInfested)) +
+  geom_bar() 
+```
+
+**2.** On the `zm` data set, use the `min()` and `max()` functions to calculate the mean, minimum, and maximum values of the number of years between when the zebra mussel was confirmed in a water body to when it became infested (i.e., the `YearsBetween` variable. For example, to calculate the mean number of years between confirmed and infested, you could write `mean(zm$YearsBetween, na.rm = T)`. The `na.rm = T` is used to remove the missing values from the calculation.
+
+```{r}
+mean(zm$YearsBetween, na.rm = T)
+min(zm$YearsBetween, na.rm = T)
+max(zm$YearsBetween, na.rm = T)
+```
+
+**3.** Filter the `waters` data to obtain a data set with starry stonewort observations from Beltrami County. How many water bodies are infested?
+
+```{r}
+starry <- waters %>% 
+  filter(Species == "starry stonewort" & County == "Beltrami")
+starry
+
+# Six water bodies are infested with starry stonewort in Beltrami County.
+```
+
+**4.** Compile a data set with all Eurasian watermilfoil observations from all counties. Calculate the total number and mean number of years between when Eurasian watermilfoil was confirmed in a water body to when it became infested by each county. (HINT: Eurasian watermilfoil is observed in 39 counties.)
+
+```{r}
+milfoil_county <- waters %>% 
+  filter(Species == "Eurasian watermilfoil") %>% 
+  mutate(YearsBetween = YearInfested - YearConfirmed) %>% 
+  group_by(County) %>% 
+  summarize(num_waters = n(),
+            mean_YearsBetween = mean(YearsBetween, na.rm = T))
+milfoil_county
+```
+
+**5.** Make a box plot using `geom_boxplot()` that shows the mean number of years between when Eurasian watermilfoil was confirmed in a water body to when it became infested by each county
+
+```{r}
+ggplot(data = milfoil_county, aes(mean_YearsBetween)) +
+  geom_boxplot() 
+```
+
+**6.** Make a bar plot using `geom_bar(stat = "identity")` that shows the number of Eurasian watermilfoil-infested waters in each county. Which county has the most infestations of Eurasian watermilfoil?
+
+```{r}
+ggplot(data = milfoil_county, aes(x = num_waters, y = County)) +
+  geom_bar(stat = "identity") 
+
+# Hennepin County has the most infestations of Eurasian watermilfoil.
+```

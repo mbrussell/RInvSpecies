@@ -1,0 +1,58 @@
+---
+title: "Common barberry - Practice problems - Solutions"
+author: "Matt Russell"
+date: "11/6/2020"
+output: html_document
+---
+
+Load the `tidyverse` and `usmaps` packages and read in the `barberry` data set:
+
+```{r}
+library(tidyverse)
+library(usmaps)
+
+barberry <- read_csv('barberry.csv')
+```
+
+## Practice problems
+
+**1.** In the `barberry` data, which `RecOwner` (e.g., non-profit, state agency, herbarium, etc.) has made the largest number of observations of common barberry?
+
+```{r}
+barberry_owner <- barberry %>% 
+  group_by(RecOwner) %>% 
+  summarize(n = n())
+
+barberry_owner
+
+# Herbarium/Literature/Museums have made the largest number of observations of common barberry (n = 973).
+```
+
+**2.** In the `barberry` data, which `Habitat` (e.g., non-profit, state agency, herbarium, etc.) are common barberry most commonly found?
+
+```{r}
+barberry_hab <- barberry %>% 
+  group_by(Habitat) %>% 
+  summarize(n = n())
+
+barberry_hab
+
+# The largest number of observations were for "NA" (n = 1478) and "Other" (n = 155). Roadside/Pipeline/Railroad Habitats had the largest number of observations of common barberry (n = 84).
+```
+
+**3.** Make a map of negative reports of common barberry in the US by querying the `Status` variable. First create a new data set using `filter()` with all observations that are negative, e.g., `filter(Status == "Negative")` 
+
+```{r}
+barberry_neg <- barberry %>% 
+  filter(Status == "Negative")
+
+ggplot() +
+ geom_polygon(data = states, aes(x = long, y = lat, group = group), 
+              colour = "black", fill = "white" ) + 
+    geom_point(data = barberry_neg, aes(x = Longitude, y = Latitude), col = "red") +
+  coord_map("conic", lat0 = 30)
+
+# It looks like there are several negative observations in Minnesota and Massachusetts. 
+```
+
+
