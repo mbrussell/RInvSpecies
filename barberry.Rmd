@@ -13,11 +13,15 @@ We've already installed the **tidyverse** package, so we won't need to install i
 library(tidyverse)
 ```
 
-For this analysis, we will use the **usmap** package for making maps of invasive plant distributions. Remove the hashtag in front of `install.packages()` below to install it, and then load it using `library()`: 
+For this analysis, we will use the **usmap**, **maps**, and **mapproj**  packages for making maps of invasive plant distributions. Remove the hashtag in front of `install.packages()` below to install then, and then load them using `library()`: 
 
 ```{r}
 # install.packages("usmap")
+# install.packages("maps")
+# install.packages("mapproj")
 library(usmap)
+library(maps)
+library(mapproj)
 ```
 
 ## 2. Reading in common barberry data from EDDMapS

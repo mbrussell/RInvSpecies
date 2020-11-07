@@ -5,11 +5,13 @@ date: "11/6/2020"
 output: html_document
 ---
 
-Load the `tidyverse` and `usmaps` packages and read in the `barberry` data set:
+Load the **tidyvers**, **usmap**, **maps**, and **mapproj** packages and read in the `barberry` data set:
 
 ```{r}
 library(tidyverse)
-library(usmaps)
+library(usmap)
+library(maps)
+library(mapproj)
 
 barberry <- read_csv('barberry.csv')
 ```
